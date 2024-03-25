@@ -1,12 +1,12 @@
 # Chemical Engineer | Data Scientist | Research Scientist
 
-:e-mail: Email: carol.mergulhao10@gmail.com
+:e-mail: carol.mergulhao10@gmail.com
 
-CMK10.github.io/portfolio
+:link: CMK10.github.io/portfolio
 
-LinkedIn: www.linkedin.com/in/carolina-mergulhao-körber
+:briefcase: www.linkedin.com/in/carolina-mergulhao-körber
 
-ResearchGate: www.researchgate.net/profile/Carolina-Mergulhao-Koerber
+:microscope: www.researchgate.net/profile/Carolina-Mergulhao-Koerber
 
 ### Projects
 
