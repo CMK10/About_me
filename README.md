@@ -13,6 +13,7 @@ CMK10.github.io/portfolio
 ### Education
 
 Energy: Heat Transfers and Combustion, PhD
+
 Chemical Engineering, BSc
 
 ### Work Experience
