@@ -10,13 +10,14 @@ CMK10.github.io/portfolio
 
 ## Computer Skills
 
-## Languages
+## Languages 
 
-- English: ██████████░░░░░░░░ 90%
-- German: ████████████████████░░░░░░░░ 80%
-- French: ██████████████████████████████████████████ 80%
-- Portuguese: ██████████████████████████████████████████ 100%
-- Spanish: ██████████████████████░░░░░░░░░░░░░░░ 50%
+- English: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 90%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;"></div></div> 90%
+- German: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 80%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;"></div></div> 80%
+- French: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 80%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;"></div></div> 80%
+- Portuguese: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 100%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;"></div></div> 100%
+- Spanish: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 50%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;
+
 
 ## Education
 
