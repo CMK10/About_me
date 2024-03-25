@@ -8,15 +8,17 @@ CMK10.github.io/portfolio
 
 :microscope: www.researchgate.net/profile/Carolina-Mergulhao-Koerber
 
-## Projects
+## Computer Skills
+
+## Languages
 
 ## Education
 
 ### Energy: Heat Transfers and Combustion, PhD
 
-Université de Lille
+[Université de Lille](https://www.univ-lille.fr)
 
-*Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (In English)
+*Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (English)
 
 Advisor: GuillaumeVanhove
 
@@ -29,12 +31,16 @@ https://www.theses.fr/25582274X
 
 Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
 
-*Experimental study of soot formation in laminar flames of hydrocarbons and air.* (In Portuguese)
+*Experimental study of soot formation in laminar flames of hydrocarbons and air.* (Portuguese)
 
 Advisor: Luis Fernando Figueira da Silva
 
 Defended on July 7, 2016
 
+## Projects
+
 ## Work Experience
+
+## Collaborations & Contracts
 
 
