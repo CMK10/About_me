@@ -18,11 +18,9 @@ CMK10.github.io/portfolio
 
 [Université de Lille](https://www.univ-lille.fr)
 
-*Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (English)
+*Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (English, defended on December 14, 2020)
 
 Advisor: GuillaumeVanhove
-
-Defended on December 14, 2020
 
 https://www.theses.fr/25582274X
 
@@ -31,11 +29,10 @@ https://www.theses.fr/25582274X
 
 [Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)
 
-*Experimental study of soot formation in laminar flames of hydrocarbons and air.* (Portuguese)
+*Experimental study of soot formation in laminar flames of hydrocarbons and air.* (Portuguese,defended on July 7, 2016)
 
 Advisor: Luis Fernando Figueira da Silva
 
-Defended on July 7, 2016
 
 ## Projects
 
