@@ -12,15 +12,11 @@ CMK10.github.io/portfolio
 
 ## Languages
 
-| Row 1, Col 1 | Row 1, Col 2| Data 1     | Data 2     |
-| Row 2, Col 1 | Row 2, Col 2| Data 3     | Data 4     |
-
-
-English *Professional competence*
-German *Professional competence*
-French *Professional competence*
-Portuguese *Native Language*
-Spanish *Good knowledge*
+- English: *Professional competence*
+- German: *Professional competence*
+- French: *Professional competence*
+- Portuguese: *Native Language*
+- Spanish: *Good knowledge*
 
 ## Education
 
