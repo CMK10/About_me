@@ -29,7 +29,7 @@ https://www.theses.fr/25582274X
 
 ### Chemical Engineering, BSc
 
-Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
+[Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)
 
 *Experimental study of soot formation in laminar flames of hydrocarbons and air.* (Portuguese)
 
