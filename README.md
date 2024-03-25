@@ -19,7 +19,7 @@ CMK10.github.io/portfolio
 [Université de Lille](https://www.univ-lille.fr)
 
 *Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (English)
-Defended on December 14, 2020
+      Defended on December 14, 2020
 
 Advisor: GuillaumeVanhove
 
