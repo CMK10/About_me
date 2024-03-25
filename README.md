@@ -1,7 +1,5 @@
 # Chemical Engineer | Data Scientist | Research Scientist
 
-CMK10.github.io/portfolio
-
 :e-mail: carol.mergulhao10@gmail.com
 
 :briefcase: www.linkedin.com/in/carolina-mergulhao-körber
@@ -10,13 +8,19 @@ CMK10.github.io/portfolio
 
 ## Computer Skills
 
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy), Plotly/Dash
+- Matlab, C++, SQL
+- GitHub/git, Cantera, Origin, MS Office
+
 ## Languages 
 
-- English: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 90%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;"></div></div> 90%
-- German: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 80%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;"></div></div> 80%
-- French: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 80%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;"></div></div> 80%
-- Portuguese: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 100%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;"></div></div> 100%
-- Spanish: <div style="background-color: #D9EDF7; border-radius: 5px; height: 20px; width: 50%;"><div style="background-color: #5BC0DE; border-radius: 5px; height: 100%;
+| Language    | Proficiency       |
+|-------------|-------------------|
+| English :gb:     | ████████████████░░░░░░░░░░░░░░░░░░░░░ 90%   |
+| German :de:      | ██████████████████████████████████████ 80%  |
+| French :fr:      | ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 80%   |
+| Portuguese 🇧🇷    | ██████████████████████████████████████ 100%  |
+| Spanish :es:     | ████████████████████████████████░░░░░░ 50%   |
 
 
 ## Education
@@ -26,11 +30,11 @@ CMK10.github.io/portfolio
 [Université de Lille](https://www.univ-lille.fr)
 
 *Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (English)
-
+<br>
 Defended on December 14, 2020
-
+<br>
 Advisor: GuillaumeVanhove
-
+<br>
 https://www.theses.fr/25582274X
 
 
@@ -39,9 +43,9 @@ https://www.theses.fr/25582274X
 [Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)
 
 *Experimental study of soot formation in laminar flames of hydrocarbons and air.* (Portuguese)
-
+<br>
 Defended on July 7, 2016
-
+<br>
 Advisor: Luis Fernando Figueira da Silva
 
 
