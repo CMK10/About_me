@@ -12,7 +12,7 @@ CMK10.github.io/portfolio
 
 ## Education
 
-**<font size="5">Energy: Heat Transfers and Combustion, PhD**
+**<font size="10">Energy: Heat Transfers and Combustion, PhD**
 
 Université de Lille
 
@@ -25,7 +25,7 @@ Defended on December 14, 2020
 https://www.theses.fr/25582274X
 
 
-**<font size="5">Chemical Engineering, BSc**
+**<font size="10">Chemical Engineering, BSc**
 
 Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
 
