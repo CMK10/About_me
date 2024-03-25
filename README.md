@@ -8,9 +8,9 @@ CMK10.github.io/portfolio
 
 :microscope: www.researchgate.net/profile/Carolina-Mergulhao-Koerber
 
-### Projects
+## Projects
 
-### Education
+## Education
 
 **Energy: Heat Transfers and Combustion, PhD**
 
@@ -35,6 +35,6 @@ FP Advisor: Luis Fernando Figueira da Silva
 
 Defended on July 7, 2016
 
-### Work Experience
+## Work Experience
 
 
