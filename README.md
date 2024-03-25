@@ -12,11 +12,20 @@ CMK10.github.io/portfolio
 
 ## Languages
 
-- English: *Professional competence*
-- German: *Professional competence*
-- French: *Professional competence*
-- Portuguese: *Native Language*
-- Spanish: *Good knowledge*
+### English
+█████████████████████░░░░░░░░░░░░░░ 90%
+
+### German
+█████████████████████░░░░░░░░░░░░░░ 80%
+
+### French
+█████████████████████░░░░░░░░░░░░░░ 80%
+
+### Portuguese
+█████████████████████████████████████ 100%
+
+### Spanish
+█████████████████████░░░░░░░░░░░░░░ 50%
 
 ## Education
 
