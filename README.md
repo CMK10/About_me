@@ -1,6 +1,6 @@
 # Chemical Engineer | Data Scientist | Research Scientist
 
-:link: CMK10.github.io/portfolio
+CMK10.github.io/portfolio
 
 :e-mail: carol.mergulhao10@gmail.com
 
@@ -11,6 +11,9 @@
 ### Projects
 
 ### Education
+
+Energy: Heat Transfers and Combustion, PhD
+Chemical Engineering, BSc
 
 ### Work Experience
 
