@@ -12,7 +12,7 @@ CMK10.github.io/portfolio
 
 ## Education
 
-**<font size="10">Energy: Heat Transfers and Combustion, PhD**
+<font size="10">Energy: Heat Transfers and Combustion, PhD
 
 Université de Lille
 
