@@ -55,4 +55,20 @@ Advisor: Luis Fernando Figueira da Silva
 
 ## Collaborations & Contracts
 
+- ADEME / Hauts-de-France Region, 2017, France    
+  *Experimental Study of the Combustion Kinetics of Biofuels from Lignocellulosic Biomass at High Pressures*  
+  Project coordinator: Guillaume Vanhove  
+  Budget: 60 k€
+
+
+- PIBIC / CNPq, 2015, Brazil  
+  *Study of Soot Formation in Turbulent Combustion Processes*  
+  Project coordinator: Luis Fernando Figueira da Silva  
+  Budget: 16 k€
+ 
+- FAPERJ / Petrobras, 2013, Brazil  
+  *Determination of Trace Elements in Crude Oil by Inductively Coupled Plasma Mass Spectrometry (ICP-MS)*  
+  Project coordinator: Tatiana Dillenburg Saint’Pierre  
+  Budget: 15 k€
+
 
