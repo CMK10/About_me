@@ -29,10 +29,9 @@
 <a href="https://www.univ-lille.fr">
     <img src="images/universite_de_lille_logo.jpeg" alt="Logo" width="30" height="30" style="float:left; margin-right:10px;" />
 </a>
-
 [Université de Lille](https://www.univ-lille.fr)  
 <br>
-*Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (English)
+*Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (En)
 <br>
 Defended on December 14, 2020
 <br>
@@ -43,7 +42,7 @@ https://www.theses.fr/25582274X
 
 ###  B.Sc., Chemical Engineering  
 [Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)  
-*Experimental study of soot formation in laminar flames of hydrocarbons and air.* (Portuguese)
+*Experimental study of soot formation in laminar flames of hydrocarbons and air.* (Pt)
 <br>
 Defended on July 7, 2016
 <br>
