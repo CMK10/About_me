@@ -26,7 +26,12 @@
 ## Education
 
 ### Ph.D., Energy: Heat Transfers and Combustion  
+<a href="https://www.univ-lille.fr">
+    <img src="images/universite_de_lille_logo.jpeg" alt="Logo" width="30" height="30" style="float:left; margin-right:10px;" />
+</a>
+
 [Université de Lille](https://www.univ-lille.fr)  
+<br>
 *Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (English)
 <br>
 Defended on December 14, 2020
