@@ -25,10 +25,8 @@
 
 ## Education
 
-### Energy: Heat Transfers and Combustion, PhD
-
-[Université de Lille](https://www.univ-lille.fr)
-
+### Ph.D., Energy: Heat Transfers and Combustion  
+[Université de Lille](https://www.univ-lille.fr)  
 *Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.* (English)
 <br>
 Defended on December 14, 2020
@@ -38,10 +36,8 @@ Advisor: GuillaumeVanhove
 https://www.theses.fr/25582274X
 
 
-### Chemical Engineering, BSc
-
-[Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)
-
+###  B.Sc., Chemical Engineering  
+[Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)  
 *Experimental study of soot formation in laminar flames of hydrocarbons and air.* (Portuguese)
 <br>
 Defended on July 7, 2016
