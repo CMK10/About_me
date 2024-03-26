@@ -29,7 +29,7 @@
 
 <div style="text-align: center;">
     <a href="https://www.univ-lille.fr">
-        <img src="images/universite_de_lille_logo.jpeg" alt="Logo" width="100" height="100" style="display: inline-block; margin-right: 10px;" />
+        <img src="images/universite_de_lille_logo.jpeg" alt="Logo" width="30" height="30" style="display: inline-block; margin-right: 10px;" />
     </a>
     <a href="https://www.univ-lille.fr" style="display: inline-block; vertical-align: middle;">Université de Lille</a>
 </div>
