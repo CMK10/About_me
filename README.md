@@ -27,21 +27,19 @@
 
 ### Ph.D., Energy: Heat Transfers and Combustion  
 
-<div style="text-align: center;">
-    <a href="https://www.univ-lille.fr">
-        <img src="images/universite_de_lille_logo.jpeg" alt="Logo" width="30" height="30" style="display: inline-block; margin-right: 10px;" />
-    </a>
-    <a href="https://www.univ-lille.fr" style="display: inline-block; vertical-align: middle;">Université de Lille</a>
-</div>
-
-[Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.](https://www.theses.fr/25582274X) (En)  
-Defended on December 14, 2020  
+[Université de Lille](https://www.univ-lille.fr)
+<br>
+[Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.](https://www.theses.fr/25582274X) (En)
+<br>
+Defended on December 14, 2020
+<br>
 Advisor: Guillaume Vanhove
+<br>
 
 ###  B.Sc., Chemical Engineering  
 
-![Logo](/images/puc_rio_logo.jpeg) [Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)  
-
+[Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)  
+<br>
 Experimental study of soot formation in laminar flames of hydrocarbons and air. (Pt)
 <br>
 Defended on July 7, 2016
