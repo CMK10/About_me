@@ -27,14 +27,16 @@
 
 ### Ph.D., Energy: Heat Transfers and Combustion  
 
-![Logo](/images/universite_de_lille_logo.jpeg) [Université de Lille](https://www.univ-lille.fr)
+<div style="text-align: center;">
+    <a href="https://www.univ-lille.fr">
+        <img src="images/universite_de_lille_logo.jpeg" alt="Logo" width="100" height="100" style="display: inline-block; margin-right: 10px;" />
+    </a>
+    <a href="https://www.univ-lille.fr" style="display: inline-block; vertical-align: middle;">Université de Lille</a>
+</div>
 
-[Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.](https://www.theses.fr/25582274X) (En)
-<br>
-Defended on December 14, 2020
-<br>
+[Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.](https://www.theses.fr/25582274X) (En)  
+Defended on December 14, 2020  
 Advisor: Guillaume Vanhove
-<br>
 
 ###  B.Sc., Chemical Engineering  
 
