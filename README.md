@@ -36,7 +36,7 @@ Advisor: Guillaume Vanhove
 
 ###  B.Sc., Chemical Engineering (2016)  
 [Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)  
-Experimental study of soot formation in laminar flames of hydrocarbons and air. 
+[Experimental study of soot formation in laminar flames of hydrocarbons and air.](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
 <br>
 Advisor: Luis Fernando Figueira da Silva
 
