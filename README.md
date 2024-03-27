@@ -1,4 +1,4 @@
-# Chemical Engineer | Data Scientist | Research Scientist
+#  Carolina Mergulhão Körber  <span style="font-size: 14px;">Chemical Engineer | Data Scientist | Research Scientist
 
 :e-mail: carol.mergulhao10@gmail.com
 
@@ -51,6 +51,8 @@ Advisor: Luis Fernando Figueira da Silva
 
 ### Publications in Peer-reviewed Journals
 1. **Carolina S. Mergulhão**, Yann Fenard, Goutham Kukkadapu, Scott W. Wagnon, Guillaume Vanhove (2022). Investigating the kinetic effect of prenol on iso-octane auto-ignition by means of an experimental and modeling study. Fuel, 328. [doi:10.1016/j.fuel.2022.12522](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)
+
+2. **Carolina S. Mergulhão**, Hans-Heinrich Carstensen, Hwasup Song, Scott W. Wagnon, William J. Pitz, Guillaume Vanhove (2021). Probing the antiknock effect of anisole through an ignition, speciation and modeling study of its blends with isooctane.Proceedings of the Combustion Institute, 38, 739– 748. [doi:10.1016/j.proci.2020.08.013](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)
 
 ### Conferences with Proceedings and Full-text Selection Committees 
 
