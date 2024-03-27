@@ -28,7 +28,7 @@
 ## Education
 
 ### Ph.D., Energy: Heat Transfers and Combustion  
-[Université de Lille](https://www.univ-lille.fr)
+[Université de Lille](https://www.univ-lille.fr) 
 [Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass.](https://www.theses.fr/25582274X) (2020)
 <br>
 Advisor: Guillaume Vanhove
