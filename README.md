@@ -47,6 +47,20 @@ Advisor: Luis Fernando Figueira da Silva
 
 ## Work Experience
 
+## List of Publications
+
+### Publications in Peer-reviewed Journals 
+
+### Conferences with Proceedings and Full-text Selection Committees 
+
+### Oral Presentations
+
+### Posters
+
+### Reports
+
+
+
 ## Collaborations & Contracts
 
 - ADEME / Hauts-de-France Region, 2017, France    
