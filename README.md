@@ -1,11 +1,11 @@
 # Carolina Mergulhão Körber
 
-<div style="font-weight: bold; color: gray;">Chemical Engineer | Data Scientist | Research Scientist</div>
+**Chemical Engineer | Data Scientist | Research Scientist**
 
 :e-mail: carol.mergulhao10@gmail.com
-
+<br>
 :briefcase: www.linkedin.com/in/carolina-mergulhao-körber
-
+<br>
 :microscope: www.researchgate.net/profile/Carolina-Mergulhao-Koerber
 
 ## Computer Skills
