@@ -16,9 +16,9 @@
 
 ## Languages 
 
-* Professional Competence: :gb: English, :de: German, :fr: French
-* Native Speaker: 🇧🇷 Portuguese
-* Good Knowledge: :es: Spanish
+* **Professional Competence**: :gb: English, :de: German, :fr: French
+* **Native Speaker**: 🇧🇷 Portuguese
+* **Good Knowledge**: :es: Spanish
 
 ## Education
 
