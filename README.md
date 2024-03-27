@@ -49,7 +49,8 @@ Advisor: Luis Fernando Figueira da Silva
 
 ## List of Publications
 
-### Publications in Peer-reviewed Journals 
+### Publications in Peer-reviewed Journals
+1. **Carolina S. Mergulhão**, Yann Fenard, Goutham Kukkadapu, Scott W. Wagnon, Guillaume Vanhove (2022). Investigating the kinetic effect of prenol on iso-octane auto-ignition by means of an experimental and modeling study. Fuel, 328. [doi:10.1016/j.fuel.2022.12522](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)
 
 ### Conferences with Proceedings and Full-text Selection Committees 
 
