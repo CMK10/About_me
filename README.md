@@ -16,13 +16,12 @@
 
 ## Languages 
 
-| Language         | Proficiency                |
-|------------------|----------------------------|
-| English :gb:     | *Professional competence*  |
-| German :de:      | *Professional competence*  |
-| French :fr:      | *Professional competence*  |
-| Portuguese 🇧🇷    | *Native speaker*           |
-| Spanish :es:     | *Good knowledge*           |
+| Language        | Proficiency              | Language        | Proficiency              |
+|-----------------|--------------------------|-----------------|--------------------------|
+| English :gb:    | *Professional competence*| Portuguese 🇧🇷 | *Native speaker*         |
+| German :de:     | *Professional competence*| Spanish :es:    | *Good knowledge*         |
+| French :fr:     | *Professional competence*|                 |                          |
+
 
 
 ## Education
