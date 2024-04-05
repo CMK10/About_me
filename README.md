@@ -1,6 +1,6 @@
 # Carolina Mergulhão Körber
 
-**Chemical Engineer | Data Scientist | Research Scientist**
+**Data Scientist | Research Scientist | Chemical Engineer**
 
 :e-mail: carol.mergulhao10@gmail.com
 <br>
@@ -11,7 +11,7 @@
 ## Computer Skills
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy), Plotly/Dash
-- Matlab, C++, SQL
+- Matlab, SQL, C++
 - GitHub/git, Cantera, Origin, MS Office
 
 ## Languages 
@@ -43,7 +43,16 @@
 
 2. **Carolina S. Mergulhão**, Hans-Heinrich Carstensen, Hwasup Song, Scott W. Wagnon, William J. Pitz, Guillaume Vanhove (2021). Probing the antiknock effect of anisole through an ignition, speciation and modeling study of its blends with isooctane.Proceedings of the Combustion Institute, 38, 739– 748. [doi:10.1016/j.proci.2020.08.013](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)
 
+3. **Carolina S. Mergulhão**, Yann Fenard and Guillaume Vanhove (2021). Is ortho-Cresol a Viable Lignocellulosic Blendstock? A Kinetic Study of Its Co-Oxidation within a Surrogate Fuel. Energies, 14, 7105. [doi:10.3390/en14217105](https://www.mdpi.com/1996-1073/14/21/7105)
+
+4. S. Tipler, **C.S. Mergulhão**, G. Vanhove, Q. Van Haute, F. Contino, and A. Coussement (2019). Ignition Study of an Oxygenated and High-Alkene Light Petroleum Fraction Produced from Automotive Shredder Residues. Energy Fuels, 33, 6, 5664–5672. [doi:10.1021/acs.energyfuels.9b00649](https://pubs.acs.org/doi/10.1021/acs.energyfuels.9b00649)
+
+5. Yann Fenard, Hwasup Song, Heiko Minwegen, Prajakta Parab, **Carolina Sampaio Mergulhão**, Guillaume Vanhove, Karl-Alexander Heufer (2019). 2,5-Dimethyltetrahydrofuran combustion: Ignition delay times at high and low temperatures, speciation measurements and detailed kinetic modeling. Combustion and Flame, 203, 341–351. [doi:10.1016/j.combustflame.2019.02.022](https://www.sciencedirect.com/science/article/abs/pii/S0010218019300860?via%3Dihub)
+
 ### Conferences with Proceedings and Full-text Selection Committees 
+1. **Carolina Mergulhão**, H. Song, Guillaume Vanhove (2019). Experimental Study of the autoignition of isooctane/anisole mixtures at low to intermediate temperatures. In [9th European Combustion Meeting](https://ecm2019lisbon.wixsite.com/ecm2019) April 14th -17th, Lisbon, Portugal.
+
+2. Luís Fernando Figueira da Silva, **Carolina Sampaio Mergulhão**, Letícia Piton (2017). Experimental study of a lean premixed turbulent swirling flame stabilization. In [24th ABCM International Congress of Mechanical Engineering](https://eventos.abcm.org.br/cobem2017/) December 3rd-8th, Curitiba, PR, Brazil.
 
 ### Oral Presentations
 
