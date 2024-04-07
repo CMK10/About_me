@@ -59,17 +59,17 @@
 ### Posters
 1. **C. Mergulhão** (2019). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. In [Journées Doctorants IREPSE.](https://irepse.univ-lille.fr/detail-actualite/test-3) October 3rd, Lille, France. (In French)
 
-2. **Carolina Mergulhão**, H. Song, Guillaume Vanhove (2019). Experimental Study of the autoignition of isooctane/anisole mixtures at low to intermediate temperatures.In 9th European Combustion Meeting. April 14th -17th, Lisbon, Portugal
+2. **Carolina Mergulhão**, H. Song, Guillaume Vanhove (2019). Experimental Study of the autoignition of isooctane/anisole mixtures at low to intermediate temperatures.In [9th European Combustion Meeting.](https://ecm2019lisbon.wixsite.com/ecm2019) April 14th -17th, Lisbon, Portugal
 
-3. **C. Mergulhão** (2019). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. In Journées Doctorants ADEME. March 12th-13th, Angers, France. (In French)
+3. **C. Mergulhão** (2019). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. In [Journées Doctorants ADEME.](https://theses.ademe.fr/journées-doctorants-ademe) March 12th-13th, Angers, France. (In French)
 
-4. **C. Mergulhão** (2018). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. In Journées Doctorants ADEME. March 15th-16th, Sophia Antipolis, France. (In French)
+4. **C. Mergulhão** (2018). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. In [Journées Doctorants ADEME.](https://theses.ademe.fr/journées-doctorants-ademe) March 15th-16th, Sophia Antipolis, France. (In French)
 
-5. **C. Mergulhão**, L. F. Figueira da Silva, L. Piton (2017). Experimental study of a lean premixed turbulent swirling flame stabilization. In VI Escola de combustão. August 7th-8th, Foz do Iguaçu, PR, Brazil.
+5. **C. Mergulhão**, L. F. Figueira da Silva, L. Piton (2017). Experimental study of a lean premixed turbulent swirling flame stabilization. In [VI Escola de combustão.](http://www.redenacionaldecombustao.org) August 7th-8th, Foz do Iguaçu, PR, Brazil.
 
-6. **Carolina S. Mergulhão**, Luís Fernando Figueira da Silva (2016). Experimental Study of Soot Formation in Hydrocarbon/Air Flames. In XXIV Seminário de Iniciação Científica e Tecnológica da PUC-Rio. September 20th-23th, Rio de Janeiro, RJ, Brazil. (In Portuguese)
+6. **Carolina S. Mergulhão**, Luís Fernando Figueira da Silva (2016). Experimental Study of Soot Formation in Hydrocarbon/Air Flames. In [XXIV Seminário de Iniciação Científica e Tecnológica da PUC-Rio.](https://www.puc-rio.br/ensinopesq/ccpg/pibic/relatorio_resumo2016/res_ccs_ser.html) September 20th-23th, Rio de Janeiro, RJ, Brazil. (In Portuguese)
 
-7. **Carolina S. Mergulhão**, Christiane B. Duyck, Tatiana D. Saint’Pierre (2013). Determination of trace elements in crude oil by inductively coupled plasma mass spectrometry (ICP-MS). In 36th Reunião Annual da Sociedade Brasileira de Química. May 25th-28th, Águas de Lindóia, SP, Brazil. (In Portuguese)
+7. **Carolina S. Mergulhão**, Christiane B. Duyck, Tatiana D. Saint’Pierre (2013). Determination of trace elements in crude oil by inductively coupled plasma mass spectrometry (ICP-MS). In [36th Reunião Annual da Sociedade Brasileira de Química.](https://www.sbq.org.br/36ra/) May 25th-28th, Águas de Lindóia, SP, Brazil. (In Portuguese)
 
 ### Reports
 
