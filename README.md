@@ -55,6 +55,11 @@
 2. Luís Fernando Figueira da Silva, **Carolina Sampaio Mergulhão**, Letícia Piton (2017). Experimental study of a lean premixed turbulent swirling flame stabilization. In [24th ABCM International Congress of Mechanical Engineering](https://eventos.abcm.org.br/cobem2017/) December 3rd-8th, Curitiba, PR, Brazil.
 
 ### Oral Presentations
+1. **Carolina S. Mergulhão** (2020). Identifying potential lignocellulosic octane boosters through co- oxidation studies with isooctane. In [Low Carbon Combustion Meeting.](https://www.combustioninstitute.org/ci-event/low-carbon-combustion-joint-meeting-of-the-french-and-british-sections-of-the-combustion-institute/) November 5th-6th, Online.
+
+2. **Carolina S. Mergulhão** (2019). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. In [Journées Doctorants ADEME.](https://theses.ademe.fr/journées-doctorants-ademe) March 12th-13th, Angers, France. (In French)
+
+3. **Carolina S. Mergulhão** (2019). Autoignition of anisole within a gasoline surrogate. In [Journée François Lacas.](https://combustioninstitute.fr/index.php?option=com_docman&view=download&alias=374-programme-jdd-f-lacas-201&category_slug=journees-doctorants&Itemid=190) January 21th, Gif-sur-Yvette, France. (In French)
 
 ### Posters
 1. **C. Mergulhão** (2019). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. In [Journées Doctorants IREPSE.](https://irepse.univ-lille.fr/detail-actualite/test-3) October 3rd, Lille, France. (In French)
