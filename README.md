@@ -77,8 +77,15 @@
 7. **Carolina S. Mergulhão**, Christiane B. Duyck, Tatiana D. Saint’Pierre (2013). Determination of trace elements in crude oil by inductively coupled plasma mass spectrometry (ICP-MS). In [36th Reunião Annual da Sociedade Brasileira de Química.](https://www.sbq.org.br/36ra/) May 25th-28th, Águas de Lindóia, SP, Brazil. (In Portuguese)
 
 ### Reports
+1. Carolina S. Mergulhão, Guillaume Vanhove (2019). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. Rapport intermédiaire ADEME 2.
 
+2. Carolina S. Mergulhão, Guillaume Vanhove (2018). Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass. Rapport intermédiaire ADEME 1. (In French)
 
+3. Carolina S. Mergulhão, L. F. Figueira da Silva, (2016). Experimental Study of Soot Formation in Hydrocarbon/Air Flames. PIBIC report. (In Portuguese)
+
+4. Carolina S. Mergulhão, José A. Cavalcanti, Luiz F. Lastres (2014). Automotive lubricants and special products. Petrobras internship report. (In Portuguese)
+
+5. Carolina S. Mergulhão, Tatiana D. Saint’Pierre, Christiane B. Duyck (2013). Organometallic characterization of Brazilian crude oils. FAPERJ report. (In Portuguese)
 
 ## Collaborations & Contracts
 
