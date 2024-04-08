@@ -59,7 +59,7 @@ _Petrobras, RJ, Brazil_
 * Development of automotive, aviation, maritime, and industrial lubricants, and their characterization through rheological analyses.
 
 **Research Scientist (01/2013 - 01/2014)**  
-_Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro(FAPERJ) - Government agency , RJ, Brazil_      
+_Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro(FAPERJ) - Government agency, RJ, Brazil_      
 _Atomic Spectrometry Laboratory, PUC-Rio, RJ, Brazil_    
 * Experimental study of the organometallic characterization of Brazilian oils through trace elements determination via Inductively Coupled Plasma Mass Spectrometry (ICP-MS) in crude oil fractions.
 
