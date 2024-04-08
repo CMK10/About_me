@@ -45,7 +45,7 @@ StudyOn / VHS / Euroschule / DMB S.R.L, Germany
 
 **Research Scientist (10/2017 - 12/2020)**  
 Agency for Ecological Transition (ADEME) - Government agency, Lille, France  
-Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A) UMR 8522, Lille, France  
+Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A), Lille, France  
 * Experimental and modeling study of the combustion kinetics of biofuels.
 
 **Research Scientist (09/2015 - 09/2017)**  
