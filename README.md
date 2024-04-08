@@ -37,32 +37,37 @@
 ## Work Experience
 **Secondary School Teacher (12/2022 - 04/2023)**  
 Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany  
-  
+
 * Teaching experience as a substitute teacher at the German secondary level (grades 5 to 10) in science and chemistry, with a weekly commitment of 25.5 hours.
 
-* **Intensive German Courses (03/2021 - 02/2023)**  
+**Intensive German Courses (03/2021 - 02/2023)**  
 StudyOn / VHS / Euroschule / DMB S.R.L, Germany  
-_Dedication to learning the German language with an average weekly commitment of 25 hours._
 
-* **Research Scientist (10/2017 - 12/2020)**  
+* Dedication to learning the German language with an average weekly commitment of 25 hours.
+
+**Research Scientist (10/2017 - 12/2020)**  
 Agency for Ecological Transition (ADEME) - Government agency, Lille, France  
 Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A) UMR 8522, Lille, France  
-_Experimental and modeling study of the combustion kinetics of biofuels._
 
-* **Research Scientist (09/2015 - 09/2017)**  
+* Experimental and modeling study of the combustion kinetics of biofuels.
+
+**Research Scientist (09/2015 - 09/2017)**  
 National Council for Scientific and Technological Development (CNPq) - Government agency , Rio de Janeiro, Brazil    
-Combustion and Turbulence Laboratory, Rio de Janeiro, Brazil    
-_Phase 1 : _Experimental study of soot formation in laminar hydrocarbon and air flames.__   
-_Phase 2 : Experimental study of the stabilization of turbulent flames in lean mixtures._
+Combustion and Turbulence Laboratory, Rio de Janeiro, Brazil  
 
-* **R&D Engineer (01/2014 - 01/2015)**  
+* Phase 1 : _Experimental study of soot formation in laminar hydrocarbon and air flames.  
+* Phase 2 : Experimental study of the stabilization of turbulent flames in lean mixtures.
+
+**R&D Engineer (01/2014 - 01/2015)**  
 Petrobras, Cenpes Research Center, Rio de Janeiro, Brazil
-_Development of automotive, aviation, maritime, and industrial lubricants, and their characterization through rheological analyses._
 
-* **Research Scientist (01/2013 - 01/2014)**  
+* Development of automotive, aviation, maritime, and industrial lubricants, and their characterization through rheological analyses.
+
+**Research Scientist (01/2013 - 01/2014)**  
 Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro(FAPERJ) - Government agency , Rio de Janeiro, Brazil    
 Atomic Spectrometry Laboratory, PUC-Rio, Rio de Janeiro, Brazil  
-_Experimental study of the organometallic characterization of Brazilian oils through trace elements determination via Inductively Coupled Plasma Mass Spectrometry (ICP-MS) in crude oil fractions._
+
+* Experimental study of the organometallic characterization of Brazilian oils through trace elements determination via Inductively Coupled Plasma Mass Spectrometry (ICP-MS) in crude oil fractions.
 
 ## List of Publications
 
