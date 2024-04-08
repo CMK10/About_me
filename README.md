@@ -51,7 +51,7 @@ Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC
 **Research Scientist (09/2015 - 09/2017)**  
 National Council for Scientific and Technological Development (CNPq) - Government agency , Rio de Janeiro, Brazil    
 Combustion and Turbulence Laboratory, PUC-Rio, RJ, Brazil  
-* Phase 1 : _Experimental study of soot formation in laminar hydrocarbon and air flames.  
+* Phase 1 : Experimental study of soot formation in laminar hydrocarbon and air flames.  
 * Phase 2 : Experimental study of the stabilization of turbulent flames in lean mixtures.
 
 **R&D Engineer (01/2014 - 01/2015)**  
