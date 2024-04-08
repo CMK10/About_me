@@ -49,7 +49,7 @@ _Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (P
 * Experimental and modeling study of the combustion kinetics of biofuels.
 
 **Research Scientist (09/2015 - 09/2017)**  
-_National Council for Scientific and Technological Development (CNPq) - Government agency , Rio de Janeiro, Brazil_      
+_National Council for Scientific and Technological Development (CNPq) - Government agency , RJ, Brazil_      
 _Combustion and Turbulence Laboratory, PUC-Rio, RJ, Brazil_    
 * Phase 1 : Experimental study of soot formation in laminar hydrocarbon and air flames.  
 * Phase 2 : Experimental study of the stabilization of turbulent flames in lean mixtures.
