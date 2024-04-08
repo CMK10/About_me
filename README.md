@@ -35,9 +35,10 @@
 ## Projects
 
 ## Work Experience
-* **Secondary School Teacher (12/2022 - 04/2023)**  
+**Secondary School Teacher (12/2022 - 04/2023)**  
 Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany  
-_Teaching experience as a substitute teacher at the German secondary level (grades 5 to 10) in science and chemistry, with a weekly commitment of 25.5 hours._
+  
+* Teaching experience as a substitute teacher at the German secondary level (grades 5 to 10) in science and chemistry, with a weekly commitment of 25.5 hours.
 
 * **Intensive German Courses (03/2021 - 02/2023)**  
 StudyOn / VHS / Euroschule / DMB S.R.L, Germany  
