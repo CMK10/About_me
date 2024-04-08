@@ -60,7 +60,7 @@ _Development of automotive, aviation, maritime, and industrial lubricants, and t
 
 * **Research Scientist (01/2013 - 01/2014)**  
 Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro(FAPERJ) - Government agency , Rio de Janeiro, Brazil    
-Atomic Spectrometry Laboratory, PUC-Rio, Rio de Janeiro, Brazil
+Atomic Spectrometry Laboratory, PUC-Rio, Rio de Janeiro, Brazil  
 _Experimental study of the organometallic characterization of Brazilian oils through trace elements determination via Inductively Coupled Plasma Mass Spectrometry (ICP-MS) in crude oil fractions._
 
 ## List of Publications
