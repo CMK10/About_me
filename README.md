@@ -55,7 +55,7 @@ Combustion and Turbulence Laboratory, RJ, Brazil
 * Phase 2 : Experimental study of the stabilization of turbulent flames in lean mixtures.
 
 **R&D Engineer (01/2014 - 01/2015)**  
-Petrobras, Cenpes Research Center, RJ, Brazil
+Petrobras, RJ, Brazil
 * Development of automotive, aviation, maritime, and industrial lubricants, and their characterization through rheological analyses.
 
 **Research Scientist (01/2013 - 01/2014)**  
