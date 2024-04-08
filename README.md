@@ -50,12 +50,12 @@ Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC
 
 **Research Scientist (09/2015 - 09/2017)**  
 National Council for Scientific and Technological Development (CNPq) - Government agency , Rio de Janeiro, Brazil    
-Combustion and Turbulence Laboratory, Rio de Janeiro, Brazil  
+Combustion and Turbulence Laboratory, RJ, Brazil  
 * Phase 1 : _Experimental study of soot formation in laminar hydrocarbon and air flames.  
 * Phase 2 : Experimental study of the stabilization of turbulent flames in lean mixtures.
 
 **R&D Engineer (01/2014 - 01/2015)**  
-Petrobras, Cenpes Research Center, Rio de Janeiro, Brazil
+Petrobras, Cenpes Research Center, RJ, Brazil
 * Development of automotive, aviation, maritime, and industrial lubricants, and their characterization through rheological analyses.
 
 **Research Scientist (01/2013 - 01/2014)**  
