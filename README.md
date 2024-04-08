@@ -63,10 +63,6 @@ Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro(FAPERJ) - Governmen
 Atomic Spectrometry Laboratory, PUC-Rio, Rio de Janeiro, Brazil
 _Experimental study of the organometallic characterization of Brazilian oils through trace elements determination via Inductively Coupled Plasma Mass Spectrometry (ICP-MS) in crude oil fractions._
 
-* **Laboratory Tutor (03/2013 - 07/2013)**  
-Inorganic Chemistry Laboratory, PUC-Rio, Rio de Janeiro, Brazil
-_Teaching experience within the inorganic chemistry laboratory at PUC-Rio, with a weekly commitment of 3.0 hours._
-
 ## List of Publications
 
 ### Publications in Peer-reviewed Journals
