@@ -35,14 +35,6 @@
 ## Projects
 
 ## Work Experience
-**Secondary School Teacher (12/2022 - 04/2023)**  
-_Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany_
-* Teaching experience as a substitute teacher at the German secondary level (grades 5 to 10) in science and chemistry, with a weekly commitment of 25.5 hours
-
-**Intensive German Courses (03/2021 - 02/2023)**  
-_StudyOn / VHS / Euroschule / DMB S.R.L, Germany_    
-* Dedication to learning the German language with an average weekly commitment of 25 hours
-
 **Research Scientist (10/2017 - 12/2020)**  
 _Agency for Ecological Transition (ADEME) - Government agency, Lille, France_    
 _Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A), Lille, France_    
