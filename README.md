@@ -24,7 +24,7 @@
 
 **Ph.D., Energy: Heat Transfers and Combustion (2020)**  
 [Université de Lille](https://www.univ-lille.fr)   
-[Experimental study at high-pressure combustion kinetics of biofuels derived from lignocellulosic biomass](https://www.theses.fr/25582274X) 
+[Experimental and kinetic modeling study on the reactivity of biofuels derived from lignocellulosic biomass at engine relevant conditions](https://www.theses.fr/25582274X) 
 <br>
 
 **B.Sc., Chemical Engineering (2016)**    
