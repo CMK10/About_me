@@ -2,15 +2,7 @@
 
 <font size="5"><b>Chemical Engineer | Data Scientist | Research Scientist</b></font>
 
-**Bioproducts** (Biofuels, Biolubricants)
-<br> 
-**Analytical Chemistry** (Gas Chromatography, Mass Spectrometry) 
-<br>
-**Kinetic Modeling** 
-<br>
-**Data Analysis**
-<br> 
-**Consulting** (Government, Academia, Industry) 
+Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • Consulting
 
 
 :e-mail: carol.mergulhao10@gmail.com
