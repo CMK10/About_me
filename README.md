@@ -1,6 +1,6 @@
 # Carolina Mergulhão Körber
 
-<font size="4"><b>Chemical Engineer | Data Scientist | Research Scientist</b></font>
+<font size="5"><b>Chemical Engineer | Data Scientist | Research Scientist</b></font>
 
 **Bioproducts** (Biofuels, Biolubricants)
 <br> 
