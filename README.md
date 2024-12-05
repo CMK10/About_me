@@ -1,6 +1,6 @@
 # Carolina Mergulhão Körber
 
-**Chemical Engineer | Data Scientist | Research Scientist |**
+**Chemical Engineer | Data Scientist | Research Scientist**
 
 :e-mail: carol.mergulhao10@gmail.com
 <br>
