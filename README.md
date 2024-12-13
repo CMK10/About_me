@@ -38,23 +38,23 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 ## Projects
 
 ## Work Experience
-**Research Scientist (10/2017 - 12/2020)**  
+**Research Scientist | 10/2017 - 12/2020**  
 _Agency for Ecological Transition (ADEME) - Government agency, Lille, France_    
 _Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A), Lille, France_    
 * Experimental and modeling study of the combustion kinetics of biofuels
 
-**Research Scientist (09/2015 - 09/2017)**  
+**Research Scientist | 09/2015 - 09/2017**  
 _National Council for Scientific and Technological Development (CNPq) - Government agency, RJ, Brazil_      
 _Combustion and Turbulence Laboratory, PUC-Rio, RJ, Brazil_    
 * Phase 1 : Experimental study of soot formation in laminar hydrocarbon and air flames  
 * Phase 2 : Experimental study of the stabilization of turbulent flames in lean mixtures
 
-**R&D Engineer (01/2014 - 01/2015)**  
+**R&D Engineer | 01/2014 - 01/2015**  
 _Petrobras, RJ, Brazil_  
 * Conducted data collection, processing, and analysis for development of automotive, aviation, maritime, and industrial lubricants
 * Characterization  of lubricants through rheological analyses
 
-**Research Scientist (01/2013 - 01/2014)**  
+**Research Scientist | 01/2013 - 01/2014**  
 _Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro(FAPERJ) - Government agency, RJ, Brazil_      
 _Atomic Spectrometry Laboratory, PUC-Rio, RJ, Brazil_    
 * Experimental study of the organometallic characterization of Brazilian oils through trace elements determination via Inductively Coupled Plasma Mass Spectrometry (ICP-MS) in crude oil fractions
