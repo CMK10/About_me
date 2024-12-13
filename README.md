@@ -39,30 +39,29 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 
 ## Work Experience
 
-| **Research Scientist**  | 10/2017 - 12/2020 |
-|--------------------------|-------------------|
-| _Agency for Ecological Transition (ADEME) - Government agency, Lille, France_ | |
-| _Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A), Lille, France_ | |
-| * Led experimental and modeling research on the combustion kinetics of biofuels | |
+| **Role**                 | Dates               |
+|--------------------------|---------------------|
+| **Research Scientist**    | 10/2017 - 12/2020   |
+| _Agency for Ecological Transition (ADEME) - Government agency, Lille, France_  |                     |
+| _Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A), Lille, France_ |                     |
+| * Led experimental and modeling research on the combustion kinetics of biofuels |                     |
+|                          |                     |
+| **Research Scientist**    | 09/2015 - 09/2017   |
+| _National Council for Scientific and Technological Development (CNPq) - Government agency, RJ, Brazil_ |                     |
+| _Combustion and Turbulence Laboratory, PUC-Rio, RJ, Brazil_  |                     |
+| * Explored soot formation mechanisms in laminar hydrocarbon and air flames (Phase 1) |                     |
+| * Researched stabilization processes in turbulent flames under lean mixture conditions (Phase 2) |                     |
+|                          |                     |
+| **R&D Engineer**          | 01/2014 - 01/2015   |
+| _Petrobras, RJ, Brazil_   |                     |
+| * Performed data collection, processing, and analysis for the development of automotive, aviation, maritime, and industrial lubricants |                     |
+| * Characterized lubricants through rheological analyses |                     |
+|                          |                     |
+| **Research Scientist**    | 01/2013 - 01/2014   |
+| _Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ) - Government agency, RJ, Brazil_  |                     |
+| _Atomic Spectrometry Laboratory, PUC-Rio, RJ, Brazil_  |                     |
+| * Investigated the organometallic properties of Brazilian oils using Inductively Coupled Plasma Mass Spectrometry (ICP-MS) to determine trace elements in crude oil fractions |                     |
 
-| **Research Scientist**  | 09/2015 - 09/2017 |
-|--------------------------|-------------------|
-| _National Council for Scientific and Technological Development (CNPq) - Government agency, RJ, Brazil_ | |
-| _Combustion and Turbulence Laboratory, PUC-Rio, RJ, Brazil_ | |
-| * Explored soot formation mechanisms in laminar hydrocarbon and air flames (Phase 1) | |
-| * Researched stabilization processes in turbulent flames under lean mixture conditions (Phase 2) | |
-
-| **R&D Engineer**         | 01/2014 - 01/2015 |
-|--------------------------|-------------------|
-| _Petrobras, RJ, Brazil_ | |
-| * Performed data collection, processing, and analysis for the development of automotive, aviation, maritime, and industrial lubricants | |
-| * Characterized lubricants through rheological analyses | |
-
-| **Research Scientist**   | 01/2013 - 01/2014 |
-|--------------------------|-------------------|
-| _Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ) - Government agency, RJ, Brazil_ | |
-| _Atomic Spectrometry Laboratory, PUC-Rio, RJ, Brazil_ | |
-| * Investigated the organometallic properties of Brazilian oils using Inductively Coupled Plasma Mass Spectrometry (ICP-MS) to determine trace elements in crude oil fractions | |
 
 ## List of Publications
 
