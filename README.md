@@ -39,6 +39,20 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 
 ## Work Experience
 
+**Data Science Trainee**  
+*2023*  
+*neuefische GmbH, Remote, Germany*  
+* Gained extensive experience in data science methodologies, including machine learning, data analysis, and visualization  
+* Collaborated with teams to develop data-driven projects, focusing on the application of Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, SQL, TensorFlow, Keras, UNIX, and Git  
+* Applied advanced statistical and machine learning techniques to solve real-world data challenges  
+
+**Secondary School Teacher**  
+*2022 - 2023*  
+*Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany*  
+* Worked as a teacher, delivering science and chemistry lessons to secondary school students (grades 5 to 10)  
+* Managed classroom activities and ensured student engagement with a weekly commitment of 25.5 hours  
+* Developed and executed lesson plans, supporting academic growth in science subjects  
+
 **Research Scientist**  
 *10/2017 - 12/2020*  
 *Agency for Ecological Transition (ADEME) - Government agency, Lille, France*  
