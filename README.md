@@ -39,6 +39,12 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 
 ## Work Experience
 
+**Career Break - German Language Improvement**  
+*2024*  
+*Dormagen, Germany*  
+* Dedicated time to intensive German studies to enhance language proficiency  
+* Took a career break to focus on family, health, and well-being 
+
 **Data Science Trainee**  
 *2023*  
 *neuefische GmbH, Remote, Germany*  
