@@ -45,7 +45,7 @@ Developed a biofuel benchmark to assess the potential of biofuels derived from l
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <div style="text-align: center;">
         <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;"/>
-        <p><b>Figure:</b> Comparison of the evolution of ignition delays of all surrogates studied</p>
+        <p><b></b> Comparison of the evolution of ignition delays of all surrogates studied</p>
     </div>
 </div>
 
