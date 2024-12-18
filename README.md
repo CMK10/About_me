@@ -15,7 +15,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy), Plotly/Dash
 - Matlab, SQL, C++
-- GitHub/git, Cantera, Origin, MS Office
+- GitHub/git, Cantera
 
 ## Languages 
 
