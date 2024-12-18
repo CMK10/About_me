@@ -51,6 +51,11 @@ Developed a biofuel benchmark to assess the potential of biofuels derived from l
 
 In this research project, funded by the CNPq (National Council for Scientific and Technological Development), institution affiliated with the Brazilian Ministry of Science, Technology, and Innovation, I investigated the mechanisms of soot formation in hydrocarbon flames to address the environmental and health impacts of combustion-generated particulates. Collaboratively, I contributed to the design and construction of a specialized experimental setup using a Gülder burner for non-premixed flames of ethylene and Liquefied Petroleum Gas (LPG). This setup enabled the quantification of soot volumetric fractions using laser diagnostic techniques. Additionally, I utilized MATLAB for image data post-treatment, visualization and interpretation of experimental results. The study revealed complex relationships between fuel flow rates, flame positions, and soot production, with higher flow rates significantly increasing soot formation. These findings were validated against existing literature and provided valuable insights into the processes of pyrolysis, polycyclic aromatic hydrocarbon (PAH) formation, and particle aggregation in soot development. This work not only enhanced my expertise in combustion thermodynamics, optical diagnostics, and computational analysis but also highlighted the importance of mitigating the environmental impacts of soot to promote cleaner and more sustainable combustion practices. The results of this research were published as part of my chemical engineering final project.
 
+<p align="center">
+    <img src="/images/gulder burner.png">
+</p>
+<p align="center"><b></b> Gülder burner and experimental bench.</p>
+
 ## Work Experience
 
 **Career Break - German Language Improvement**  
