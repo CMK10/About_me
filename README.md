@@ -45,7 +45,7 @@ Developed a biofuel benchmark to assess the potential of biofuels derived from l
 <p align="center">
     <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;">
 </p>
-<p align="center"><b></b> Comparison of the evolution of ignition delays of all surrogates studied</p>
+<p align="center"><b></b> Comparison of the evolution of ignition delays of all surrogates studied.</p>
 
 ### Soot Formation in Laminar Flames 
 
