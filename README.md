@@ -40,7 +40,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 ### Combustion Kinetics of Biofuels 
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)
 
-Developed a biofuel benchmark to assess the potential of biofuels derived from lignocellulosic biomass (LDC) to improve the decarbonization of the transportation sector. The work involved experimental analysis and modeling of biofuels' combustion kinetics and their co-oxidation with conventional fuels like gasoline. Co-funded by ADEME (the French Agency for Ecological Transition) and the Hauts-de-France region, it aimed to establish a standard for evaluating renewable biofuels and identify viable alternatives for integration into existing engine technologies, advancing sustainable energy solutions.
+Developed a biofuel benchmark to assess the potential of biofuels derived from lignocellulosic biomass (LDC) to improve the decarbonization of the transportation sector. The work involved experimental analysis and modeling of biofuels' combustion kinetics and their co-oxidation with conventional fuels like gasoline. Co-funded by ADEME (the French Agency for Ecological Transition) and the Hauts-de-France region, it aimed to evaluate the viability of new biofuels and identify alternatives for integration into existing engine technologies, advancing sustainable energy solutions.
 
 ![Comparison of the evolution of ignition delays of all surrogates studied](/images/PHD%20CSM%202020.png)
 
