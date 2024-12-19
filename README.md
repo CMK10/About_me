@@ -87,7 +87,7 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 <br> <!-- Adiciona um espaço entre o texto e a imagem -->
 
 <p align="center">
-    <img src="/images/petrobras.jpeg" style="width: 40%;">
+    <img src="/images/petrobras.jpeg" style="width: 30%;">
 </p>
 <p align="center"><b>PETROBRAS</b></p>
 
