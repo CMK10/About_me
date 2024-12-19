@@ -14,8 +14,13 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 ## Technical Skills
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy), Plotly/Dash
-- Matlab, SQL, C++
 - GitHub/git, Cantera
+- Matlab
+
+- Lab Management, Technical Documentation, Regulatory Compliance
+- Industrial Research and Innovation
+- Design of Experiments
+- Gas Chromatography (GC-MS, FID/TCD), Statistics, Kinetic Modeling
 
 ## Languages 
 
