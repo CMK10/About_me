@@ -2,7 +2,7 @@
 
 <font size="5"><b>Chemical Engineer | Research & Data Scientist</b></font>
 
-Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • Consulting
+Analytical Chemistry • Bioproducts • Kinetic Modeling • Data Analysis • Energy and Combustion Processes
 
 
 :e-mail: carol.mergulhao10@gmail.com
