@@ -37,7 +37,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 
 ## Projects
 
-### Combustion Kinetics of Biofuels 
+### Chemical Kinetics of Biofuel Combustion
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)
 
 <p style="text-align: justify;">
