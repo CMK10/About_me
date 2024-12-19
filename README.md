@@ -73,6 +73,7 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 <p align="center"><b>Gülder burner and experimental bench.</b></p>
 
 ### Stabilization of Turbulent Methane Flames
+[Publication](https://www.researchgate.net/publication/323209516_Experimental_Study_of_a_Lean_Premixed_Turbulent_Swirling_Flame_Stabilization)
 
 <br> <!-- Adiciona um espaço entre o texto e a imagem -->
 
@@ -83,7 +84,8 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 
 ### Development of Lubricants and Bioproducts 
 
-### Organometallic Characterization of Brazilian Oils 
+### Organometallic Characterization of Brazilian Oils
+[Publication](https://www.researchgate.net/publication/356287489_Determinacao_elementar_via_ICP-MS_em_fracoes_de_oleo_cru) 
 
 <br> <!-- Adiciona um espaço entre o texto e a imagem -->
 
