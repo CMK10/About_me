@@ -19,8 +19,8 @@ Analytical Chemistry • Bioproducts • Kinetic Modeling • Data Analysis • 
 - Matlab  
 
 ### Laboratory and Industrial Expertise  
-- Lab Management, Technical Documentation, Regulatory Compliance  
-- Industrial Research and Innovation  
+- Lab Management, Technical Documentation 
+- Industrial Research and Innovation, Regulatory Compliance   
 - Design of Experiments  
 - Gas Chromatography (GC-MS, FID/TCD), Statistics, Kinetic Modeling  
 
