@@ -100,13 +100,13 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 * Explored soot formation mechanisms in laminar hydrocarbon and air flames (Phase 1)  
 * Researched stabilization processes in turbulent flames under lean mixture conditions (Phase 2)  
 
-**R&D Engineer**  
+**R&D Engineer (Internship)**  
 *01/2014 - 01/2015*  
 *Petrobras, RJ, Brazil*  
 * Performed data collection, processing, and analysis for the development of automotive, aviation, maritime, and industrial lubricants  
 * Characterized lubricants through rheological analyses  
 
-**Research Scientist**  
+**Research Scientist (Internship)**  
 *01/2013 - 01/2014*  
 *Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ) - Government agency, RJ, Brazil*  
 *Atomic Spectrometry Laboratory, PUC-Rio, RJ, Brazil*  
