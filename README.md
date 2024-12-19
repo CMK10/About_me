@@ -101,7 +101,7 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 </p>
 <p align="center"><b>Etioporphyrin present in petroleum.</b></p>
 
-## Work Experience
+## Experience
 
 **Career Break - German Language Improvement**  
 *2024*  
