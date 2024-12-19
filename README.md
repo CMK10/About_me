@@ -49,7 +49,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 <p align="center">
     <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;">
 </p>
-<p align="center"><b>Comparison of the reactivity of the studied surrogates</b></p>
+<p align="center"><b>Comparison of the reactivity of the studied surrogates.</b></p>
 
 ### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
@@ -63,7 +63,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 <p align="center">
     <img src="/images/gulder burner.png" style="width: 60%;">
 </p>
-<p align="center"><b>Gülder burner and experimental bench</b></p>
+<p align="center"><b>Gülder burner and experimental bench.</b></p>
 
 ### Stabilization of Turbulent Methane Flames
 
@@ -72,11 +72,18 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 <p align="center">
     <img src="/images/methane flames.png" style="width: 40%;">
 </p>
-<p align="center"><b>Pan-spectral camera images showing mixture equivalence ratio variations at a fixed methane flow rate, for two confinement area ratios</b></p>
+<p align="center"><b>Pan-spectral camera images showing mixture equivalence ratio variations at a fixed methane flow rate, for two confinement area ratios.</b></p>
 
 ### Development of Lubricants and Bioproducts 
 
 ### Organometallic Characterization of Brazilian Oils 
+
+<br> <!-- Adiciona um espaço entre o texto e a imagem -->
+
+<p align="center">
+    <img src="/images/etioporfirinas.png" style="width: 40%;">
+</p>
+<p align="center"><b>Etioporphyrin present in petroleum.</b></p>
 
 ## Work Experience
 
