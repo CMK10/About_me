@@ -89,7 +89,7 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 <p align="center">
     <img src="/images/petrobras.jpeg" style="width: 40%;">
 </p>
-<p align="center"><b>PETROBRAS.</b></p>
+<p align="center"><b>PETROBRAS</b></p>
 
 ### Organometallic Characterization of Brazilian Oils
 [Publication](https://www.researchgate.net/publication/356287489_Determinacao_elementar_via_ICP-MS_em_fracoes_de_oleo_cru) 
