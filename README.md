@@ -49,7 +49,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 <p align="center">
     <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;">
 </p>
-<p align="center"><b>Comparison of the evolution of ignition delays of all surrogates studied</b></p>
+<p align="center"><b>Comparison of the reactivity of the studied surrogates</b></p>
 
 ### Soot Formation in Laminar Flames 
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
