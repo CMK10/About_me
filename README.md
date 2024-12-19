@@ -95,10 +95,9 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 
 **Data Science Trainee**  
 *2023*  
-*neuefische GmbH, Remote, Germany*  
-* Gained extensive experience in data science methodologies, including machine learning, data analysis, and visualization  
+*neuefische GmbH, Remote, Germany*   
 * Collaborated with teams to develop data-driven projects, focusing on the application of Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, SQL, TensorFlow, Keras, UNIX, and Git  
-* Applied advanced statistical and machine learning techniques to solve real-world data challenges  
+* Applied advanced statistical, machine learning techniques,data analysis, and visualization to solve real-world data challenges  
 
 **Secondary School Teacher**  
 *2022 - 2023*  
