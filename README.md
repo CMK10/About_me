@@ -51,7 +51,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 </p>
 <p align="center"><b>Comparison of the reactivity of the studied surrogates</b></p>
 
-### Soot Formation in Laminar Flames 
+### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
 
 <p style="text-align: justify;">
