@@ -106,7 +106,7 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 **Career Break - German Language Improvement**  
 *2024*  
 *Dormagen, Germany*  
-* Dedicated time to intensive German studies to enhance language proficiency  
+* Focused on improving German language skills 
 * Took a career break to focus on family, health, and well-being 
 
 **Data Science Trainee**  
