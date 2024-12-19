@@ -49,7 +49,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 <p align="center">
     <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;">
 </p>
-<p align="center"><b>Comparison of the evolution of ignition delays of all surrogates studied.</b></p>
+<p align="center"><b>Comparison of the evolution of ignition delays of all surrogates studied</b></p>
 
 ### Soot Formation in Laminar Flames 
 
@@ -62,7 +62,7 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 <p align="center">
     <img src="/images/gulder burner.png" style="width: 60%;">
 </p>
-<p align="center"><b>Gülder burner and experimental bench.</b></p>
+<p align="center"><b>Gülder burner and experimental bench</b></p>
 
 ## Work Experience
 
