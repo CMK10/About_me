@@ -65,6 +65,19 @@ Bioproducts • Analytical Chemistry • Kinetic Modeling • Data Analysis • 
 </p>
 <p align="center"><b>Gülder burner and experimental bench</b></p>
 
+### Stabilization of Turbulent Methane Flames
+
+<br> <!-- Adiciona um espaço entre o texto e a imagem -->
+
+<p align="center">
+    <img src="/images/methane flames.png" style="width: 60%;">
+</p>
+<p align="center"><b>Pan-spectral camera images showing mixture equivalence ratio variations at a fixed methane flow rate, for two confinement area ratios</b></p>
+
+### Development of Lubricants and Bioproducts 
+
+### Organometallic Characterization of Brazilian Oils 
+
 ## Work Experience
 
 **Career Break - German Language Improvement**  
