@@ -120,7 +120,7 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 *Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany*  
 * Worked as a teacher, delivering science and chemistry lessons to secondary school students (grades 5 to 10)  
 * Managed classroom activities and ensured student engagement with a weekly commitment of 25.5 hours  
-* Developed and executed lesson plans, supporting academic growth  
+* Developed and executed lesson plans and lab activities, supporting academic growth 
 
 **Research Scientist**  
 *10/2017 - 12/2020*  
