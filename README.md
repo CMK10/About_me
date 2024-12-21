@@ -115,10 +115,6 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 * Collaborated with teams to develop data-driven projects, focusing on the application of Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, SQL, TensorFlow, Keras, UNIX, and Git  
 * Applied advanced statistical, machine learning techniques, data analysis, and visualization to solve real-world data challenges  
 
-*neuefische GmbH, Remote, Germany*   
-* Collaborated with teams to develop data-driven projects, focusing on the application of Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, SQL, TensorFlow, Keras, UNIX, and Git  
-* Applied advanced statistical, machine learning techniques, data analysis, and visualization to solve real-world data challenges  
-
 **Secondary School Teacher**  
 *2022 - 2023*  
 *Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany*  
