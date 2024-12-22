@@ -109,9 +109,7 @@ Analytical Chemistry • Data Analysis • Kinetic Modeling • Bioproducts • 
 * Focused on improving German language skills 
 * Family, health, and well-being 
 
-*Dormagen, Germany*  
-* Focused on improving German language skills 
-* Family, health, and well-being 
+
 
 **Data Science Trainee**  
 *2023*  
