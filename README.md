@@ -128,7 +128,9 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 *10/2017 - 12/2020*  
 *Agency for Ecological Transition (ADEME) - Government agency, Lille, France*  
 *Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A), Lille, France*  
-* Led experimental and modeling research on the combustion kinetics of biofuels  
+* Conducted research focused on pollutant formation and the efficiency-based formulation of fuels and biofuels
+* Development of kinetic models associated with autoignition and combustion in engines
+* Responsible for troubleshooting processes, optimizing operations, conducting data gathering, and analytical tasks
 
 **Research Scientist**  
 *09/2015 - 09/2017*  
