@@ -102,7 +102,6 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 <p align="center"><b>Etioporphyrin present in petroleum.</b></p>
 
 ## Experience
-## Experience
 
 **Career Break**  
 *2024*  
