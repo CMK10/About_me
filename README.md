@@ -56,7 +56,8 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 <p align="center">
     <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;">
 </p>
-<p align="center"><b>Comparison of the reactivity of the studied surrogates.</b></p>
+<p align="center"><b>Comparison of the evolution of first stage ignition delays (open symbols) and total ignition delays (full symbols) of all surrogates studied) with temperature, at pC = 20 bar (Mergulhão, Ph.D. Thesis, 2020).
+</b></p>
 
 ### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
@@ -70,7 +71,7 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 <p align="center">
     <img src="/images/gulder burner.png" style="width: 60%;">
 </p>
-<p align="center"><b>Gülder burner and experimental bench.</b></p>
+<p align="center"><b>Gülder burner (left) and experimental bench (right) (adapted from Mergulhão et al., PFE, 2016).</b></p>
 
 ### Stabilization of Turbulent Methane Flames
 [Publication](https://www.researchgate.net/publication/323209516_Experimental_Study_of_a_Lean_Premixed_Turbulent_Swirling_Flame_Stabilization)
@@ -94,7 +95,7 @@ The study of blow-off limits identified the crucial role played by the confineme
 <p align="center">
     <img src="/images/methane flames.png" style="width: 40%;">
 </p>
-<p align="center"><b>Pan-spectral camera images showing mixture equivalence ratio variations at a fixed methane flow rate, for two confinement area ratios.</b></p>
+<p align="center"><b>Images from the pan-spectral camera as a function of the mixture equivalence ratio for a given methane volumetric flow rate, for two different confinement area ratios (adapted from Figueira da Silva et al., 24th ABCM, 2017).</b></p>
 
 The experimental protocol described here can also be modified to study other phenomena or conditions, allowing for a deeper understanding of turbulent combustion processes and expanding the applicability of this setup to other areas of combustion technology research and development.
 
