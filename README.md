@@ -81,7 +81,7 @@ Premixed turbulent combustion technologies often involve swirl-stabilized combus
 <br> <!-- Adiciona um espaço entre o texto e a imagem -->
 
 <p align="center">
-    <img src="//images/bestflame.png" style="width: 40%;">
+    <img src="/images/best flame.png" style="width: 40%;">
 </p>
 <p align="center"><b>Configurations of swirl device (left) and assembly of burner, swirl device, cooling plate, and confinement (right) (adapted from Figueira da Silva et al., 24th ABCM, 2017).</b></p>
 
