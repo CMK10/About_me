@@ -131,7 +131,7 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 * Conducted research focused on pollutant formation and the efficiency-based formulation of fuels and biofuels
 * Developed kinetic models associated with autoignition and combustion in engines
 * Responsible for troubleshooting processes, optimizing operations, conducting data gathering, and analytical tasks
-* Results communication to industrial, government and academic collaborators through the publication of scientific articles, presentations, reports and conferences.
+* Results communication to industrial, government and academic collaborators through the publication of scientific articles, presentations, reports and conferences
 
 **Research Scientist**  
 *09/2015 - 09/2017*  
