@@ -56,7 +56,7 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 <p align="center">
     <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;">
 </p>
-<p align="center"><b>Comparison of the evolution of first stage ignition delays (open symbols) and total ignition delays (full symbols) of all surrogates studied) with temperature, at pC = 20 bar (Mergulhão, Ph.D. Thesis, 2020).
+<p align="center"><b>Comparison of the evolution of first stage ignition delays (open symbols) and total ignition delays (full symbols) of all surrogates studied) with temperature, at pC = 20 bar (Mergulhão, PhD Thesis, 2020).
 </b></p>
 
 ### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
