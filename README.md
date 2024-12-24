@@ -122,12 +122,22 @@ This internship enriched my understanding of the formulation and quality control
 ### Organometallic Characterization of Brazilian Oils
 [Publication](https://www.researchgate.net/publication/356287489_Determinacao_elementar_via_ICP-MS_em_fracoes_de_oleo_cru) 
 
+Characterization of Brazilian oils, with a particular emphasis on determining the concentrations of nickel (Ni) and vanadium (V) using Inductively Coupled Plasma Mass Spectrometry (ICP-MS) within various fractions of crude oil. The goal was to develop a fractionation and analysis method, providing crucial data for future geochemical and petroleum industry applications. This work was conducted at the LABSPECTRO Atomic Spectrometry Laboratory (PUC-Rio) and co-funded by Petrobras and FAPERJ.
+
+The Ni/V ratio is a geochemical parameter used to study the origin of oil, as well as the effects of maturation and biodegradation during the processes of formation and accumulation. These elements are primarily found in the aromatic and polar fractions of crude oil, in the form of organometallic complexes with tetrapyrrolic nuclei, known as porphyrins, as indicated in the image below. The presence of Ni and V can be considered a "fingerprint" due to the relationship between their concentrations, which is maintained throughout the refining process, thus providing crucial information about its geological origin.
+
 <br> <!-- Adiciona um espaço entre o texto e a imagem -->
 
 <p align="center">
     <img src="/images/etioporfirinas.png" style="width: 20%;">
 </p>
-<p align="center"><b>Etioporphyrin present in petroleum.</b></p>
+<p align="center"><b>Etioporphyrin present in petroleum. M: VO2+ ou Ni2+ (Mergulhão et al., 36th RASBQ, 2013).</b></p>
+
+During the crude oil fractionation process, I utilized liquid chromatography columns employing specific solvents at each step. Initially, to obtain the first fraction (paraffinic, aromatic, and polar - PAP), I introduced 0.6 ml of diluted crude oil into a gravimetric column filled with activated silica. Then, a solvent mixture was added sequentially, creating a gradient of increasing polarity. When the solution became transparent, the second fraction, resin (asphaltenes), was obtained by introducing a mixture of ultrapure water, methanol, and chloroform, operated until complete evaporation. The collected fractions were evaporated using a rotary evaporator, then again under argon flow, and stored at -5 oC.
+
+The next phase of the fractionation process involved a medium-pressure column filled with activated silica in methanol. The sample was diluted in toluene and injected via a peristaltic pump, followed by solvent injections according to a decreasing polarity gradient: methanol, methanol and toluene, followed by pure toluene. The system, including a UV-Vis spectroscopy detector coupled with a multimeter to monitor the solution's voltage, indicated the moment of fraction cutting. The fractions were obtained in the following order, according to the decreasing polarity gradient of the solvent: paraffin, FR1 (heavy polar), FR2 (heavy aromatic, polar), FR3 (aromatics). The masses of the fractions were determined and stored at -20 oC. The subsequent decomposition of the fractions in a microwave oven was performed to ensure complete decomposition. All samples were decomposed twice to ensure reproducibility. After decomposition, the samples were diluted in water and subjected to ICP-MS analysis. Mass balance calculations showed a preconcentration of Ni and V in FR1 and FR2, confirmed by their respective concentrations compared to reference samples.
+
+Overall, the innovative approach to organometallic characterization of Brazilian oils offers promising perspectives for a better geochemical understanding. This fractionation and analysis methodology has illuminated the precise distribution of elements, establishing a solid foundation for future studies. The results enhance our understanding of the complex composition of Brazilian oils, opening significant prospects in petroleum geochemistry. This systematic approach can be extrapolated to explore other aspects of petroleum geochemistry, with potential applications extending to the petroleum industry and geochemical research.
 
 ## Experience
 
