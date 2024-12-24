@@ -75,12 +75,28 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 ### Stabilization of Turbulent Methane Flames
 [Publication](https://www.researchgate.net/publication/323209516_Experimental_Study_of_a_Lean_Premixed_Turbulent_Swirling_Flame_Stabilization)
 
+Within collaborative research projects, I actively engaged in the international project conducted at the Combustion and Turbulence Laboratory of PUC-Rio, Brazil, with Engineer Philippe Scouflaire and Prof. Nasser Darabiha from the EM2C Laboratory, CNRS - UPR 288, CentraleSupélec, Université Paris- Saclay, France. The main objective of the project was the experimental characterization of the stabilization of premixed and swirled turbulent flames, a crucial aspect of turbulent combustion technologies in lean mixtures. This work aimed to contribute to the development of cleaner and more efficient combustion technologies, particularly for gas turbines and industrial burners.
+Premixed turbulent combustion technologies often involve swirl-stabilized combustion, presenting fundamental challenges in predicting the burner blow-off limits adequately. Among the factors influencing swirled turbulent flame and burner behavior, the geometric characteristics of the swirl device and the combustion chamber are crucial. In this study, my goal was to experimentally characterize the geometry of the swirl device and the influence of the combustion chamber confinement on blow-off characteristics, as well as the topologies of premixed turbulent methane-air flames stabilized by the swirl effect. A new experimental bench, depicted in the figure below, was designed, enabling easy modification of the radial geometric characteristics of the swirl device and the confinement of the combustion chamber.
+
+<br> <!-- Adiciona um espaço entre o texto e a imagem -->
+
+<p align="center">
+    <img src="//images/bestflame.png" style="width: 40%;">
+</p>
+<p align="center"><b>Configurations of swirl device (left) and assembly of burner, swirl device, cooling plate, and confinement (right) (adapted from Figueira da Silva et al., 24th ABCM, 2017).</b></p>
+
+Time-integrated, pan-spectral chemiluminescence images of the combustion process were captured using a Canon EOS Rebel TS camera. Equipped with a 58mm diameter lens without filters, representative images were obtained at different flow rates and equivalence ratios. A LaVision Imager Intense CCD (Charge-Coupled Device) camera, fitted with a 430nm filter, was used to record flame images with a 1-second exposure time and an f-4 aperture. These chemiluminescence images are associated with the CH* radical, representing the heat release zone of premixed flames. To highlight this region, the images were deconvoluted using an Abel inversion technique employing a Fourier- transform-based algorithm. This inversion transforms line-of-sight images into a cross-sectional representation assuming axial symmetry.
+For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
+The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
+
 <br> <!-- Adiciona um espaço entre o texto e a imagem -->
 
 <p align="center">
     <img src="/images/methane flames.png" style="width: 40%;">
 </p>
 <p align="center"><b>Pan-spectral camera images showing mixture equivalence ratio variations at a fixed methane flow rate, for two confinement area ratios.</b></p>
+
+The experimental protocol described here can also be modified to study other phenomena or conditions, allowing for a deeper understanding of turbulent combustion processes and expanding the applicability of this setup to other areas of combustion technology research and development.
 
 ### Development of Lubricants and Bioproducts 
 
