@@ -61,7 +61,7 @@ My investigation focused on three key parameters influencing IDTs: mixture compo
 <br> 
 
 <p align="center">
-    <img src="/images/diagram phd.png" style="width: 50%;">
+    <img src="/images/diagram phd.png" style="width: 70%;">
 </p>
 <p align="center"><b>Diagram of the process used for the development/validation of kinetic mechanisms using experimental RCM data (Mergulhão, Ph.D. Thesis, 2020).
 </b></p>
