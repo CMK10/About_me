@@ -56,10 +56,20 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
 My investigation focused on three key parameters influencing IDTs: mixture composition, compressed pressure, and the adiabatic core temperature. Specifically, the blending effect of LDC was explored by varying its concentration in the surrogate, a simplified mixture used to allow the understanding of co- oxidation with conventional fuels such as gasoline. The composition effect was investigated by varying the amount of LDC within isooctane mixtures and by varying the compression pressure from 14 to 25 bar. The effect of temperature on the IDT was investigated at 20 bar, and core gas temperatures ranging from 665 to 870 K. The surrogates were formulated at stoichiometric conditions and prepared until the LDC fraction reached the maximum reasonable value given their volatility. The experimental setup also allowed for physical sampling during ignition delay, contributing to detailed kinetic model validation. The chemical analysis of sampled products was conducted using gas chromatography coupled with mass spectrometry and thermal conductivity (TCD) / flame ionization (FID) detectors. A hierarchical methodology was employed to develop a kinetic mechanism, combining a detailed model for isooctane from Lawrence Livermore National Laboratory (LLNL) with a sub-mechanism for anisole, contributing to a comprehensive understanding of ignition delay in biofuel surrogates. For prenol, the Co-optima model, developed by LLNL, was used to simulate the autoignition phenomena. A summary outline of the process used for the development and validation of kinetic models is presented below.
 
+</p>
+
+<br> 
+
+<p align="center">
+    <img src="/images/diagram phd.png" style="width: 50%;">
+</p>
+<p align="center"><b>Diagram of the process used for the development/validation of kinetic mechanisms using experimental RCM data (Mergulhão, Ph.D. Thesis, 2020).
+</b></p>
+
 Even though the blending ratios are different for each mixture, the image bellow shows that the 50/50 isooctane/prenol mixtures are the only blends which show no NTC behavior. It is also interesting that this mixture has the longest ignition delay times in the region from 675 to 787 K, i.e., at low temperature and the shortest ignition delay times at high temperatures in the region from 787 to 852 K. This result suggests that the prenol is a good candidate to formulate gasoline-like biofuels considering that in the modern spark ignition engines a high-octane sensitivity is required. On the other hand, while not suppressing first-stage ignition events, cyclopentanone demonstrates great potential in increasing the ignition delays at all temperatures.
 </p>
 
-<br> <!-- Adiciona um espaço entre o texto e a imagem -->
+<br> 
 
 <p align="center">
     <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;">
@@ -78,7 +88,7 @@ My doctoral journey allowed me to address the potential of several advanced biof
     In this research project, funded by the CNPq (National Council for Scientific and Technological Development), institution affiliated with the Brazilian Ministry of Science, Technology, and Innovation, I investigated the mechanisms of soot formation in hydrocarbon flames to address the environmental and health impacts of combustion-generated particulates. Collaboratively, I contributed to the design and construction of a specialized experimental setup using a Gülder burner for non-premixed flames of ethylene and Liquefied Petroleum Gas (LPG). This setup enabled the quantification of soot volumetric fractions using laser diagnostic techniques. Additionally, I utilized MATLAB for image data post-treatment, visualization and interpretation of experimental results. The study revealed complex relationships between fuel flow rates, flame positions, and soot production, with higher flow rates significantly increasing soot formation. These findings were validated against existing literature and provided valuable insights into the processes of pyrolysis, polycyclic aromatic hydrocarbon (PAH) formation, and particle aggregation in soot development. This work not only enhanced my expertise in combustion thermodynamics, optical diagnostics, and computational analysis but also highlighted the importance of mitigating the environmental impacts of soot to promote cleaner and more sustainable combustion practices. The results of this research were published as part of my chemical engineering final project.
 </p>
 
-<br> <!-- Adiciona um espaço entre o texto e a imagem -->
+<br> 
 
 <p align="center">
     <img src="/images/gulder burner.png" style="width: 60%;">
@@ -91,7 +101,7 @@ My doctoral journey allowed me to address the potential of several advanced biof
 Within collaborative research projects, I actively engaged in the international project conducted at the Combustion and Turbulence Laboratory of PUC-Rio, Brazil, with Engineer Philippe Scouflaire and Prof. Nasser Darabiha from the EM2C Laboratory, CNRS - UPR 288, CentraleSupélec, Université Paris- Saclay, France. The main objective of the project was the experimental characterization of the stabilization of premixed and swirled turbulent flames, a crucial aspect of turbulent combustion technologies in lean mixtures. This work aimed to contribute to the development of cleaner and more efficient combustion technologies, particularly for gas turbines and industrial burners.
 Premixed turbulent combustion technologies often involve swirl-stabilized combustion, presenting fundamental challenges in predicting the burner blow-off limits adequately. Among the factors influencing swirled turbulent flame and burner behavior, the geometric characteristics of the swirl device and the combustion chamber are crucial. In this study, my goal was to experimentally characterize the geometry of the swirl device and the influence of the combustion chamber confinement on blow-off characteristics, as well as the topologies of premixed turbulent methane-air flames stabilized by the swirl effect. A new experimental bench, depicted in the figure below, was designed, enabling easy modification of the radial geometric characteristics of the swirl device and the confinement of the combustion chamber.
 
-<br> <!-- Adiciona um espaço entre o texto e a imagem -->
+<br> 
 
 <p align="center">
     <img src="/images/best flame.png" style="width: 60%;">
@@ -102,7 +112,7 @@ Time-integrated, pan-spectral chemiluminescence images of the combustion process
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
 The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
 
-<br> <!-- Adiciona um espaço entre o texto e a imagem -->
+<br> 
 
 <p align="center">
     <img src="/images/methane flames.png" style="width: 40%;">
@@ -125,7 +135,7 @@ I also conducted a variety of laboratory tests, adhering to regulatory standards
 
 This internship enriched my understanding of the formulation and quality control processes of lubricants and biolubricants, highlighting the importance of a comprehensive perspective that integrates the economic and environmental dimensions of their production and application. My immersion in the regulatory standards of the petroleum industry, along with the understanding of the terminology related to petroleum products, chemical handling, and disposal procedures, helped me to strengthen my engineering and scientific knowledge. Moreover, this experience provided me with a privileged perspective on the progress of the industrial research and development in lubricants, shedding light on the complexities of the patenting process and the dynamics of partnerships between industry and university.
 
-<br> <!-- Adiciona um espaço entre o texto e a imagem -->
+<br> 
 
 <p align="center">
     <img src="/images/petrobras.jpeg" style="width: 30%;">
@@ -139,8 +149,7 @@ Characterization of Brazilian oils, with a particular emphasis on determining th
 
 The Ni/V ratio is a geochemical parameter used to study the origin of oil, as well as the effects of maturation and biodegradation during the processes of formation and accumulation. These elements are primarily found in the aromatic and polar fractions of crude oil, in the form of organometallic complexes with tetrapyrrolic nuclei, known as porphyrins, as indicated in the image below. The presence of Ni and V can be considered a "fingerprint" due to the relationship between their concentrations, which is maintained throughout the refining process, thus providing crucial information about its geological origin.
 
-<br> <!-- Adiciona um espaço entre o texto e a imagem -->
-
+<br> 
 <p align="center">
     <img src="/images/etioporfirinas.png" style="width: 20%;">
 </p>
