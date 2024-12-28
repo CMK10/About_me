@@ -78,6 +78,14 @@ Even though the blending ratios are different for each mixture, the image bellow
 </b></p>
 
 For the modeling results it is observed that the current isooctane model seems to overestimate the conversion of isooctane during the first-stage, while the one of anisole is captured accuratelyThis shows the good performance of the model in capturing both the first-stage and total ignition delay in these conditions. The overestimated conversion of isooctane can however be correlated to the too high reactivity of the model in the intermediate temperature region. For the prenol model, it overestimates the reactivity of the isooctane/prenol (50/50)/O2/inert mixture, for all temperature range. The ignition phenomenology is, therefore, maintained, i.e., with no presence of NTC region. These results showed a constant underprediction of the IDTs of isooctane/prenol mixture of about a factor of two. These are encouraging results, but further modeling work should aim at reducing the global reactivity for these mixtures.
+</p>
+<br> 
+
+<p align="center">
+    <img src="/images/fig 3 phd.png" style="width: 70%;">
+</p>
+<p align="center"><b>Evolution of first-stage and total ignition delays of isooctane/O2/inert and isooctane/anisole (60/40)/O2/inert mixtures. PTDC = 20 bar, Φ = 1. Full lines correspond to the updated model, dashed lines the initial model (right). Isooctane/prenol (50/50)/O2/inert mixtures results (left). Full lines correspond to the simulated results.
+</b></p>
 
 My doctoral journey allowed me to address the potential of several advanced biofuels for incorporation into commercial gasolines through an extensive study of the mechanisms responsible for auto-ignition in co-oxidation conditions. Anisole, o-cresol, prenol, and cyclopentanone were selected as biofuels of interest after an exhaustive literature study of their physico-chemical properties as well as their means of production. This experience has also equipped me with a multifaceted skill set, combining technical proficiency in Python modeling, theoretical insights into the kinetic chemistry of lignocellulosic-derived components, and an understanding of the economic dimensions of biofuel development. The collaboration with ADEME underscores the real-world relevance of this research, emphasizing the importance of interdisciplinary approaches in addressing contemporary challenges in the field of sustainable energy.
 
