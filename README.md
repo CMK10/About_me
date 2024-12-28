@@ -2,8 +2,7 @@
 
 <font size="5"><b>Chemical Engineer | Research & Data Scientist</b></font>
 
-Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion Processes
-
+Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion Processe
 
 :e-mail: carol.mergulhao10@gmail.com
 <br>
