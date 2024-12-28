@@ -120,9 +120,11 @@ The results revealed significant variations in the soot volumetric fraction at d
 <br> 
 
 <p align="center">
-    <img src="/images/fign5 soot formation.png" style="width: 60%;">
+    <img src="/images/fign5 soot formation.png" style="width: 40%;">
 </p>
 <p align="center"><b> Relationship between the soot volumetric fraction and the height above the burner surface (HAB) for ethylene (adapted from Mergulhão et al., PFE, 2016).</b></p>
+
+This research project was a crucial experience for deepening my understanding of the soot formation processes in the flames of ethylene and Liquefied Petroleum Gas (LPG). The obtained results, including the validation of the new experimental bench through data comparison with the literature for ethylene, pave the way for future studies on other fuels. This experience has been enriching, combining theoretical knowledge of combustion thermodynamics with practical skills in the design and construction of the Gülder burner, as well as in optical diagnostics. It has strengthened my understanding of the complex mechanisms of soot formation, emphasizing the importance of this research in developing strategies to mitigate the environmental impacts of combustion.
 
 ### Stabilization of Turbulent Methane Flames
 [Publication](https://www.researchgate.net/publication/323209516_Experimental_Study_of_a_Lean_Premixed_Turbulent_Swirling_Flame_Stabilization)
