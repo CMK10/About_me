@@ -214,6 +214,10 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 * Managed educational activities and ensured student engagement with a weekly commitment of 25.5 hours  
 * Created and delivered lesson plans, classroom, and lab activities to support academic growth
 
+**Intensive German Courses (A1 - C1)**  
+*2021 - 2022*  
+*StudyOn / Euroschule / VHS, Germany*  
+
 **Research Scientist**  
 *10/2017 - 12/2020*  
 *Agency for Ecological Transition (ADEME) - Government agency, Lille, France*  
