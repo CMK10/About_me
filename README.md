@@ -148,7 +148,7 @@ This internship enriched my understanding of the formulation and quality control
 <p align="center">
     <img src="/images/petrobras.jpeg" style="width: 30%;">
 </p>
-<p align="center"><b>PETROBRAS.</b></p>
+<p align="center"><b>Cenpes Petrobras (Thenunit of Research Center of Petrobras responsible for research and development and basic engineering).</b></p>
 
 ### Organometallic Characterization of Brazilian Oils
 [Publication](https://www.researchgate.net/publication/356287489_Determinacao_elementar_via_ICP-MS_em_fracoes_de_oleo_cru) 
