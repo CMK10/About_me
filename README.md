@@ -194,7 +194,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 ## Experience
 
 **Career Break**  
-*2024*  
+*11/2023 - present*  
 *Dormagen, Germany*  
 * Focused on improving German language skills 
 * Family, health, and well-being 
@@ -202,20 +202,20 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 
 **Data Science (Bootcamp)**  
-*2023*  
+*07/2023 - 10/2023*  
 *neuefische GmbH, Remote, Germany*   
 * Collaborated with teams to develop data-driven projects, focusing on the application of Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, SQL, TensorFlow, Keras, UNIX, and Git  
 * Applied advanced statistical, machine learning techniques, data analysis, and visualization to solve real-world data challenges  
 
 **Secondary School Teacher**  
-*2022 - 2023*  
+*12/2022 - 04/2023*  
 *Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany*  
 * Worked as a teacher, delivering science and chemistry lessons to secondary school students (grades 5 to 10)  
 * Managed educational activities and ensured student engagement with a weekly commitment of 25.5 hours  
 * Created and delivered lesson plans, classroom, and lab activities to support academic growth
 
 **Intensive German Courses (A1 - C1)**  
-*2021 - 2022*  
+*03/2021 - 11/2022*  
 *StudyOn / Euroschule / VHS, Germany*  
 
 **Research Scientist**  
