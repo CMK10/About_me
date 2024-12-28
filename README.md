@@ -201,7 +201,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 
 
-**Data Science Trainee**  
+**Data Science (Bootcamp)**  
 *2023*  
 *neuefische GmbH, Remote, Germany*   
 * Collaborated with teams to develop data-driven projects, focusing on the application of Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, SQL, TensorFlow, Keras, UNIX, and Git  
