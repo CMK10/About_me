@@ -62,7 +62,7 @@ My investigation focused on three key parameters influencing IDTs: mixture compo
 <p align="center">
     <img src="/images/diagram phd.png" style="width: 70%;">
 </p>
-<p align="center"><b>Diagram of the process used for the development/validation of kinetic mechanisms using experimental RCM data (Mergulhão, Ph.D. Thesis, 2020).
+<p align="center"><b>Diagram of the process used for the development/validation of kinetic mechanisms using experimental RCM data (Mergulhão, PhD Thesis, 2020).
 </b></p>
 
 Even though the blending ratios are different for each mixture, the image bellow shows that the 50/50 isooctane/prenol mixtures are the only blends which show no NTC behavior. It is also interesting that this mixture has the longest ignition delay times in the region from 675 to 787 K, i.e., at low temperature and the shortest ignition delay times at high temperatures in the region from 787 to 852 K. This result suggests that the prenol is a good candidate to formulate gasoline-like biofuels considering that in the modern spark ignition engines a high-octane sensitivity is required. On the other hand, while not suppressing first-stage ignition events, cyclopentanone demonstrates great potential in increasing the ignition delays at all temperatures.
@@ -136,7 +136,7 @@ Premixed turbulent combustion technologies often involve swirl-stabilized combus
 <p align="center">
     <img src="/images/best flame.png" style="width: 60%;">
 </p>
-<p align="center"><b>Configurations of swirl device (left) and assembly of burner, swirl device, cooling plate, and confinement (right) (adapted from Figueira da Silva et al., 24th ABCM, 2017).</b></p>
+<p align="center"><b>Configurations of swirl device (left) and assembly of burner, swirl device, cooling plate, and confinement (right) (adapted from Figueira da Silva et al., 24<sup>th</su> ABCM, 2017).</b></p>
 
 Time-integrated, pan-spectral chemiluminescence images of the combustion process were captured using a Canon EOS Rebel TS camera. Equipped with a 58mm diameter lens without filters, representative images were obtained at different flow rates and equivalence ratios. A LaVision Imager Intense CCD (Charge-Coupled Device) camera, fitted with a 430nm filter, was used to record flame images with a 1-second exposure time and an f-4 aperture. These chemiluminescence images are associated with the CH* radical, representing the heat release zone of premixed flames. To highlight this region, the images were deconvoluted using an Abel inversion technique employing a Fourier- transform-based algorithm. This inversion transforms line-of-sight images into a cross-sectional representation assuming axial symmetry.
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
