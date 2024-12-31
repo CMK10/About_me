@@ -183,7 +183,7 @@ The Ni/V ratio is a geochemical parameter used to study the origin of oil, as we
 <p align="center">
     <img src="/images/etioporfirinas.png" style="width: 20%;">
 </p>
-<p align="center"><b>Etioporphyrin present in petroleum. M: VO2+ ou Ni2+ (Mergulhão et al., 36th RASBQ, 2013).</b></p>
+<p align="center"><b>Etioporphyrin present in petroleum. M: VO<sub>2</sub>+ ou Ni<sub>2</sub>+ (Mergulhão et al., 36th RASBQ, 2013).</b></p>
 
 During the crude oil fractionation process, I utilized liquid chromatography columns employing specific solvents at each step. Initially, to obtain the first fraction (paraffinic, aromatic, and polar - PAP), I introduced 0.6 ml of diluted crude oil into a gravimetric column filled with activated silica. Then, a solvent mixture was added sequentially, creating a gradient of increasing polarity. When the solution became transparent, the second fraction, resin (asphaltenes), was obtained by introducing a mixture of ultrapure water, methanol, and chloroform, operated until complete evaporation. The collected fractions were evaporated using a rotary evaporator, then again under argon flow, and stored at -5 oC.
 
