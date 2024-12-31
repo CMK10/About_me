@@ -235,8 +235,8 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 **R&D Engineer (Internship)**  
 *01/2014 - 01/2015*  
 *Petrobras, RJ, Brazil*  
-* Performed data collection, processing, and analysis for the development of automotive, aviation, maritime, and industrial lubricants  
-* Characterized lubricants through rheological analyses  
+* Data collection, processing, and analysis for the development of automotive, aviation, maritime, and industrial lubricants  
+* Formulation and characterization lubricants through rheological analyses  
 
 **Research Scientist (Internship)**  
 *01/2013 - 01/2014*  
