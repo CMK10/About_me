@@ -147,7 +147,7 @@ The study of blow-off limits identified the crucial role played by the confineme
 <p align="center">
     <img src="/images/methane flames.png" style="width: 40%;">
 </p>
-<p align="center"><b>Images from the pan-spectral camera as a function of the mixture equivalence ratio for a given methane volumetric flow rate, for two different confinement area ratios (adapted from Figueira da Silva et al., 24th ABCM, 2017).</b></p>
+<p align="center"><b>Images from the pan-spectral camera as a function of the mixture equivalence ratio for a given methane volumetric flow rate, for two different confinement area ratios (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
 
 The experimental protocol described here can also be modified to study other phenomena or conditions, allowing for a deeper understanding of turbulent combustion processes and expanding the applicability of this setup to other areas of combustion technology research and development.
 
@@ -183,9 +183,9 @@ The Ni/V ratio is a geochemical parameter used to study the origin of oil, as we
 <p align="center">
     <img src="/images/etioporfirinas.png" style="width: 20%;">
 </p>
-<p align="center"><b>Etioporphyrin present in petroleum. M: VO<sub>2</sub>+ ou Ni<sub>2</sub>+ (Mergulhão et al., 36th RASBQ, 2013).</b></p>
+<p align="center"><b>Etioporphyrin present in petroleum. M: VO<sub>2</sub><sup>+</sup> ou Ni<sub>2</sub><sup>+</sup> (Mergulhão et al., 36<sup>th</sup> RASBQ, 2013).</b></p>
 
-During the crude oil fractionation process, I utilized liquid chromatography columns employing specific solvents at each step. Initially, to obtain the first fraction (paraffinic, aromatic, and polar - PAP), I introduced 0.6 ml of diluted crude oil into a gravimetric column filled with activated silica. Then, a solvent mixture was added sequentially, creating a gradient of increasing polarity. When the solution became transparent, the second fraction, resin (asphaltenes), was obtained by introducing a mixture of ultrapure water, methanol, and chloroform, operated until complete evaporation. The collected fractions were evaporated using a rotary evaporator, then again under argon flow, and stored at -5 oC.
+During the crude oil fractionation process, I utilized liquid chromatography columns employing specific solvents at each step. Initially, to obtain the first fraction (paraffinic, aromatic, and polar - PAP), I introduced 0.6 ml of diluted crude oil into a gravimetric column filled with activated silica. Then, a solvent mixture was added sequentially, creating a gradient of increasing polarity. When the solution became transparent, the second fraction, resin (asphaltenes), was obtained by introducing a mixture of ultrapure water, methanol, and chloroform, operated until complete evaporation. The collected fractions were evaporated using a rotary evaporator, then again under argon flow, and stored at -5 <sup>o</sup>C.
 
 The next phase of the fractionation process involved a medium-pressure column filled with activated silica in methanol. The sample was diluted in toluene and injected via a peristaltic pump, followed by solvent injections according to a decreasing polarity gradient: methanol, methanol and toluene, followed by pure toluene. The system, including a UV-Vis spectroscopy detector coupled with a multimeter to monitor the solution's voltage, indicated the moment of fraction cutting. The fractions were obtained in the following order, according to the decreasing polarity gradient of the solvent: paraffin, FR1 (heavy polar), FR2 (heavy aromatic, polar), FR3 (aromatics). The masses of the fractions were determined and stored at -20 oC. The subsequent decomposition of the fractions in a microwave oven was performed to ensure complete decomposition. All samples were decomposed twice to ensure reproducibility. After decomposition, the samples were diluted in water and subjected to ICP-MS analysis. Mass balance calculations showed a preconcentration of Ni and V in FR1 and FR2, confirmed by their respective concentrations compared to reference samples.
 
