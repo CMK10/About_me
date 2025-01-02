@@ -1,33 +1,33 @@
 # Carolina Mergulhão Körber
 
-<font size="5"><b>Chemical Engineer | Research & Data Scientist</b></font>
+## **Chemical Engineer | Research & Data Scientist**
 
 Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion Processe
 
-:e-mail: carol.mergulhao10@gmail.com
-<br>
-:briefcase: www.linkedin.com/in/carolina-mergulhao-körber
-<br>
-:microscope: www.researchgate.net/profile/Carolina-Mergulhao-Koerber
+:e-mail: <carol.mergulhao10@gmail.com>  
+:briefcase: <www.linkedin.com/in/carolina-mergulhao-körber>  
+:microscope: <www.researchgate.net/profile/Carolina-Mergulhao-Koerber>
 
 ## Technical Skills
 
 ### Programming and Computational Tools  
+
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy), Plotly/Dash  
 - GitHub/git, Cantera  
 - Matlab  
 
 ### Laboratory and Industrial Expertise  
-- Lab Management, Technical Documentation 
-- Industrial Research and Innovation, Regulatory Compliance   
+
+- Lab Management, Technical Documentation
+- Industrial Research and Innovation, Regulatory Compliance
 - Design of Experiments  
 - Gas Chromatography (GC-MS, FID/TCD), Statistics, Kinetic Modeling  
 
-## Languages 
+## Languages
 
-* **Professional Competence**: :gb: English, :de: German, :fr: French
-* **Native Speaker**: 🇧🇷 Portuguese
-* **Good Knowledge**: :es: Spanish
+- **Professional Competence**: :gb: English, :de: German, :fr: French
+- **Native Speaker**: 🇧🇷 Portuguese
+- **Good Knowledge**: :es: Spanish
 
 ## Education
 
