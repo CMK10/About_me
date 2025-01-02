@@ -1,8 +1,8 @@
 # Carolina Mergulhão Körber
 
-## **Chemical Engineer | Research & Data Scientist**
+## **Chemical Engineer | Research & Data Scientist
 
-Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion Processe
+Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion processes
 
 :e-mail: <carol.mergulhao10@gmail.com>  
 :briefcase: <www.linkedin.com/in/carolina-mergulhao-körber>  
