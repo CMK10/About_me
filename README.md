@@ -1,6 +1,6 @@
 # Carolina Mergulhão Körber
 
-## **Chemical Engineer | Research & Data Scientist
+## Chemical Engineer | Research & Data Scientist
 
 Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion processes
 
