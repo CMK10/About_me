@@ -35,7 +35,7 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 [Université de Lille](https://www.univ-lille.fr)  
 [Experimental and kinetic modeling study on the reactivity of biofuels derived from lignocellulosic biomass at engine relevant conditions](https://www.theses.fr/25582274X)  
 
-**BSc, Chemical Engineering (2016)**<br>
+**BSc, Chemical Engineering (2016)**  
 [Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)  
 [Experimental study of soot formation in laminar flames of hydrocarbons and air](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)  
 
