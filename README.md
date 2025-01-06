@@ -59,6 +59,7 @@ My investigation focused on three key parameters influencing IDTs: mixture compo
 <div align="center"><b>Diagram of the process used for the development/validation of kinetic mechanisms using experimental RCM data (Mergulhão, PhD Thesis, 2020).
 </b></div>
 
+
 Even though the blending ratios are different for each mixture, the image bellow shows that the 50/50 isooctane/prenol mixtures are the only blends which show no NTC behavior. It is also interesting that this mixture has the longest ignition delay times in the region from 675 to 787 K, i.e., at low temperature and the shortest ignition delay times at high temperatures in the region from 787 to 852 K. This result suggests that the prenol is a good candidate to formulate gasoline-like biofuels considering that in the modern spark ignition engines a high-octane sensitivity is required. On the other hand, while not suppressing first-stage ignition events, cyclopentanone demonstrates great potential in increasing the ignition delays at all temperatures.
 
 <div align="center">
