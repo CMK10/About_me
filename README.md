@@ -285,7 +285,9 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 - ADEME / Hauts-de-France Region, 2017, France, budget: 60 k€
   *Experimental Study of the Combustion Kinetics of Biofuels from Lignocellulosic Biomass at High Pressures.
+
 - PIBIC / CNPq, 2015, Brazil,  budget: 16 k€
   *Study of Soot Formation in Turbulent Combustion Processes.*
+  
 - FAPERJ / Petrobras, 2013, Brazil, budget: 15 k€  
   *Determination of Trace Elements in Crude Oil by Inductively Coupled Plasma Mass Spectrometry (ICP-MS).*  
