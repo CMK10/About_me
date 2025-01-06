@@ -74,7 +74,6 @@ For the modeling results it is observed that the current isooctane model seems t
 </p>
 <p align="center"><b>Evolution of first-stage and total ignition delays of isooctane/O<sub>2</sub>/inert and isooctane/anisole (60/40)/O<sub>2</sub>/inert mixtures. PTD<sub>C</sub> = 20 bar, Φ = 1. Full lines correspond to the updated model, dashed lines the initial model (right). Isooctane/prenol (50/50)/O<sub>2</sub>/inert mixtures results (left). Full lines correspond to the simulated results.
 </b></p>
-<br>
 My doctoral journey allowed me to address the potential of several advanced biofuels for incorporation into commercial gasolines through an extensive study of the mechanisms responsible for auto-ignition in co-oxidation conditions. Anisole, o-cresol, prenol, and cyclopentanone were selected as biofuels of interest after an exhaustive literature study of their physico-chemical properties as well as their means of production. This experience has also equipped me with a multifaceted skill set, combining technical proficiency in Python modeling, theoretical insights into the kinetic chemistry of lignocellulosic-derived components, and an understanding of the economic dimensions of biofuel development. The collaboration with ADEME underscores the real-world relevance of this research, emphasizing the importance of interdisciplinary approaches in addressing contemporary challenges in the field of sustainable energy.
 
 ### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
