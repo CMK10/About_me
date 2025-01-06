@@ -144,7 +144,7 @@ This internship enriched my understanding of the formulation and quality control
 <p align="center">
     <img src="/images/petrobras.jpeg" style="width: 30%;">
 </p>
-<p align="center"><b>Cenpes Petrobras (Unit of Research Center of Petrobras responsible for research and development and basic engineering).</b></p>
+<p align="center"><b>Cenpes Petrobras (Unit of Research Center of Petrobras responsible for R&D and basic engineering).</b></p>
 
 ### Organometallic Characterization of Brazilian Oils
 
