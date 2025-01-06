@@ -69,7 +69,6 @@ Even though the blending ratios are different for each mixture, the image bellow
 
 For the modeling results it is observed that the current isooctane model seems to overestimate the conversion of isooctane during the first-stage, while the one of anisole is captured accuratelyThis shows the good performance of the model in capturing both the first-stage and total ignition delay in these conditions. The overestimated conversion of isooctane can however be correlated to the too high reactivity of the model in the intermediate temperature region. For the prenol model, it overestimates the reactivity of the isooctane/prenol (50/50)/O<sub>2</sub>/inert mixture, for all temperature range. The ignition phenomenology is, therefore, maintained, i.e., with no presence of NTC region. These results showed a constant underprediction of the IDTs of isooctane/prenol mixture of about a factor of two. These are encouraging results, but further modeling work should aim at reducing the global reactivity for these mixtures.
 </p>
-<br> 
 
 <p align="center">
     <img src="/images/fig 3 phd.png" style="width: 70%;">
@@ -80,9 +79,9 @@ For the modeling results it is observed that the current isooctane model seems t
 My doctoral journey allowed me to address the potential of several advanced biofuels for incorporation into commercial gasolines through an extensive study of the mechanisms responsible for auto-ignition in co-oxidation conditions. Anisole, o-cresol, prenol, and cyclopentanone were selected as biofuels of interest after an exhaustive literature study of their physico-chemical properties as well as their means of production. This experience has also equipped me with a multifaceted skill set, combining technical proficiency in Python modeling, theoretical insights into the kinetic chemistry of lignocellulosic-derived components, and an understanding of the economic dimensions of biofuel development. The collaboration with ADEME underscores the real-world relevance of this research, emphasizing the importance of interdisciplinary approaches in addressing contemporary challenges in the field of sustainable energy.
 
 ### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
+
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
 
-<p style="text-align: justify;">
 During this project funded by the CNPq (National Council for Scientific and Technological Development), institution affiliated with the Brazilian Ministry of Science, Technology, and Innovation, I explored soot formation in hydrocarbon and air flames. The primary motivation was to gain a thorough understanding of soot formation processes to develop strategies mitigating environmental impacts. This commitment to environmental protection aimed to contribute to cleaner and sustainable combustion practices, considering the negative impacts of soot, particularly on air pollution and its potential role in climate change. The results of this research were published as part of my chemical engineering final project (FP).
 
 Soot formation during hydrocarbon combustion has environmental and health repercussions, releasing fine particles contributing to air pollution. The typical diameter of a soot particle ranges from nanometers to micrometers, presenting extremely small dimensions that facilitate dispersion in the air. These fine particles can penetrate deep into human respiratory pathways, posing a direct threat to lung health. Composed of harmful substances such as volatile organic compounds and polycyclic aromatic hydrocarbons, these particles pose risks not only to human health but also to the ecosystem. Moreover, soot deposited on reflective surfaces like ice and snow reduces reflectivity, absorbing more solar energy, contributing to local temperature increases and accelerating glacier melting.
@@ -91,8 +90,6 @@ The complex process of soot formation, characterized by particle aggregation and
 
 In this project, a new experimental system was developed for quantifying soot in ethylene and Liquefied Petroleum Gas (LPG - mixture of propane and butane) flames. A Gülder burner with non-premixed flames was constructed to measure the soot volumetric fraction by varying fuel flows and HAB values (height above the burner surface). The Gülder burner and the experimental bench developed in this project are presented in the following figure.
 </p>
-
-<br> 
 
 <p align="center">
     <img src="/images/gulder burner.png" style="width: 60%;">
@@ -107,8 +104,6 @@ The results revealed significant variations in the soot volumetric fraction at d
 
 </p>
 
-<br> 
-
 <p align="center">
     <img src="/images/fign5 soot formation.png" style="width: 40%;">
 </p>
@@ -117,12 +112,11 @@ The results revealed significant variations in the soot volumetric fraction at d
 This research project was a crucial experience for deepening my understanding of the soot formation processes in the flames of ethylene and Liquefied Petroleum Gas (LPG). The obtained results, including the validation of the new experimental bench through data comparison with the literature for ethylene, pave the way for future studies on other fuels. This experience has been enriching, combining theoretical knowledge of combustion thermodynamics with practical skills in the design and construction of the Gülder burner, as well as in optical diagnostics. It has strengthened my understanding of the complex mechanisms of soot formation, emphasizing the importance of this research in developing strategies to mitigate the environmental impacts of combustion.
 
 ### Stabilization of Turbulent Methane Flames
+
 [Publication](https://www.researchgate.net/publication/323209516_Experimental_Study_of_a_Lean_Premixed_Turbulent_Swirling_Flame_Stabilization)
 
 Within collaborative research projects, I actively engaged in the international project conducted at the Combustion and Turbulence Laboratory of PUC-Rio, Brazil, with Engineer Philippe Scouflaire and Prof. Nasser Darabiha from the EM2C Laboratory, CNRS - UPR 288, CentraleSupélec, Université Paris- Saclay, France. The main objective of the project was the experimental characterization of the stabilization of premixed and swirled turbulent flames, a crucial aspect of turbulent combustion technologies in lean mixtures. This work aimed to contribute to the development of cleaner and more efficient combustion technologies, particularly for gas turbines and industrial burners.
 Premixed turbulent combustion technologies often involve swirl-stabilized combustion, presenting fundamental challenges in predicting the burner blow-off limits adequately. Among the factors influencing swirled turbulent flame and burner behavior, the geometric characteristics of the swirl device and the combustion chamber are crucial. In this study, my goal was to experimentally characterize the geometry of the swirl device and the influence of the combustion chamber confinement on blow-off characteristics, as well as the topologies of premixed turbulent methane-air flames stabilized by the swirl effect. A new experimental bench, depicted in the figure below, was designed, enabling easy modification of the radial geometric characteristics of the swirl device and the confinement of the combustion chamber.
-
-<br> 
 
 <p align="center">
     <img src="/images/best flame.png" style="width: 60%;">
@@ -133,8 +127,6 @@ Time-integrated, pan-spectral chemiluminescence images of the combustion process
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
 The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
 
-<br> 
-
 <p align="center">
     <img src="/images/methane flames.png" style="width: 40%;">
 </p>
@@ -142,7 +134,7 @@ The study of blow-off limits identified the crucial role played by the confineme
 
 The experimental protocol described here can also be modified to study other phenomena or conditions, allowing for a deeper understanding of turbulent combustion processes and expanding the applicability of this setup to other areas of combustion technology research and development.
 
-### Development of Lubricants and Bioproducts 
+### Development of Lubricants and Bioproducts
 
 During my industrial internship at Petrobras, my primary contribution focused on the development of high-performance lubricants for the automotive sector, as well as for aviation, maritime, and industrial applications. My role encompassed the formulation and in-depth characterization of these lubricants through rheological analyses, aiming to ensure optimal performance under diverse conditions.
 
@@ -156,21 +148,19 @@ I also conducted a variety of laboratory tests, adhering to regulatory standards
 
 This internship enriched my understanding of the formulation and quality control processes of lubricants and biolubricants, highlighting the importance of a comprehensive perspective that integrates the economic and environmental dimensions of their production and application. My immersion in the regulatory standards of the petroleum industry, along with the understanding of the terminology related to petroleum products, chemical handling, and disposal procedures, helped me to strengthen my engineering and scientific knowledge. Moreover, this experience provided me with a privileged perspective on the progress of the industrial research and development in lubricants, shedding light on the complexities of the patenting process and the dynamics of partnerships between industry and university.
 
-<br> 
-
 <p align="center">
     <img src="/images/petrobras.jpeg" style="width: 30%;">
 </p>
 <p align="center"><b>Cenpes Petrobras (Unit of Research Center of Petrobras responsible for research and development and basic engineering).</b></p>
 
 ### Organometallic Characterization of Brazilian Oils
+
 [Publication](https://www.researchgate.net/publication/356287489_Determinacao_elementar_via_ICP-MS_em_fracoes_de_oleo_cru) 
 
 Characterization of Brazilian oils, with a particular emphasis on determining the concentrations of nickel (Ni) and vanadium (V) using Inductively Coupled Plasma Mass Spectrometry (ICP-MS) within various fractions of crude oil. The goal was to develop a fractionation and analysis method, providing crucial data for future geochemical and petroleum industry applications. This work was conducted at the LABSPECTRO Atomic Spectrometry Laboratory (PUC-Rio) and co-funded by Petrobras and FAPERJ.
 
 The Ni/V ratio is a geochemical parameter used to study the origin of oil, as well as the effects of maturation and biodegradation during the processes of formation and accumulation. These elements are primarily found in the aromatic and polar fractions of crude oil, in the form of organometallic complexes with tetrapyrrolic nuclei, known as porphyrins, as indicated in the image below. The presence of Ni and V can be considered a "fingerprint" due to the relationship between their concentrations, which is maintained throughout the refining process, thus providing crucial information about its geological origin.
 
-<br> 
 <p align="center">
     <img src="/images/etioporfirinas.png" style="width: 20%;">
 </p>
@@ -187,8 +177,9 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 **Career Break**  
 *11/2023 - present*  
 *Dormagen, Germany*  
-* Focused on improving German language skills 
-* Family, health, and well-being 
+
+- Focused on improving German language skills
+- Family, health, and well-being
 
 **Data Science (Bootcamp)**  
 *07/2023 - 10/2023*  
