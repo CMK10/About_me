@@ -92,7 +92,7 @@ In this project, a new experimental system was developed for quantifying soot in
     <img src="/images/gulder burner.png" style="width: 60%;">
 </p>
 <p align="center"><b>Gülder burner (left) and experimental bench (right) (adapted from Mergulhão et al., PFE, 2016).</b></p>
-<br>
+
 By employing the extinction technique, based on Lambert-Beer's law, I was able to quantify the formation of soot. This technique measures the intensity of incident light (I0) and transmitted light (I) in a flame containing a cloud of particles. When a laser beam passes through a medium, three phenomena occur: refraction, absorption, and scattering. Absorption results in a reduction of beam intensity due to the opacity of the medium and is proportional to the volumetric fraction of soot in the flame.
 
 The data obtained in mV by the photodetectors were converted into ppm based on adjustments of the soot volumetric fraction measurement results, taking into account their refraction index. In this process, it is assumed that the particle size is much smaller than the laser wavelength, with a laser of 𝜆=532 nm being used in this study. Before measuring with the fuels, a calibration in two main steps was performed. The first step established the initial reference point (zero) for measurements without laser passage, and the second, conducted with laser passage without flame interference, served as the 100% reference (full scale) of the signal transmitted along the optical path, without attenuation.
@@ -103,7 +103,7 @@ The results revealed significant variations in the soot volumetric fraction at d
     <img src="/images/fign5 soot formation.png" style="width: 40%;">
 </p>
 <p align="center"><b> Relationship between the soot volumetric fraction and the height above the burner surface (HAB) for ethylene (adapted from Mergulhão et al., PFE, 2016).</b></p>
-<br>
+
 This research project was a crucial experience for deepening my understanding of the soot formation processes in the flames of ethylene and Liquefied Petroleum Gas (LPG). The obtained results, including the validation of the new experimental bench through data comparison with the literature for ethylene, pave the way for future studies on other fuels. This experience has been enriching, combining theoretical knowledge of combustion thermodynamics with practical skills in the design and construction of the Gülder burner, as well as in optical diagnostics. It has strengthened my understanding of the complex mechanisms of soot formation, emphasizing the importance of this research in developing strategies to mitigate the environmental impacts of combustion.
 
 ### Stabilization of Turbulent Methane Flames
@@ -116,7 +116,7 @@ Premixed turbulent combustion technologies often involve swirl-stabilized combus
     <img src="/images/best flame.png" style="width: 60%;">
 </p>
 <p align="center"><b>Configurations of swirl device (left) and assembly of burner, swirl device, cooling plate, and confinement (right) (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
-<br>
+
 Time-integrated, pan-spectral chemiluminescence images of the combustion process were captured using a Canon EOS Rebel TS camera. Equipped with a 58mm diameter lens without filters, representative images were obtained at different flow rates and equivalence ratios. A LaVision Imager Intense CCD (Charge-Coupled Device) camera, fitted with a 430nm filter, was used to record flame images with a 1-second exposure time and an f-4 aperture. These chemiluminescence images are associated with the CH* radical, representing the heat release zone of premixed flames. To highlight this region, the images were deconvoluted using an Abel inversion technique employing a Fourier- transform-based algorithm. This inversion transforms line-of-sight images into a cross-sectional representation assuming axial symmetry.
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
 The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
@@ -124,7 +124,7 @@ The study of blow-off limits identified the crucial role played by the confineme
     <img src="/images/methane flames.png" style="width: 40%;">
 </p>
 <p align="center"><b>Images from the pan-spectral camera as a function of the mixture equivalence ratio for a given methane volumetric flow rate, for two different confinement area ratios (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
-<br>
+
 The experimental protocol described here can also be modified to study other phenomena or conditions, allowing for a deeper understanding of turbulent combustion processes and expanding the applicability of this setup to other areas of combustion technology research and development.
 
 ### Development of Lubricants and Bioproducts
