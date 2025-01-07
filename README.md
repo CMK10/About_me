@@ -282,7 +282,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 5. Carolina S. Mergulhão, Tatiana D. Saint’Pierre, Christiane B. Duyck (2013). Organometallic characterization of Brazilian crude oils. FAPERJ report. (In Portuguese)
 
 ## Collaborations & Contracts
-
+## Collaborations & Contracts
 - ADEME / Hauts-de-France Region, 2017, France, budget: 60 k€  
   *Experimental Study of the Combustion Kinetics of Biofuels from Lignocellulosic Biomass at High Pressures.*
 
