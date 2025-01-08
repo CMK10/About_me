@@ -43,11 +43,10 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
 ### Chemical Kinetics of Biofuel Combustion
 
-[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)
-[Publication](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)
-[Publication](https://www.mdpi.com/1996-1073/14/21/7105)
-[Publication](https://www.mdpi.com/1996-1073/14/21/7105)
-
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)  
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)  
+[Publication](https://www.mdpi.com/1996-1073/14/21/7105)  
+[Publication](https://www.mdpi.com/1996-1073/14/21/7105)  
 
 During my doctoral research, conducted at the University of Lille within the Laboratory of Physical Chemistry of Combustion Processes and the Atmosphere (PC2A - UMR 8522), I delved into the intricate realm of biofuels, compounds derived from lignocellulosic biomass (LDC), and their potential to rapidly decarbonize the transportation sector. My project was co-funded by the ADEME (French Agency for Ecological Transition) and the Hauts-de- France region. The primary objective of my research was to evaluate the economic and technical aspects of the production and application of renewable biofuels in the current transport industry. This journey led to the establishment of a benchmark for potential novel biofuels and/or additives destined for use in gasoline engines, substantiated by a profound understanding of their combustion kinetics and co- oxidation with conventional fuels.
 
