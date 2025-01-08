@@ -60,13 +60,12 @@ My investigation focused on three key parameters influencing IDTs: mixture compo
 </b></div>
 <br>
 Even though the blending ratios are different for each mixture, the image bellow shows that the 50/50 isooctane/prenol mixtures are the only blends which show no NTC behavior. It is also interesting that this mixture has the longest ignition delay times in the region from 675 to 787 K, i.e., at low temperature and the shortest ignition delay times at high temperatures in the region from 787 to 852 K. This result suggests that the prenol is a good candidate to formulate gasoline-like biofuels considering that in the modern spark ignition engines a high-octane sensitivity is required. On the other hand, while not suppressing first-stage ignition events, cyclopentanone demonstrates great potential in increasing the ignition delays at all temperatures.
-
-<div align="center">
-    <img src="/images/PHD%20CSM%202020.png" alt="Comparison of the evolution of ignition delays of all surrogates studied" style="width: 50%;">
-</div>
-<div align="center"><b>Comparison of the evolution of first stage ignition delays (open symbols) and total ignition delays (full symbols) of all surrogates studied) with temperature, at p<sub>C</sub> = 20 bar (Mergulhão, PhD Thesis, 2020).
-</b></div>
-<br>
+</p>
+<p align="center">
+    <img src="/images/PHD CSM 2020.png" style="width: 50%;">
+</p>
+<p align="center"><b>Comparison of the evolution of first stage ignition delays (open symbols) and total ignition delays (full symbols) of all surrogates studied with temperature, at p<sub>C</sub> = 20 bar (Mergulhão, PhD Thesis, 2020).
+</b></p>
 For the modeling results it is observed that the current isooctane model seems to overestimate the conversion of isooctane during the first-stage, while the one of anisole is captured accuratelyThis shows the good performance of the model in capturing both the first-stage and total ignition delay in these conditions. The overestimated conversion of isooctane can however be correlated to the too high reactivity of the model in the intermediate temperature region. For the prenol model, it overestimates the reactivity of the isooctane/prenol (50/50)/O<sub>2</sub>/inert mixture, for all temperature range. The ignition phenomenology is, therefore, maintained, i.e., with no presence of NTC region. These results showed a constant underprediction of the IDTs of isooctane/prenol mixture of about a factor of two. These are encouraging results, but further modeling work should aim at reducing the global reactivity for these mixtures.
 </p>
 <p align="center">
