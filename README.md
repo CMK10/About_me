@@ -181,7 +181,8 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 - Collaborated with teams to develop data-driven projects, focusing on the application of Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, SQL, TensorFlow, Keras, UNIX, and Git  
 - Applied advanced statistical, machine learning techniques, data analysis, and visualization to solve real-world data challenges  
-
+**Secondary School Teacher** 
+**Secondary School Teacher** 
 **Secondary School Teacher**  
 *12/2022 - 04/2023*  
 *Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany*  
