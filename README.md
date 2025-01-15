@@ -4,10 +4,10 @@
 
 Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion processes
 
-:e-mail: <carol.mergulhao10@gmail.com>  
+:e-mail: <carol.mergulhao10@gmail.com>    
 :briefcase: [www.linkedin.com/in/carolina-mergulhao-körber](www.linkedin.com/in/carolina-mergulhao-körber) 
-:microscope: <www.researchgate.net/profile/Carolina-Mergulhao-Koerber>
-
+:microscope: [www.researchgate.net/profile/Carolina-Mergulhao-Koerber](www.researchgate.net/profile/Carolina-Mergulhao-Koerber)  
+  
 ## Technical Skills
 
 ### Programming and Computational Tools  
