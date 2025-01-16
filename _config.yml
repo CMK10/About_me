@@ -7,3 +7,6 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+baseurl: "/aboutme"  # Your repository name
+url: "https://carolinakorber.github.io"  # Your GitHub username's pages URL
