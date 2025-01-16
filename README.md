@@ -57,14 +57,14 @@ In order to investigate autoignition under these conditions, I measured the igni
 My investigation focused on three key parameters influencing IDTs: mixture composition, compressed pressure, and the adiabatic core temperature. Specifically, the blending effect of LDC was explored by varying its concentration in the surrogate, a simplified mixture used to allow the understanding of co- oxidation with conventional fuels such as gasoline. The composition effect was investigated by varying the amount of LDC within isooctane mixtures and by varying the compression pressure from 14 to 25 bar. The effect of temperature on the IDT was investigated at 20 bar, and core gas temperatures ranging from 665 to 870 K. The surrogates were formulated at stoichiometric conditions and prepared until the LDC fraction reached the maximum reasonable value given their volatility. The experimental setup also allowed for physical sampling during ignition delay, contributing to detailed kinetic model validation. The chemical analysis of sampled products was conducted using gas chromatography coupled with mass spectrometry and thermal conductivity (TCD) / flame ionization (FID) detectors. A hierarchical methodology was employed to develop a kinetic mechanism, combining a detailed model for isooctane from Lawrence Livermore National Laboratory (LLNL) with a sub-mechanism for anisole, contributing to a comprehensive understanding of ignition delay in biofuel surrogates. For prenol, the Co-optima model, developed by LLNL, was used to simulate the autoignition phenomena. A summary outline of the process used for the development and validation of kinetic models is presented below.
 </p>
 <p align="center">
-    <img src="/assets/img/diagram phd.png" style="width: 70%;">
+    <img src="/assets/img/diagram_phd.png" style="width: 70%;">
 </p>
 <p align="center"><b>Diagram of the process used for the development/validation of kinetic mechanisms using experimental RCM data (Mergulhão, PhD Thesis, 2020).
 </b></p>
 Even though the blending ratios are different for each mixture, the image bellow shows that the 50/50 isooctane/prenol mixtures are the only blends which show no NTC behavior. It is also interesting that this mixture has the longest ignition delay times in the region from 675 to 787 K, i.e., at low temperature and the shortest ignition delay times at high temperatures in the region from 787 to 852 K. This result suggests that the prenol is a good candidate to formulate gasoline-like biofuels considering that in the modern spark ignition engines a high-octane sensitivity is required. On the other hand, while not suppressing first-stage ignition events, cyclopentanone demonstrates great potential in increasing the ignition delays at all temperatures.
 </p>
 <p align="center">
-    <img src="/assets/img/PHD CSM 2020.png" style="width: 50%;">
+    <img src="/assets/img/phd_csm_2020.png" style="width: 50%;">
 </p>
 <p align="center"><b>Comparison of the evolution of first stage ignition delays (open symbols) and total ignition delays (full symbols) of all surrogates studied with temperature, at p<sub>C</sub> = 20 bar (Mergulhão, PhD Thesis, 2020).
 </b></p>
