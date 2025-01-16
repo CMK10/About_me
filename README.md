@@ -64,14 +64,14 @@ My investigation focused on three key parameters influencing IDTs: mixture compo
 Even though the blending ratios are different for each mixture, the image bellow shows that the 50/50 isooctane/prenol mixtures are the only blends which show no NTC behavior. It is also interesting that this mixture has the longest ignition delay times in the region from 675 to 787 K, i.e., at low temperature and the shortest ignition delay times at high temperatures in the region from 787 to 852 K. This result suggests that the prenol is a good candidate to formulate gasoline-like biofuels considering that in the modern spark ignition engines a high-octane sensitivity is required. On the other hand, while not suppressing first-stage ignition events, cyclopentanone demonstrates great potential in increasing the ignition delays at all temperatures.
 </p>
 <p align="center">
-    <img src="/images/PHD CSM 2020.png" style="width: 50%;">
+    <img src="/assets/img/PHD CSM 2020.png" style="width: 50%;">
 </p>
 <p align="center"><b>Comparison of the evolution of first stage ignition delays (open symbols) and total ignition delays (full symbols) of all surrogates studied with temperature, at p<sub>C</sub> = 20 bar (Mergulhão, PhD Thesis, 2020).
 </b></p>
 For the modeling results it is observed that the current isooctane model seems to overestimate the conversion of isooctane during the first-stage, while the one of anisole is captured accuratelyThis shows the good performance of the model in capturing both the first-stage and total ignition delay in these conditions. The overestimated conversion of isooctane can however be correlated to the too high reactivity of the model in the intermediate temperature region. For the prenol model, it overestimates the reactivity of the isooctane/prenol (50/50)/O<sub>2</sub>/inert mixture, for all temperature range. The ignition phenomenology is, therefore, maintained, i.e., with no presence of NTC region. These results showed a constant underprediction of the IDTs of isooctane/prenol mixture of about a factor of two. These are encouraging results, but further modeling work should aim at reducing the global reactivity for these mixtures.
 </p>
 <p align="center">
-    <img src="/images/fig 3 phd.png" style="width: 70%;">
+    <img src="/assets/img/fig 3 phd.png" style="width: 70%;">
 </p>
 <p align="center"><b>Evolution of first-stage and total ignition delays of isooctane/O<sub>2</sub>/inert and isooctane/anisole (60/40)/O<sub>2</sub>/inert mixtures. PTD<sub>C</sub> = 20 bar, Φ = 1. Full lines correspond to the updated model, dashed lines the initial model (right). Isooctane/prenol (50/50)/O<sub>2</sub>/inert mixtures results (left). Full lines correspond to the simulated results.
 </b></p>
@@ -90,7 +90,7 @@ The complex process of soot formation, characterized by particle aggregation and
 In this project, a new experimental system was developed for quantifying soot in ethylene and Liquefied Petroleum Gas (LPG - mixture of propane and butane) flames. A Gülder burner with non-premixed flames was constructed to measure the soot volumetric fraction by varying fuel flows and HAB values (height above the burner surface). The Gülder burner and the experimental bench developed in this project are presented in the following figure.
 </p>
 <p align="center">
-    <img src="/images/gulder burner.png" style="width: 60%;">
+    <img src="/assets/img/gulder burner.png" style="width: 60%;">
 </p>
 <p align="center"><b>Gülder burner (left) and experimental bench (right) (adapted from Mergulhão et al., PFE, 2016).</b></p>
 
@@ -101,7 +101,7 @@ The data obtained in mV by the photodetectors were converted into ppm based on a
 The results revealed significant variations in the soot volumetric fraction at different flow rates and positions in the flame for both fuels, a significant increase in the volumetric fraction for higher flow rates was observed. This pattern suggests that the increase in fuel flow rate is associated with an increased production of soot particles during combustion. Regarding the flame position, for ethylene, the soot volumetric fraction showed a constant increase with burner height, reaching a peak before decreasing, for all analyzed flow rates. In the case of Liquefied Petroleum Gas (LPG), this behavior was observed only for lower flow rates, while for higher flow rates, the volumetric fraction of soot increased with the rise in flame position. These results, presented in the following figure, suggest a complex relationship between combustion flow rate and soot formation.
 </p>
 <p align="center">
-    <img src="/images/fign5 soot formation.png" style="width: 40%;">
+    <img src="/assets/img/fign5 soot formation.png" style="width: 40%;">
 </p>
 <p align="center"><b> Relationship between the soot volumetric fraction and the height above the burner surface (HAB) for ethylene (adapted from Mergulhão et al., PFE, 2016).</b></p>
 
@@ -114,7 +114,7 @@ This research project was a crucial experience for deepening my understanding of
 Within collaborative research projects, I actively engaged in the international project conducted at the Combustion and Turbulence Laboratory of PUC-Rio, Brazil, with Engineer Philippe Scouflaire and Prof. Nasser Darabiha from the EM2C Laboratory, CNRS - UPR 288, CentraleSupélec, Université Paris- Saclay, France. The main objective of the project was the experimental characterization of the stabilization of premixed and swirled turbulent flames, a crucial aspect of turbulent combustion technologies in lean mixtures. This work aimed to contribute to the development of cleaner and more efficient combustion technologies, particularly for gas turbines and industrial burners.
 Premixed turbulent combustion technologies often involve swirl-stabilized combustion, presenting fundamental challenges in predicting the burner blow-off limits adequately. Among the factors influencing swirled turbulent flame and burner behavior, the geometric characteristics of the swirl device and the combustion chamber are crucial. In this study, my goal was to experimentally characterize the geometry of the swirl device and the influence of the combustion chamber confinement on blow-off characteristics, as well as the topologies of premixed turbulent methane-air flames stabilized by the swirl effect. A new experimental bench, depicted in the figure below, was designed, enabling easy modification of the radial geometric characteristics of the swirl device and the confinement of the combustion chamber.
 <p align="center">
-    <img src="/images/best flame.png" style="width: 60%;">
+    <img src="/assets/img/best flame.png" style="width: 60%;">
 </p>
 <p align="center"><b>Configurations of swirl device (left) and assembly of burner, swirl device, cooling plate, and confinement (right) (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
 
@@ -122,7 +122,7 @@ Time-integrated, pan-spectral chemiluminescence images of the combustion process
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
 The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
 <p align="center">
-    <img src="/images/methane flames.png" style="width: 40%;">
+    <img src="/assets/img/methane flames.png" style="width: 40%;">
 </p>
 <p align="center"><b>Images from the pan-spectral camera as a function of the mixture equivalence ratio for a given methane volumetric flow rate, for two different confinement area ratios (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
 
@@ -143,7 +143,7 @@ I also conducted a variety of laboratory tests, adhering to regulatory standards
 This internship enriched my understanding of the formulation and quality control processes of lubricants and biolubricants, highlighting the importance of a comprehensive perspective that integrates the economic and environmental dimensions of their production and application. My immersion in the regulatory standards of the petroleum industry, along with the understanding of the terminology related to petroleum products, chemical handling, and disposal procedures, helped me to strengthen my engineering and scientific knowledge. Moreover, this experience provided me with a privileged perspective on the progress of the industrial research and development in lubricants, shedding light on the complexities of the patenting process and the dynamics of partnerships between industry and university.
 
 <p align="center">
-    <img src="/images/petrobras.jpeg" style="width: 30%;">
+    <img src="/assets/img/petrobras.jpeg" style="width: 30%;">
 </p>
 <p align="center"><b>Cenpes Petrobras (Unit of Research Center of Petrobras responsible for R&D and basic engineering).</b></p>
 
@@ -156,7 +156,7 @@ Characterization of Brazilian oils, with a particular emphasis on determining th
 The Ni/V ratio is a geochemical parameter used to study the origin of oil, as well as the effects of maturation and biodegradation during the processes of formation and accumulation. These elements are primarily found in the aromatic and polar fractions of crude oil, in the form of organometallic complexes with tetrapyrrolic nuclei, known as porphyrins, as indicated in the image below. The presence of Ni and V can be considered a "fingerprint" due to the relationship between their concentrations, which is maintained throughout the refining process, thus providing crucial information about its geological origin.
 
 <p align="center">
-    <img src="/images/etioporfirinas.png" style="width: 20%;">
+    <img src="/assets/img/etioporfirinas.png" style="width: 20%;">
 </p>
 <p align="center"><b>Etioporphyrin present in petroleum. M: VO<sub>2</sub><sup>+</sup> ou Ni<sub>2</sub><sup>+</sup> (Mergulhão et al., 36<sup>th</sup> RASBQ, 2013).</b></p>
 
