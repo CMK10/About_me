@@ -71,7 +71,7 @@ Even though the blending ratios are different for each mixture, the image bellow
 For the modeling results it is observed that the current isooctane model seems to overestimate the conversion of isooctane during the first-stage, while the one of anisole is captured accuratelyThis shows the good performance of the model in capturing both the first-stage and total ignition delay in these conditions. The overestimated conversion of isooctane can however be correlated to the too high reactivity of the model in the intermediate temperature region. For the prenol model, it overestimates the reactivity of the isooctane/prenol (50/50)/O<sub>2</sub>/inert mixture, for all temperature range. The ignition phenomenology is, therefore, maintained, i.e., with no presence of NTC region. These results showed a constant underprediction of the IDTs of isooctane/prenol mixture of about a factor of two. These are encouraging results, but further modeling work should aim at reducing the global reactivity for these mixtures.
 </p>
 <p align="center">
-    <img src="/assets/img/fig 3 phd.png" style="width: 70%;">
+    <img src="{{ site.baseurl }}/assets/img/fig_3_phd.png" style="width: 70%;">
 </p>
 <p align="center"><b>Evolution of first-stage and total ignition delays of isooctane/O<sub>2</sub>/inert and isooctane/anisole (60/40)/O<sub>2</sub>/inert mixtures. PTD<sub>C</sub> = 20 bar, Φ = 1. Full lines correspond to the updated model, dashed lines the initial model (right). Isooctane/prenol (50/50)/O<sub>2</sub>/inert mixtures results (left). Full lines correspond to the simulated results.
 </b></p>
