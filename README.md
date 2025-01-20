@@ -91,7 +91,6 @@ In this project, a new experimental system was developed for quantifying soot in
 </p>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/gulder_burner.png" style="width: 60%;">
-    <img src="/assets/img/gulder burner.png" style="width: 60%;">
 </p>
 <p align="center"><b>Gülder burner (left) and experimental bench (right) (adapted from Mergulhão et al., PFE, 2016).</b></p>
 
@@ -102,7 +101,7 @@ The data obtained in mV by the photodetectors were converted into ppm based on a
 The results revealed significant variations in the soot volumetric fraction at different flow rates and positions in the flame for both fuels, a significant increase in the volumetric fraction for higher flow rates was observed. This pattern suggests that the increase in fuel flow rate is associated with an increased production of soot particles during combustion. Regarding the flame position, for ethylene, the soot volumetric fraction showed a constant increase with burner height, reaching a peak before decreasing, for all analyzed flow rates. In the case of Liquefied Petroleum Gas (LPG), this behavior was observed only for lower flow rates, while for higher flow rates, the volumetric fraction of soot increased with the rise in flame position. These results, presented in the following figure, suggest a complex relationship between combustion flow rate and soot formation.
 </p>
 <p align="center">
-    <img src="/assets/img/fign5 soot formation.png" style="width: 40%;">
+    <img src="{{ site.baseurl }}/assets/img/fign5_soot_formation.png" style="width: 40%;">
 </p>
 <p align="center"><b> Relationship between the soot volumetric fraction and the height above the burner surface (HAB) for ethylene (adapted from Mergulhão et al., PFE, 2016).</b></p>
 
