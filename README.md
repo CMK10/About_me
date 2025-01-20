@@ -90,6 +90,7 @@ The complex process of soot formation, characterized by particle aggregation and
 In this project, a new experimental system was developed for quantifying soot in ethylene and Liquefied Petroleum Gas (LPG - mixture of propane and butane) flames. A Gülder burner with non-premixed flames was constructed to measure the soot volumetric fraction by varying fuel flows and HAB values (height above the burner surface). The Gülder burner and the experimental bench developed in this project are presented in the following figure.
 </p>
 <p align="center">
+    <img src="{{ site.baseurl }}/assets/img/gulder_burner.png" style="width: 60%;">
     <img src="/assets/img/gulder burner.png" style="width: 60%;">
 </p>
 <p align="center"><b>Gülder burner (left) and experimental bench (right) (adapted from Mergulhão et al., PFE, 2016).</b></p>
