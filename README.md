@@ -114,7 +114,7 @@ This research project was a crucial experience for deepening my understanding of
 Within collaborative research projects, I actively engaged in the international project conducted at the Combustion and Turbulence Laboratory of PUC-Rio, Brazil, with Engineer Philippe Scouflaire and Prof. Nasser Darabiha from the EM2C Laboratory, CNRS - UPR 288, CentraleSupélec, Université Paris- Saclay, France. The main objective of the project was the experimental characterization of the stabilization of premixed and swirled turbulent flames, a crucial aspect of turbulent combustion technologies in lean mixtures. This work aimed to contribute to the development of cleaner and more efficient combustion technologies, particularly for gas turbines and industrial burners.
 Premixed turbulent combustion technologies often involve swirl-stabilized combustion, presenting fundamental challenges in predicting the burner blow-off limits adequately. Among the factors influencing swirled turbulent flame and burner behavior, the geometric characteristics of the swirl device and the combustion chamber are crucial. In this study, my goal was to experimentally characterize the geometry of the swirl device and the influence of the combustion chamber confinement on blow-off characteristics, as well as the topologies of premixed turbulent methane-air flames stabilized by the swirl effect. A new experimental bench, depicted in the figure below, was designed, enabling easy modification of the radial geometric characteristics of the swirl device and the confinement of the combustion chamber.
 <p align="center">
-    <img src="/assets/img/best flame.png" style="width: 60%;">
+    <img src="{{ site.baseurl }}/assets/img/best_flame.png" style="width: 60%;">
 </p>
 <p align="center"><b>Configurations of swirl device (left) and assembly of burner, swirl device, cooling plate, and confinement (right) (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
 
@@ -122,7 +122,7 @@ Time-integrated, pan-spectral chemiluminescence images of the combustion process
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
 The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
 <p align="center">
-    <img src="/assets/img/methane flames.png" style="width: 40%;">
+    <img src="{{ site.baseurl }}/assets/img/methane_flame.png" style="width: 40%;">
 </p>
 <p align="center"><b>Images from the pan-spectral camera as a function of the mixture equivalence ratio for a given methane volumetric flow rate, for two different confinement area ratios (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
 
