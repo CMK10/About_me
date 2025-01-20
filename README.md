@@ -143,7 +143,7 @@ I also conducted a variety of laboratory tests, adhering to regulatory standards
 This internship enriched my understanding of the formulation and quality control processes of lubricants and biolubricants, highlighting the importance of a comprehensive perspective that integrates the economic and environmental dimensions of their production and application. My immersion in the regulatory standards of the petroleum industry, along with the understanding of the terminology related to petroleum products, chemical handling, and disposal procedures, helped me to strengthen my engineering and scientific knowledge. Moreover, this experience provided me with a privileged perspective on the progress of the industrial research and development in lubricants, shedding light on the complexities of the patenting process and the dynamics of partnerships between industry and university.
 
 <p align="center">
-    <img src="/assets/img/petrobras.jpeg" style="width: 30%;">
+    <img src="{{ site.baseurl }}/assets/img/petrobras.png" style="width: 30%;">
 </p>
 <p align="center"><b>Cenpes Petrobras (Unit of Research Center of Petrobras responsible for R&D and basic engineering).</b></p>
 
@@ -156,7 +156,7 @@ Characterization of Brazilian oils, with a particular emphasis on determining th
 The Ni/V ratio is a geochemical parameter used to study the origin of oil, as well as the effects of maturation and biodegradation during the processes of formation and accumulation. These elements are primarily found in the aromatic and polar fractions of crude oil, in the form of organometallic complexes with tetrapyrrolic nuclei, known as porphyrins, as indicated in the image below. The presence of Ni and V can be considered a "fingerprint" due to the relationship between their concentrations, which is maintained throughout the refining process, thus providing crucial information about its geological origin.
 
 <p align="center">
-    <img src="/assets/img/etioporfirinas.png" style="width: 20%;">
+    <img src="{{ site.baseurl }}/assets/img/etioporfirinas.png" style="width: 20%;">
 </p>
 <p align="center"><b>Etioporphyrin present in petroleum. M: VO<sub>2</sub><sup>+</sup> ou Ni<sub>2</sub><sup>+</sup> (Mergulhão et al., 36<sup>th</sup> RASBQ, 2013).</b></p>
 
