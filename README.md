@@ -30,7 +30,7 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 - **Good Knowledge**: :es: Spanish
 
 ## Education
-
+## Education
 **PhD, Energy: Heat Transfers and Combustion (2020)**  
 [Université de Lille](https://www.univ-lille.fr)  
 [Experimental and kinetic modeling study on the reactivity of biofuels derived from lignocellulosic biomass at engine relevant conditions](https://www.theses.fr/25582274X)  
