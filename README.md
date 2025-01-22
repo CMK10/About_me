@@ -9,6 +9,7 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 :microscope: [www.researchgate.net/profile/Carolina-Mergulhao-Koerber](www.researchgate.net/profile/Carolina-Mergulhao-Koerber)  
   
 ## Technical Skills
+## Technical Skills
 
 ### Programming and Computational Tools  
 
