@@ -26,9 +26,9 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
 ## Languages
 
-- **Professional Competence**: :gb: English, :de: German, :fr: French
+- **Professional Competence**: 🇬🇧 English, 🇩🇪  German, 🇫🇷 French
 - **Native Speaker**: 🇧🇷 Portuguese
-- **Good Knowledge**: :es: Spanish
+- **Good Knowledge**: 🇪🇸  Spanish
 
 ## Education
 
