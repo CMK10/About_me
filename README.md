@@ -2,7 +2,7 @@
 
 ## Chemical Engineer | Research & Data Scientist
 
-Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion processes
+Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
 📧 <carol.mergulhao10@gmail.com>  
 💼 [www.linkedin.com/in/carolina-mergulhao-körber](www.linkedin.com/in/carolina-mergulhao-körber)  
