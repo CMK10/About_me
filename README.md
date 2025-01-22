@@ -168,7 +168,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 ## Experience
 
-**Career Break**
+**Career Break**  
 *11/2023 - present*  
 *Dormagen, Germany*  
 
