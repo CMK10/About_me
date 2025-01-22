@@ -12,9 +12,10 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
 ### Programming and Computational Tools  
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy), Plotly/Dash  
-- Git, Cantera  
+- Python (Pandas, NumPy, Scikit-Learn, SciPy), Plotly/Dash
 - Matlab  
+- Git, Cantera  
+  
 
 ### Laboratory and Industrial Expertise  
 
