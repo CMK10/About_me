@@ -21,8 +21,9 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
 - Lab Management, Technical Documentation
 - Industrial Research and Innovation, Regulatory Compliance
-- Design of Experiments  
-- Gas Chromatography (GC-MS, FID/TCD), Statistics, Kinetic Modeling  
+- Design of Experiments
+- Statistics  
+- Gas Chromatography (GC-MS, FID/TCD), Kinetic Modeling  
 
 ## Languages
 
