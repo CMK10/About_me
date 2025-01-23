@@ -8,8 +8,6 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
   
 ## Technical Skills
 
-## Technical Skills
-
 ### Programming and Computational Tools  
 
 - Python (Pandas, NumPy, Scikit-Learn, SciPy), Plotly/Dash
