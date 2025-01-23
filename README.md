@@ -130,13 +130,16 @@ The data obtained in mV by the photodetectors were converted into ppm based on a
 <br>
 <div style="text-align: justify;">
 The results revealed significant variations in the soot volumetric fraction at different flow rates and positions in the flame for both fuels, a significant increase in the volumetric fraction for higher flow rates was observed. This pattern suggests that the increase in fuel flow rate is associated with an increased production of soot particles during combustion. Regarding the flame position, for ethylene, the soot volumetric fraction showed a constant increase with burner height, reaching a peak before decreasing, for all analyzed flow rates. In the case of Liquefied Petroleum Gas (LPG), this behavior was observed only for lower flow rates, while for higher flow rates, the volumetric fraction of soot increased with the rise in flame position. These results, presented in the following figure, suggest a complex relationship between combustion flow rate and soot formation.
-</p>
+</div>
+
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/fign5_soot_formation.png" style="width: 90%;">
 </p>
 <p align="center"><b> Relationship between the soot volumetric fraction and the height above the burner surface (HAB) for ethylene (adapted from Mergulhão et al., PFE, 2016).</b></p>
 
+<div style="text-align: justify;">
 This research project was a crucial experience for deepening my understanding of the soot formation processes in the flames of ethylene and Liquefied Petroleum Gas (LPG). The obtained results, including the validation of the new experimental bench through data comparison with the literature for ethylene, pave the way for future studies on other fuels. This experience has been enriching, combining theoretical knowledge of combustion thermodynamics with practical skills in the design and construction of the Gülder burner, as well as in optical diagnostics. It has strengthened my understanding of the complex mechanisms of soot formation, emphasizing the importance of this research in developing strategies to mitigate the environmental impacts of combustion.
+</div>
 
 ### Stabilization of Turbulent Methane Flames
 
