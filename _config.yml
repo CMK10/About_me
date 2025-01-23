@@ -10,3 +10,13 @@ plugins:
 
 baseurl: "/About_me"  
 url: "https://carolinakorber.github.io"  
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+plugins:
+  - jekyll-remote-theme
+  - markdownify_assets
