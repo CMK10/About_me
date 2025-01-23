@@ -99,23 +99,36 @@ My doctoral journey allowed me to address the potential of several advanced biof
 
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
 
+<div style="text-align: justify;">
 During this project funded by the CNPq (National Council for Scientific and Technological Development), institution affiliated with the Brazilian Ministry of Science, Technology, and Innovation, I explored soot formation in hydrocarbon and air flames. The primary motivation was to gain a thorough understanding of soot formation processes to develop strategies mitigating environmental impacts. This commitment to environmental protection aimed to contribute to cleaner and sustainable combustion practices, considering the negative impacts of soot, particularly on air pollution and its potential role in climate change. The results of this research were published as part of my chemical engineering final project (FP).
-
+</div>
+<br>
+<div style="text-align: justify;">
 Soot formation during hydrocarbon combustion has environmental and health repercussions, releasing fine particles contributing to air pollution. The typical diameter of a soot particle ranges from nanometers to micrometers, presenting extremely small dimensions that facilitate dispersion in the air. These fine particles can penetrate deep into human respiratory pathways, posing a direct threat to lung health. Composed of harmful substances such as volatile organic compounds and polycyclic aromatic hydrocarbons, these particles pose risks not only to human health but also to the ecosystem. Moreover, soot deposited on reflective surfaces like ice and snow reduces reflectivity, absorbing more solar energy, contributing to local temperature increases and accelerating glacier melting.
-
+</div>
+<br>
+<div style="text-align: justify;">
 The complex process of soot formation, characterized by particle aggregation and a primary spherical structure, begins with the pyrolysis of fuel molecules in the fuel-rich region of the flame, leading to the formation of polycyclic aromatic hydrocarbons (PAHs), with acetylene (C<sub>2</sub>H<sub>2</sub>) being the most significant precursor. Subsequent events such as vapor-phase nucleation, mass and size growth through coalescence, coagulation, and surface condensation reactions of vapor species occur, resulting in aggregation into a fractal structure in a very short time, typically a few milliseconds.
-
+</div>
+<br>
+<div style="text-align: justify;">
 In this project, a new experimental system was developed for quantifying soot in ethylene and Liquefied Petroleum Gas (LPG - mixture of propane and butane) flames. A Gülder burner with non-premixed flames was constructed to measure the soot volumetric fraction by varying fuel flows and HAB values (height above the burner surface). The Gülder burner and the experimental bench developed in this project are presented in the following figure.
-</p>
+</div>
+
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/gulder_burner.png" style="width: 100%;">
 </p>
 <p align="center"><b>Gülder burner (left) and experimental bench (right) (adapted from Mergulhão et al., PFE, 2016).</b></p>
 
+<div style="text-align: justify;">
 By employing the extinction technique, based on Lambert-Beer's law, I was able to quantify the formation of soot. This technique measures the intensity of incident light (I0) and transmitted light (I) in a flame containing a cloud of particles. When a laser beam passes through a medium, three phenomena occur: refraction, absorption, and scattering. Absorption results in a reduction of beam intensity due to the opacity of the medium and is proportional to the volumetric fraction of soot in the flame.
-
+</div>
+<br>
+<div style="text-align: justify;">
 The data obtained in mV by the photodetectors were converted into ppm based on adjustments of the soot volumetric fraction measurement results, taking into account their refraction index. In this process, it is assumed that the particle size is much smaller than the laser wavelength, with a laser of 𝜆=532 nm being used in this study. Before measuring with the fuels, a calibration in two main steps was performed. The first step established the initial reference point (zero) for measurements without laser passage, and the second, conducted with laser passage without flame interference, served as the 100% reference (full scale) of the signal transmitted along the optical path, without attenuation.
-
+</div>
+<br>
+<div style="text-align: justify;">
 The results revealed significant variations in the soot volumetric fraction at different flow rates and positions in the flame for both fuels, a significant increase in the volumetric fraction for higher flow rates was observed. This pattern suggests that the increase in fuel flow rate is associated with an increased production of soot particles during combustion. Regarding the flame position, for ethylene, the soot volumetric fraction showed a constant increase with burner height, reaching a peak before decreasing, for all analyzed flow rates. In the case of Liquefied Petroleum Gas (LPG), this behavior was observed only for lower flow rates, while for higher flow rates, the volumetric fraction of soot increased with the rise in flame position. These results, presented in the following figure, suggest a complex relationship between combustion flow rate and soot formation.
 </p>
 <p align="center">
