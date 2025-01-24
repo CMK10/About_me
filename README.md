@@ -146,36 +146,56 @@ This research project was a crucial experience for deepening my understanding of
 
 [Publication](https://www.researchgate.net/publication323209516_Experimental_Study_of_a_Lean_Premixed_Turbulent_Swirling_Flame_Stabilization)
 
+<div style="text-align: justify;">
 Within collaborative research projects, I actively engaged in the international project conducted at the Combustion and Turbulence Laboratory of PUC-Rio, Brazil, with Engineer Philippe Scouflaire and Prof. Nasser Darabiha from the EM2C Laboratory, CNRS - UPR 288, CentraleSupélec, Université Paris- Saclay, France. The main objective of the project was the experimental characterization of the stabilization of premixed and swirled turbulent flames, a crucial aspect of turbulent combustion technologies in lean mixtures. This work aimed to contribute to the development of cleaner and more efficient combustion technologies, particularly for gas turbines and industrial burners.
 Premixed turbulent combustion technologies often involve swirl-stabilized combustion, presenting fundamental challenges in predicting the burner blow-off limits adequately. Among the factors influencing swirled turbulent flame and burner behavior, the geometric characteristics of the swirl device and the combustion chamber are crucial. In this study, my goal was to experimentally characterize the geometry of the swirl device and the influence of the combustion chamber confinement on blow-off characteristics, as well as the topologies of premixed turbulent methane-air flames stabilized by the swirl effect. A new experimental bench, depicted in the figure below, was designed, enabling easy modification of the radial geometric characteristics of the swirl device and the confinement of the combustion chamber.
+</div>
+
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/best_flame.png" style="width: 100%;">
 </p>
 <p align="center"><b>Configurations of swirl device (left) and assembly of burner, swirl device, cooling plate, and confinement (right) (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
 
+<div style="text-align: justify;">
 Time-integrated, pan-spectral chemiluminescence images of the combustion process were captured using a Canon EOS Rebel TS camera. Equipped with a 58mm diameter lens without filters, representative images were obtained at different flow rates and equivalence ratios. A LaVision Imager Intense CCD (Charge-Coupled Device) camera, fitted with a 430nm filter, was used to record flame images with a 1-second exposure time and an f-4 aperture. These chemiluminescence images are associated with the CH* radical, representing the heat release zone of premixed flames. To highlight this region, the images were deconvoluted using an Abel inversion technique employing a Fourier- transform-based algorithm. This inversion transforms line-of-sight images into a cross-sectional representation assuming axial symmetry.
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
 The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
+</div>
+
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/methane_flames.png" style="width: 80%;">
 </p>
 <p align="center"><b>Images from the pan-spectral camera as a function of the mixture equivalence ratio for a given methane volumetric flow rate, for two different confinement area ratios (adapted from Figueira da Silva et al., 24<sup>th</sup> ABCM, 2017).</b></p>
 
+<div style="text-align: justify;">
 The experimental protocol described here can also be modified to study other phenomena or conditions, allowing for a deeper understanding of turbulent combustion processes and expanding the applicability of this setup to other areas of combustion technology research and development.
+</div>
 
 ### Development of Lubricants and Bioproducts
 
+<div style="text-align: justify;">
 During my industrial internship at Petrobras, my primary contribution focused on the development of high-performance lubricants for the automotive sector, as well as for aviation, maritime, and industrial applications. My role encompassed the formulation and in-depth characterization of these lubricants through rheological analyses, aiming to ensure optimal performance under diverse conditions.
-
+</div>
+<br>
+<div style="text-align: justify;">
 Lubricants can be formulated solely with base oils (mineral, vegetable, and/or synthetic) or with additives. Additives are essential to guarantee specific properties and excellent performance, with recommended addition percentages ranging from 0.25% to 28% by volume. Its addition to base oils offers advantages in properties such as dispersancy, detergency, antioxidant, corrosion prevention, anti- foam, viscosity modification, emulsion, adhesion, etc. Mineral base oils, derived from petroleum, depend on the refining process, and significantly influence the characteristics of lubricants as their main components. They can be obtained through treatments such as atmospheric distillation, vacuum distillation, or solvent extraction.
-
+</div>
+<br>
+<div style="text-align: justify;">
 Concerning automotive lubricants, my work focused on the formulation of high-performance competition lubricants. In 2014, Petrobras collaborated with the Williams F1 Team, providing fuel and lubricants produced at Cenpes (Petrobras Research Center). This allowed me to develop a thorough understanding of the composition of lubricating oils and their specific applications in high-quality demanding environments such as Formula 1.
-
+</div>
+<br>
+<div style="text-align: justify;">
 Simultaneously, motivated by growing environmental concerns related to the negative impacts of lubricants on our ecosystem, I actively participated in the development of biolubricants. These are designed to mitigate the harmful environmental consequences, offering environmentally friendly solutions. Derived from vegetable oils, they are characterized by a composition incorporating natural or modified oils, exhibiting high biodegradability and low eco-toxicity. In a broader context, it is crucial to highlight the challenges posed by conventional lubricants. It is estimated that over half of these lubricants, used globally, end up in the environment, through evaporation or accidental spills. Alarmingly, most of this volume consists of non-degradable mineral or synthetic oils. Thus, in the context of my commitment to sustainable development, I focused my efforts on the development of biolubricants derived from soybean, sunflower, babassu, cotton, and carnauba, with a particular emphasis on those derived from castor oil. Thanks to their high viscosity, these biolubricants have proven particularly beneficial for ship engines and hydroelectric plant equipment, providing environmentally friendly solutions, and contributing to the reduction of environmental impacts.
-
+</div>
+<br>
+<div style="text-align: justify;">
 I also conducted a variety of laboratory tests, adhering to regulatory standards associated with lubricant production and the petroleum industry. These tests included the measurement of viscosity, viscosity index (VI), flash point, determination of water content by distillation, water and sediment separation by centrifugation, total acid number (TAN and TBN), as well as other analyses such as demulsibility, dilution, grease consistency, and dropping point. These methods were carried out in accordance with industry standards such as ISO/TC 28, ISO 3448, SAE J300, and ASTM D93, ensuring the accuracy and reliability of the obtained results.
-
+</div>
+<br>
+<div style="text-align: justify;">
 This internship enriched my understanding of the formulation and quality control processes of lubricants and biolubricants, highlighting the importance of a comprehensive perspective that integrates the economic and environmental dimensions of their production and application. My immersion in the regulatory standards of the petroleum industry, along with the understanding of the terminology related to petroleum products, chemical handling, and disposal procedures, helped me to strengthen my engineering and scientific knowledge. Moreover, this experience provided me with a privileged perspective on the progress of the industrial research and development in lubricants, shedding light on the complexities of the patenting process and the dynamics of partnerships between industry and university.
+</div>
 
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/petrobras.jpeg" style="width: 70%;">
@@ -186,20 +206,30 @@ This internship enriched my understanding of the formulation and quality control
 
 [Publication](https://www.researchgate.net/publication/356287489_Determinacao_elementar_via_ICP-MS_em_fracoes_de_oleo_cru) 
 
+<div style="text-align: justify;">
 Characterization of Brazilian oils, with a particular emphasis on determining the concentrations of nickel (Ni) and vanadium (V) using Inductively Coupled Plasma Mass Spectrometry (ICP-MS) within various fractions of crude oil. The goal was to develop a fractionation and analysis method, providing crucial data for future geochemical and petroleum industry applications. This work was conducted at the LABSPECTRO Atomic Spectrometry Laboratory (PUC-Rio) and co-funded by Petrobras and FAPERJ.
-
+</div>
+<br>
+<div style="text-align: justify;">
 The Ni/V ratio is a geochemical parameter used to study the origin of oil, as well as the effects of maturation and biodegradation during the processes of formation and accumulation. These elements are primarily found in the aromatic and polar fractions of crude oil, in the form of organometallic complexes with tetrapyrrolic nuclei, known as porphyrins, as indicated in the image below. The presence of Ni and V can be considered a "fingerprint" due to the relationship between their concentrations, which is maintained throughout the refining process, thus providing crucial information about its geological origin.
+</div>
 
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/etioporfirinas.png" style="width: 50%;">
 </p>
 <p align="center"><b>Etioporphyrin present in petroleum. M: VO<sub>2</sub><sup>+</sup> ou Ni<sub>2</sub><sup>+</sup> (Mergulhão et al., 36<sup>th</sup> RASBQ, 2013).</b></p>
 
+<div style="text-align: justify;">
 During the crude oil fractionation process, I utilized liquid chromatography columns employing specific solvents at each step. Initially, to obtain the first fraction (paraffinic, aromatic, and polar - PAP), I introduced 0.6 ml of diluted crude oil into a gravimetric column filled with activated silica. Then, a solvent mixture was added sequentially, creating a gradient of increasing polarity. When the solution became transparent, the second fraction, resin (asphaltenes), was obtained by introducing a mixture of ultrapure water, methanol, and chloroform, operated until complete evaporation. The collected fractions were evaporated using a rotary evaporator, then again under argon flow, and stored at -5 <sup>o</sup>C.
-
+</div>
+<br>
+<div style="text-align: justify;">
 The next phase of the fractionation process involved a medium-pressure column filled with activated silica in methanol. The sample was diluted in toluene and injected via a peristaltic pump, followed by solvent injections according to a decreasing polarity gradient: methanol, methanol and toluene, followed by pure toluene. The system, including a UV-Vis spectroscopy detector coupled with a multimeter to monitor the solution's voltage, indicated the moment of fraction cutting. The fractions were obtained in the following order, according to the decreasing polarity gradient of the solvent: paraffin, FR1 (heavy polar), FR2 (heavy aromatic, polar), FR3 (aromatics). The masses of the fractions were determined and stored at -20 <sup>o</sup>C. The subsequent decomposition of the fractions in a microwave oven was performed to ensure complete decomposition. All samples were decomposed twice to ensure reproducibility. After decomposition, the samples were diluted in water and subjected to ICP-MS analysis. Mass balance calculations showed a preconcentration of Ni and V in FR1 and FR2, confirmed by their respective concentrations compared to reference samples.
-
+</div>
+<br>
+<div style="text-align: justify;">
 Overall, the innovative approach to organometallic characterization of Brazilian oils offers promising perspectives for a better geochemical understanding. This fractionation and analysis methodology has illuminated the precise distribution of elements, establishing a solid foundation for future studies. The results enhance our understanding of the complex composition of Brazilian oils, opening significant prospects in petroleum geochemistry. This systematic approach can be extrapolated to explore other aspects of petroleum geochemistry, with potential applications extending to the petroleum industry and geochemical research.
+</div>
 
 ## Experience
 
