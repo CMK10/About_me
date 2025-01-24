@@ -63,7 +63,7 @@ In order to investigate autoignition under these conditions, I measured the igni
 <div style="text-align: justify;">
 My investigation focused on three key parameters influencing IDTs: mixture composition, compressed pressure, and the adiabatic core temperature. Specifically, the blending effect of LDC was explored by varying its concentration in the surrogate, a simplified mixture used to allow the understanding of co- oxidation with conventional fuels such as gasoline. The composition effect was investigated by varying the amount of LDC within isooctane mixtures and by varying the compression pressure from 14 to 25 bar. The effect of temperature on the IDT was investigated at 20 bar, and core gas temperatures ranging from 665 to 870 K. The surrogates were formulated at stoichiometric conditions and prepared until the LDC fraction reached the maximum reasonable value given their volatility. The experimental setup also allowed for physical sampling during ignition delay, contributing to detailed kinetic model validation. The chemical analysis of sampled products was conducted using gas chromatography coupled with mass spectrometry and thermal conductivity (TCD) / flame ionization (FID) detectors. A hierarchical methodology was employed to develop a kinetic mechanism, combining a detailed model for isooctane from Lawrence Livermore National Laboratory (LLNL) with a sub-mechanism for anisole, contributing to a comprehensive understanding of ignition delay in biofuel surrogates. For prenol, the Co-optima model, developed by LLNL, was used to simulate the autoignition phenomena. A summary outline of the process used for the development and validation of kinetic models is presented below.
 </div>
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/diagram_phd.png" style="width: 110%;">
 </p>
@@ -73,7 +73,7 @@ My investigation focused on three key parameters influencing IDTs: mixture compo
 <div style="text-align: justify;">
 Even though the blending ratios are different for each mixture, the image bellow shows that the 50/50 isooctane/prenol mixtures are the only blends which show no NTC behavior. It is also interesting that this mixture has the longest ignition delay times in the region from 675 to 787 K, i.e., at low temperature and the shortest ignition delay times at high temperatures in the region from 787 to 852 K. This result suggests that the prenol is a good candidate to formulate gasoline-like biofuels considering that in the modern spark ignition engines a high-octane sensitivity is required. On the other hand, while not suppressing first-stage ignition events, cyclopentanone demonstrates great potential in increasing the ignition delays at all temperatures.
 </div>
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/phd_csm_2020.png" style="width: 100%;">
 </p>
@@ -83,7 +83,7 @@ Even though the blending ratios are different for each mixture, the image bellow
 <div style="text-align: justify;">
 For the modeling results it is observed that the current isooctane model seems to overestimate the conversion of isooctane during the first-stage, while the one of anisole is captured accuratelyThis shows the good performance of the model in capturing both the first-stage and total ignition delay in these conditions. The overestimated conversion of isooctane can however be correlated to the too high reactivity of the model in the intermediate temperature region. For the prenol model, it overestimates the reactivity of the isooctane/prenol (50/50)/O<sub>2</sub>/inert mixture, for all temperature range. The ignition phenomenology is, therefore, maintained, i.e., with no presence of NTC region. These results showed a constant underprediction of the IDTs of isooctane/prenol mixture of about a factor of two. These are encouraging results, but further modeling work should aim at reducing the global reactivity for these mixtures.
 </div>
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/fig_3_phd.png" style="width: 110%;">
 </p>
@@ -114,7 +114,7 @@ The complex process of soot formation, characterized by particle aggregation and
 <div style="text-align: justify;">
 In this project, a new experimental system was developed for quantifying soot in ethylene and Liquefied Petroleum Gas (LPG - mixture of propane and butane) flames. A Gülder burner with non-premixed flames was constructed to measure the soot volumetric fraction by varying fuel flows and HAB values (height above the burner surface). The Gülder burner and the experimental bench developed in this project are presented in the following figure.
 </div>
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/gulder_burner.png" style="width: 100%;">
 </p>
@@ -131,7 +131,7 @@ The data obtained in mV by the photodetectors were converted into ppm based on a
 <div style="text-align: justify;">
 The results revealed significant variations in the soot volumetric fraction at different flow rates and positions in the flame for both fuels, a significant increase in the volumetric fraction for higher flow rates was observed. This pattern suggests that the increase in fuel flow rate is associated with an increased production of soot particles during combustion. Regarding the flame position, for ethylene, the soot volumetric fraction showed a constant increase with burner height, reaching a peak before decreasing, for all analyzed flow rates. In the case of Liquefied Petroleum Gas (LPG), this behavior was observed only for lower flow rates, while for higher flow rates, the volumetric fraction of soot increased with the rise in flame position. These results, presented in the following figure, suggest a complex relationship between combustion flow rate and soot formation.
 </div>
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/fign5_soot_formation.png" style="width: 90%;">
 </p>
@@ -161,7 +161,7 @@ Time-integrated, pan-spectral chemiluminescence images of the combustion process
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
 The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
 </div>  
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/methane_flames.png" style="width: 80%;">
 </p>
