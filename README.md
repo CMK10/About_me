@@ -140,6 +140,7 @@ The results revealed significant variations in the soot volumetric fraction at d
 <div style="text-align: justify;">
 This research project was a crucial experience for deepening my understanding of the soot formation processes in the flames of ethylene and Liquefied Petroleum Gas (LPG). The obtained results, including the validation of the new experimental bench through data comparison with the literature for ethylene, pave the way for future studies on other fuels. This experience has been enriching, combining theoretical knowledge of combustion thermodynamics with practical skills in the design and construction of the Gülder burner, as well as in optical diagnostics. It has strengthened my understanding of the complex mechanisms of soot formation, emphasizing the importance of this research in developing strategies to mitigate the environmental impacts of combustion.
 </div>
+<br>
 
 ### Stabilization of Turbulent Methane Flames
 
