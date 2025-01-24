@@ -214,7 +214,7 @@ Characterization of Brazilian oils, with a particular emphasis on determining th
 <div style="text-align: justify;">
 The Ni/V ratio is a geochemical parameter used to study the origin of oil, as well as the effects of maturation and biodegradation during the processes of formation and accumulation. These elements are primarily found in the aromatic and polar fractions of crude oil, in the form of organometallic complexes with tetrapyrrolic nuclei, known as porphyrins, as indicated in the image below. The presence of Ni and V can be considered a "fingerprint" due to the relationship between their concentrations, which is maintained throughout the refining process, thus providing crucial information about its geological origin.
 </div>
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/etioporfirinas.png" style="width: 50%;">
 </p>
@@ -231,6 +231,7 @@ The next phase of the fractionation process involved a medium-pressure column fi
 <div style="text-align: justify;">
 Overall, the innovative approach to organometallic characterization of Brazilian oils offers promising perspectives for a better geochemical understanding. This fractionation and analysis methodology has illuminated the precise distribution of elements, establishing a solid foundation for future studies. The results enhance our understanding of the complex composition of Brazilian oils, opening significant prospects in petroleum geochemistry. This systematic approach can be extrapolated to explore other aspects of petroleum geochemistry, with potential applications extending to the petroleum industry and geochemical research.
 </div>
+<br>
 
 ## Experience
 
