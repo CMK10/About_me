@@ -160,7 +160,7 @@ Premixed turbulent combustion technologies often involve swirl-stabilized combus
 Time-integrated, pan-spectral chemiluminescence images of the combustion process were captured using a Canon EOS Rebel TS camera. Equipped with a 58mm diameter lens without filters, representative images were obtained at different flow rates and equivalence ratios. A LaVision Imager Intense CCD (Charge-Coupled Device) camera, fitted with a 430nm filter, was used to record flame images with a 1-second exposure time and an f-4 aperture. These chemiluminescence images are associated with the CH* radical, representing the heat release zone of premixed flames. To highlight this region, the images were deconvoluted using an Abel inversion technique employing a Fourier- transform-based algorithm. This inversion transforms line-of-sight images into a cross-sectional representation assuming axial symmetry.
 For unconfined flames, two types of topologies, V-shaped and M-shaped, were observed depending on the premixing rate. The influence of confinement on flame topology was assessed based on raw chemiluminescence images obtained at 430nm, as well as Abel-deconvoluted images at 430nm, both with identical mixture flow rates and compositions. It was observed that the unconfined flame clearly adopts a V-shape. In contrast, the confined flame is primarily located near the combustion chamber wall.
 The study of blow-off limits identified the crucial role played by the confinement area ratio and, to a lesser extent, the influence of swirl geometry. Smaller area ratios led to a significant decrease in the blow-off equivalence ratio for a given mixture flow rate. In particular, it was found that the methane volumetric fraction at blow-off was as low as 4.5%, representing a substantial expansion of the burner's operational envelope. These results are presented in the following image.
-</div>
+</div>  
 
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/methane_flames.png" style="width: 80%;">
@@ -170,6 +170,7 @@ The study of blow-off limits identified the crucial role played by the confineme
 <div style="text-align: justify;">
 The experimental protocol described here can also be modified to study other phenomena or conditions, allowing for a deeper understanding of turbulent combustion processes and expanding the applicability of this setup to other areas of combustion technology research and development.
 </div>
+<br>
 
 ### Development of Lubricants and Bioproducts
 
