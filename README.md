@@ -87,7 +87,7 @@ For the modeling results it is observed that the current isooctane model seems t
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/fig_3_phd.png" style="width: 110%;">
 </p>
-<p align="center"><b>Evolution of first-stage and total ignition delays of isooctane/O<sub>2</sub>/inert and isooctane/anisole (60/40)/O<sub>2</sub>/inert mixtures. PTD<sub>C</sub> = 20 bar, Φ = 1. Full lines correspond to the updated model, dashed lines the initial model (right). Isooctane/prenol (50/50)/O<sub>2</sub>/inert mixtures results (left). Full lines correspond to the simulated results.
+<p align="center"><b>Evolution of first-stage and total ignition delays of isooctane/O<sub>2</sub>/inert and isooctane/anisole (60/40)/O<sub>2</sub>/inert mixtures. PTD<sub>C</sub> = 20 bar, Φ = 1. Full lines correspond to the updated model, dashed lines the initial model (right). Isooctane/prenol (50/50)/O<sub>2</sub>/inert mixtures results (left). Full lines correspond to the simulated results (Mergulhão, PhD Thesis, 2020).
 </b></p>
 
 <div style="text-align: justify;">
