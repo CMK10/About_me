@@ -150,7 +150,7 @@ This research project was a crucial experience for deepening my understanding of
 Within collaborative research projects, I actively engaged in the international project conducted at the Combustion and Turbulence Laboratory of PUC-Rio, Brazil, with Engineer Philippe Scouflaire and Prof. Nasser Darabiha from the EM2C Laboratory, CNRS - UPR 288, CentraleSupélec, Université Paris- Saclay, France. The main objective of the project was the experimental characterization of the stabilization of premixed and swirled turbulent flames, a crucial aspect of turbulent combustion technologies in lean mixtures. This work aimed to contribute to the development of cleaner and more efficient combustion technologies, particularly for gas turbines and industrial burners.
 Premixed turbulent combustion technologies often involve swirl-stabilized combustion, presenting fundamental challenges in predicting the burner blow-off limits adequately. Among the factors influencing swirled turbulent flame and burner behavior, the geometric characteristics of the swirl device and the combustion chamber are crucial. In this study, my goal was to experimentally characterize the geometry of the swirl device and the influence of the combustion chamber confinement on blow-off characteristics, as well as the topologies of premixed turbulent methane-air flames stabilized by the swirl effect. A new experimental bench, depicted in the figure below, was designed, enabling easy modification of the radial geometric characteristics of the swirl device and the confinement of the combustion chamber.
 </div>
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/best_flame.png" style="width: 100%;">
 </p>
@@ -197,7 +197,7 @@ I also conducted a variety of laboratory tests, adhering to regulatory standards
 <div style="text-align: justify;">
 This internship enriched my understanding of the formulation and quality control processes of lubricants and biolubricants, highlighting the importance of a comprehensive perspective that integrates the economic and environmental dimensions of their production and application. My immersion in the regulatory standards of the petroleum industry, along with the understanding of the terminology related to petroleum products, chemical handling, and disposal procedures, helped me to strengthen my engineering and scientific knowledge. Moreover, this experience provided me with a privileged perspective on the progress of the industrial research and development in lubricants, shedding light on the complexities of the patenting process and the dynamics of partnerships between industry and university.
 </div>
-
+<br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/petrobras.jpeg" style="width: 70%;">
 </p>
