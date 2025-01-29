@@ -96,6 +96,7 @@ My doctoral journey allowed me to address the potential of several advanced biof
 <br>
 
 ### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
+### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
 
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
 
