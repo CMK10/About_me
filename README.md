@@ -6,6 +6,7 @@ Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 🔬 [www.researchgate.net/profile/Carolina-Mergulhao-Koerber](www.researchgate.net/profile/Carolina-Mergulhao-Koerber)  
 
 Let's connect!
+
 <a href="https://www.linkedin.com/in/carolina-mergulhao-körber/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Connect on LinkedIn" width="40" height="40">
 </a>
