@@ -15,7 +15,7 @@ Let's connect!
 
 ### Programming and Computational Tools  
 
-- Python (Pandas, NumPy, Scikit-Learn, SciPy), Plotly/Dash
+- <i class="fab fa-python"></i> Python (Pandas, NumPy, Scikit-Learn, SciPy), Plotly/Dash
 - Matlab  
 - Git, Cantera  
   
