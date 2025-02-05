@@ -17,7 +17,7 @@ Let's connect!
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> Python (Pandas, NumPy, Scikit-Learn, SciPy), Plotly/Dash
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="20"/> Matlab  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> Git, <img src="https://avatars.githubusercontent.com/u/46238057?s=280&v=4" alt="Cantera" width="20"/> Cantera  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> Git, Cantera  
   
 
 ### Laboratory and Industrial Expertise  
