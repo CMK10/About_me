@@ -177,7 +177,7 @@ The experimental protocol described here can also be modified to study other phe
 </div>
 <br>
 
-### Development of Lubricants and Bioproducts
+### Industrial Development of Lubricants and Bioproducts
 
 <div style="text-align: justify;">
 During my industrial internship at Petrobras, my primary contribution focused on the development of high-performance lubricants for the automotive sector, as well as for aviation, maritime, and industrial applications. My role encompassed the formulation and in-depth characterization of these lubricants through rheological analyses, aiming to ensure optimal performance under diverse conditions.
