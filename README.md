@@ -12,6 +12,7 @@ Let's connect!
 </a>
   
 ## Technical Skills
+## Technical Skills
 
 ### Programming and Computational Tools  
 
