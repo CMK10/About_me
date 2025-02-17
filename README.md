@@ -1,4 +1,4 @@
-## Chemical Engineer 
+## Chemical Engineer | R&D Scientist
 
 Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
