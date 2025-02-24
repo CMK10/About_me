@@ -263,7 +263,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 - Created and delivered lesson plans, classroom, and lab activities to support academic growth
 
 **Intensive German Courses (A1 - C1)**  
-*03/2021 - 11/2022*  
+*03/2021 - 01/2023*  
 *StudyOn / Euroschule / VHS, Germany*  
 
 **Research Scientist**  
