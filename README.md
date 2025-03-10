@@ -261,7 +261,6 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 - Worked as a teacher, delivering science and chemistry lessons to secondary school students (grades 5 to 10)  
 - Managed educational activities and ensured student engagement with a weekly commitment of 25.5 hours  
 - Created and delivered lesson plans, classroom, and lab activities to support academic growth
-**Intensive German Courses (A1 - C1)**  
 
 **Intensive German Courses (A1 - C1)**  
 *03/2021 - 01/2023*  
