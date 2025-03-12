@@ -302,7 +302,8 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 ### Publications in Peer-reviewed Journals
 
-\begin{justify}
+<div style="text-align: justify;">
+
 1. **Carolina S. Mergulhão**, Yann Fenard, Goutham Kukkadapu, Scott W. Wagnon, Guillaume Vanhove (2022). Investigating the kinetic effect of prenol on iso-octane auto-ignition by means of an experimental and modeling study. Fuel, 328. [doi:10.1016/j.fuel.2022.12522](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)
 
 2. **Carolina S. Mergulhão**, Hans-Heinrich Carstensen, Hwasup Song, Scott W. Wagnon, William J. Pitz, Guillaume Vanhove (2021). Probing the antiknock effect of anisole through an ignition, speciation and modeling study of its blends with isooctane.Proceedings of the Combustion Institute, 38, 739– 748. [doi:10.1016/j.proci.2020.08.013](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)
@@ -312,7 +313,8 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 4. S. Tipler, **C.S. Mergulhão**, G. Vanhove, Q. Van Haute, F. Contino, and A. Coussement (2019). Ignition Study of an Oxygenated and High-Alkene Light Petroleum Fraction Produced from Automotive Shredder Residues. Energy Fuels, 33, 6, 5664–5672. [doi:10.1021/acs.energyfuels.9b00649](https://pubs.acs.org/doi/10.1021/acs.energyfuels.9b00649)
 
 5. Yann Fenard, Hwasup Song, Heiko Minwegen, Prajakta Parab, **Carolina Sampaio Mergulhão**, Guillaume Vanhove, Karl-Alexander Heufer (2019). 2,5-Dimethyltetrahydrofuran combustion: Ignition delay times at high and low temperatures, speciation measurements and detailed kinetic modeling. Combustion and Flame, 203, 341–351. [doi:10.1016/j.combustflame.2019.02.022](https://www.sciencedirect.com/science/article/abs/pii/S0010218019300860?via%3Dihub)
-\end{justify}
+
+</div>
 
 ### Conferences with Proceedings and Full-text Selection Committees
 
