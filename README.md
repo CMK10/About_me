@@ -302,6 +302,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 ### Publications in Peer-reviewed Journals
 
+<div style="text-align: justify;">
 1. **Carolina S. Mergulhão**, Yann Fenard, Goutham Kukkadapu, Scott W. Wagnon, Guillaume Vanhove (2022). Investigating the kinetic effect of prenol on iso-octane auto-ignition by means of an experimental and modeling study. Fuel, 328. [doi:10.1016/j.fuel.2022.12522](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)
 
 2. **Carolina S. Mergulhão**, Hans-Heinrich Carstensen, Hwasup Song, Scott W. Wagnon, William J. Pitz, Guillaume Vanhove (2021). Probing the antiknock effect of anisole through an ignition, speciation and modeling study of its blends with isooctane.Proceedings of the Combustion Institute, 38, 739– 748. [doi:10.1016/j.proci.2020.08.013](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)
@@ -317,6 +318,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 1. **Carolina Mergulhão**, H. Song, Guillaume Vanhove (2019). Experimental Study of the autoignition of isooctane/anisole mixtures at low to intermediate temperatures. In [9th European Combustion Meeting](https://ecm2019lisbon.wixsite.com/ecm2019) April 14th -17th, Lisbon, Portugal.
 
 2. Luís Fernando Figueira da Silva, **Carolina Sampaio Mergulhão**, Letícia Piton (2017). Experimental study of a lean premixed turbulent swirling flame stabilization. In [24th ABCM International Congress of Mechanical Engineering](https://eventos.abcm.org.br/cobem2017/) December 3rd-8th, Curitiba, PR, Brazil.
+</div>
 
 ### Oral Presentations
 
