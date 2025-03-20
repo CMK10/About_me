@@ -29,7 +29,7 @@ Let's connect!
   Sample preparation, equipment maintenance, safe handling of chemicals, storage, and disposal  
 
 - **Research & Development**  
-  Petrochemistry, biofuels, sustainable lubricants, pollutant analysis  
+  Petrochemistry, biofuels, lubricants, pollutant analysis  
 
 - **Regulatory Compliance & Safety Guidelines**  
   Standard & non-standard procedures, ISO/TC 28, ASTM D93, SAE J300  
