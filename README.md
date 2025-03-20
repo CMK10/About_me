@@ -22,11 +22,23 @@ Let's connect!
 
 ### Laboratory and Industrial Expertise  
 
-- Lab Management, Technical Documentation
-- Industrial Research and Innovation, Regulatory Compliance
-- Design of Experiments
-- Statistics  
-- Gas Chromatography (GC-MS, FID/TCD), Kinetic Modeling  
+- **Instrumental Analysis & Quality Control**  
+  GC-MS, ICP-MS, viscosity, TAN/TBN, autoignition, stability, laser diagnostics for soot formation & particle size determination  
+
+- **Laboratory Organization**  
+  Sample preparation, equipment maintenance, safe handling of chemicals, storage, handling, and proper disposal  
+
+- **Research & Development**  
+  Petrochemistry, biofuels, sustainable lubricants, pollutant analysis  
+
+- **Regulatory Compliance & Safety Guidelines**  
+  Standard & non-standard procedures, ISO/TC 28, ASTM D93, SAE J300  
+
+- **Data Analysis & Modeling**  
+  Python, MATLAB, statistical methods for laboratory and process optimization  
+
+- **International Collaboration & Technical Communication**  
+  Publications, reporting, presentations  
 
 ## Languages
 
