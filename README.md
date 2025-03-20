@@ -19,7 +19,6 @@ Let's connect!
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="20"/> Matlab  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> Git, Cantera  
   
-
 ### Laboratory and Industrial Expertise  
 
 - **Instrumental Analysis & Quality Control**  
