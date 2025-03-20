@@ -35,10 +35,10 @@ Let's connect!
   Standard & non-standard procedures, ISO/TC 28, ASTM D93, SAE J300  
 
 - **Data Analysis & Modeling**  
-  Python, MATLAB, statistical methods for laboratory and process optimization  
+  LabVIEW, OriginLab, statistical methods for laboratory and process optimization  
 
 - **International Collaboration & Technical Communication**  
-  Publications, reporting, presentations  
+  Publications, technical reports, presentations  
 
 ## Languages
 
