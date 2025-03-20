@@ -58,7 +58,7 @@ During my doctoral research, conducted at the University of Lille within the Lab
 </div>  
 <br>
 <div style="text-align: justify;">
-In 2019, around 30% of CO<sub>2</sub> emissions in the EU were attributed to the transportation sector, demanding urgent environmental mitigation measures. While electrification stands out as a viable solution, its extensive adoption faces significant challenges, including budget constraints and the prolonged process of replacing over 300 million internal combustion engine-powered cars. Particularly in segments like aviation and maritime transport, electrification encounters obstacles due to battery density limitations and the lack of sufficiently decarbonized energy sources. 
+In 2019, around 30% of CO<sub>2</sub> emissions in the EU were attributed to the transportation sector, demanding urgent environmental mitigation measures. While electrification stands out as a viable solution, its extensive adoption faces significant challenges, including budget constraints and the prolonged process of replacing over 300 million internal combustion engine-powered cars. Particularly in segments like aviation and maritime transport, electrification encounters obstacles due to battery density limitations and the lack of sufficiently decarbonized energy sources.
 </div>  
 <br>
 <div style="text-align: justify;">
