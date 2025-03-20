@@ -26,7 +26,7 @@ Let's connect!
   GC-MS, GC-TCD/-FID, ICP-MS, viscosity, TAN/TBN, autoignition, stability, laser diagnostics for soot formation & particle size determination  
 
 - **Laboratory Organization**  
-  Sample preparation, equipment maintenance, safe handling of chemicals, storage, handling, and proper disposal  
+  Sample preparation, equipment maintenance, safe handling of chemicals, storage, and disposal  
 
 - **Research & Development**  
   Petrochemistry, biofuels, sustainable lubricants, pollutant analysis  
