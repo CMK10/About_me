@@ -23,7 +23,7 @@ Let's connect!
 ### Laboratory and Industrial Expertise  
 
 - **Instrumental Analysis & Quality Control**  
-  GC-MS, ICP-MS, viscosity, TAN/TBN, autoignition, stability, laser diagnostics for soot formation & particle size determination  
+  GC-MS, GC-TCD/-FID, ICP-MS, viscosity, TAN/TBN, autoignition, stability, laser diagnostics for soot formation & particle size determination  
 
 - **Laboratory Organization**  
   Sample preparation, equipment maintenance, safe handling of chemicals, storage, handling, and proper disposal  
