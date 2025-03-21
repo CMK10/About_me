@@ -308,8 +308,10 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 *National Council for Scientific and Technological Development (CNPq) - Government agency, RJ, Brazil*  
 *Combustion and Turbulence Laboratory, PUC-Rio, RJ, Brazil*  
 
-- Research focused on soot formation mechanisms in laminar hydrocarbon and air flames (Phase 1)  
-- Research focused on stabilization processes in turbulent flames under lean mixture conditions (Phase 2)  
+- Conducted research on efficient gas turbines, industrial burners, and lean premixed turbulent swirling flame stabilization
+- Developed a system to quantify soot formation in LPG and methane flames using laser diagnostic techniques
+- Responsible for data collection, analysis, and visualization, while ensuring proper disposal of hazardous waste according to safety guidelines
+- Coordinated the work of technicians and interns, overseeing laboratory operations and safety compliance 
 
 **R&D Engineer (Internship)**  
 *01/2014 - 01/2015*  
