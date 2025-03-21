@@ -326,7 +326,9 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 *Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ) - Government agency, RJ, Brazil*  
 *Atomic Spectrometry Laboratory, PUC-Rio, RJ, Brazil*  
 
-- Investigated organometallic properties of Brazilian oils using Inductively Coupled Plasma Mass Spectrometry (ICP-MS) to determine trace elements in crude oil fractions  
+- Developed analytical methods to investigate the organometallic properties of oils
+- Executed laboratory procedures, including sample preparation using microwave-assisted techniques, rotary evaporators (Rotovap), low-pressure liquid chromatography (LPLC), UV-Vis spectroscopy, and ICP-MS
+- Published research findings in scientific journals and presented results at conferences
 
 ## List of Publications
 
