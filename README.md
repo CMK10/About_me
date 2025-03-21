@@ -298,7 +298,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 - Investigated pollutant formation and developed efficient formulations for fuels and biofuels
 - Developed and optimized Python-based kinetic models for autoignition and combustion in engines
-- Applied advanced chromatographic techniques (GC-MS, GC-TCD-FID) to analyze combustion by-products and fuel oxidation stability
+- Performed laboratory analysis using advanced chromatographic techniques (GC-MS, GC-TCD-FID) to assess combustion by-products and fuel oxidation stability
 - Conducted troubleshooting, process optimization, and data analysis to enhance research outcomes
 - Collaborated with industrial, governmental, and academic partners to translate research into practical applications
 - Published findings in peer-reviewed journals (5) and presented at international conferences
