@@ -317,8 +317,9 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 *01/2014 - 01/2015*  
 *Petrobras, RJ, Brazil*  
 
-- Data collection, processing, and analysis for the development of automotive, aviation, maritime, and industrial lubricants  
-- Formulation and characterization lubricants through rheological analyses  
+- Synthesized automotive lubricants and bioproducts for the automotive and industrial sectors
+- Conducted rheological tests and applied standard and non-standard procedures, adhering to ISO/TC 28, ASTM D93, SAE J300, and regulatory compliance and safety guidelines
+- Assisted in the implementation of digitalization and automation processes for laboratory analyses, improving workflow efficiency 
 
 **Research Scientist (Internship)**  
 *01/2013 - 01/2014*  
