@@ -296,10 +296,12 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 *Agency for Ecological Transition (ADEME) - Government agency, Lille, France*  
 *Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A), Lille, France*
 
-- Conducted research focused on pollutant formation and the efficiency-based formulation of fuels and biofuels
-- Developed kinetic models associated with autoignition and combustion in engines
-- Responsible for troubleshooting processes, optimizing operations, conducting data gathering, and analytical tasks
-- Results communication to industrial, government and academic collaborators through the publication of scientific articles, presentations, reports and conferences
+- Investigated pollutant formation and developed efficient formulations for fuels and biofuels
+- Developed and optimized Python-based kinetic models for autoignition and combustion in engines
+- Applied advanced chromatographic techniques (GC-MS, GC-TCD-FID) to analyze combustion by-products and fuel oxidation stability
+- Conducted troubleshooting, process optimization, and data analysis to enhance research outcomes
+- Collaborated with industrial, governmental, and academic partners to translate research into practical applications
+- Published findings in peer-reviewed journals (5) and presented at international conferences
 
 **Research Scientist**  
 *09/2015 - 09/2017*  
