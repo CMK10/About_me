@@ -283,7 +283,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 *12/2022 - 04/2023*  
 *Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany*  
 
-- Worked as a teacher, delivering science and chemistry lessons to secondary school students (grades 5 to 10)  
+- Worked as a teacher, delivering science and chemistry lessons to secondary school students
 - Managed educational activities and ensured student engagement with a weekly commitment of 25.5 hours  
 - Created and delivered lesson plans, classroom, and lab activities to support academic growth
 
