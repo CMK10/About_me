@@ -274,8 +274,9 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 *07/2023 - 10/2023*  
 *Neuefische GmbH, Remote, Germany*
 
-- Collaborated with teams to develop data-driven projects, focusing on the application of Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, SQL, TensorFlow, Keras, UNIX, and Git  
-- Applied advanced statistical, machine learning techniques, data analysis, and visualization to solve real-world data challenges  
+- Collaborated on data-driven projects using Python and tools such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and SQL
+- Applied advanced statistical and machine learning techniques, data analysis, and visualization to solve real-world data challenges
+- Developed a traffic accident prediction model for Hamburg (ARIMA, LSTM, FB-Prophet), including interactive dashboards (Plotly/Dash) 
 
 **Secondary School Teacher**  
 *12/2022 - 04/2023*  
