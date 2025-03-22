@@ -280,8 +280,6 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 - Developed a traffic accident prediction model for Hamburg (ARIMA, LSTM, FB-Prophet), including interactive dashboards (Plotly/Dash) 
 
 **Secondary School Teacher**  
-
-**Secondary School Teacher**  
 *12/2022 - 04/2023*  
 *Käthe-Kollwitz-Gesamtschule, Grevenbroich, Germany*  
 
