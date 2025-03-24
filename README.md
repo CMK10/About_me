@@ -270,7 +270,6 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 - Focused on improving German language skills
 - Family, health, and well-being
-**Data Science (Bootcamp)**  
 
 **Data Science (Bootcamp)**  
 *07/2023 - 10/2023*  
