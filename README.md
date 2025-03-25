@@ -292,6 +292,8 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 *StudyOn / Euroschule / VHS, Germany*  
 
 **Research Scientist**  
+
+**Research Scientist**  
 *10/2017 - 12/2020*  
 *Agency for Ecological Transition (ADEME) - Government agency, Lille, France*  
 *Laboratoire de Physicochimie des Processus de Combustion et de l'Atmosphère (PC2A), Lille, France*
