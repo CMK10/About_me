@@ -14,7 +14,6 @@
 <!-- Aqui começam suas seções -->
 
 <h2 id="about">Chemical Engineer | R&D Scientist</h2>
-<p>...</p>
 
 Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
@@ -55,13 +54,13 @@ Let's connect!
 - **International Collaboration & Technical Communication**  
   Publications, technical reports, presentations  
 
-## Languages
+<h2 id="projects">Languages</h2>
 
 - **Professional Proficiency:**: 🇬🇧 English, 🇩🇪  German, 🇫🇷 French
 - **Native Language**: 🇧🇷 Portuguese
 - **Working Knowledge**: 🇪🇸  Spanish
 
-## Education
+<h2 id="projects">Education</h2>
 
 **PhD, Energy: Heat Transfers and Combustion (2020)**  
 [Université de Lille](https://www.univ-lille.fr)  
@@ -71,7 +70,7 @@ Let's connect!
 [Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)  
 [Experimental study of soot formation in laminar flames of hydrocarbons and air](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)  
 
-## Projects
+<h2 id="projects">Projects</h2>
 
 ### Chemical Kinetics of Biofuel Combustion
 
