@@ -77,7 +77,7 @@ Let's connect!
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)  
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)  
 [Publication](https://www.mdpi.com/1996-1073/14/21/7105)  
-[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0010218019300860?via%3Dihub)
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0010218019300860?via%3Dihub)  
 [Publication](https://pubs.acs.org/doi/10.1021/acs.energyfuels.9b00649)  
 
 <div style="text-align: justify;">
