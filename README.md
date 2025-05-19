@@ -11,7 +11,7 @@ Let's connect!
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Connect on LinkedIn" width="40" height="40">
 </a>
   
-## Technical Skills
+<h2 id="skills">Technical Skills</h2>
 
 ### Programming and Computational Tools  
 
