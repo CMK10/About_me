@@ -5,11 +5,13 @@
   <a href="#languages" style="margin: 0 15px; text-decoration:none; color:#000;">Idiomas</a>
   <a href="#education" style="margin: 0 15px; text-decoration:none; color:#000;">Educação</a>
   <a href="#projects" style="margin: 0 15px; text-decoration:none; color:#000;">Projetos</a>
-  <a href="#contact" style="margin: 0 15px; text-decoration:none; color:#000;">Contato</a>
+  <a href="#experience" style="margin: 0 15px; text-decoration:none; color:#000;">Experiência</a>
+  <a href="#publications" style="margin: 0 15px; text-decoration:none; color:#000;">Publicações</a>
+  <a href="#collaborations" style="margin: 0 15px; text-decoration:none; color:#000;">Colaborações</a>
 </div>
 
 <!-- Spacer to offset fixed menu -->
-<div style="height: 70px;"></div>
+<div style="height:70px;"></div>
 
 <!-- Main Sections -->
 
@@ -54,7 +56,7 @@ Let’s connect!
 - **Global Collaboration & Science Communication**  
   Peer-reviewed publications, reports, presentations  
 
-<h2 id="projects">Languages</h2>
+<h2 id="languages">Languages</h2>
 
 - **Professional Proficiency**: 🇬🇧 English, 🇩🇪 German, 🇫🇷 French  
 - **Native Language**: 🇧🇷 Portuguese  
@@ -70,7 +72,7 @@ Let’s connect!
 [Pontifical Catholic University of Rio de Janeiro – PUC-Rio](http://www.puc-rio.br/english/)  
 [Experimental Study of Soot Formation in Laminar Hydrocarbon-Air Flames](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)  
 
-<h2 id="projects">Projects</h2>
+<h2 id="projects">Projects</h2> 
 
 ### Chemical Kinetics of Biofuel Combustion
 
@@ -279,7 +281,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 </div>
 <br>
 
-## Experience
+<h2 id="experience">Experience</h2>
 
 **Career Break**  
 *11/2023 - present*  
@@ -347,7 +349,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 - Executed laboratory procedures, including sample preparation using microwave-assisted techniques, rotary evaporators (Rotovap), low-pressure liquid chromatography (LPLC), UV-Vis spectroscopy, and ICP-MS
 - Published research findings in scientific journals and presented results at conferences
 
-## List of Publications
+<h2 id="publications">List of Publications</h2>
 
 ### Publications in Peer-reviewed Journals
 
@@ -404,7 +406,7 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 5. Carolina S. Mergulhão, Tatiana D. Saint’Pierre, Christiane B. Duyck (2013). Organometallic characterization of Brazilian crude oils. FAPERJ report. (In Portuguese)
 
-## Collaborations & Contracts
+<h2 id="collaborations">Collaborations & Contracts</h2>
 
 - ADEME / Hauts-de-France Region, 2017, France, budget: 60 k€  
   *Experimental Study of the Combustion Kinetics of Biofuels from Lignocellulosic Biomass at High Pressures.*
