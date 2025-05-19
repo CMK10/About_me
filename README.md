@@ -22,7 +22,7 @@ Let's connect!
 ### Laboratory and Industrial Expertise  
 
 - **Instrumental Analysis & Quality Control**  
-  GC-MS, GC-TCD/-FID, ICP-MS, viscosity, TAN/TBN, autoignition, laser diagnostics for soot formation & particle size determination  
+  GC-MS, GC-TCD/FID, ICP-MS, viscosity, TAN/TBN, autoignition, laser diagnostics for soot formation and particle size determination  
 
 - **Laboratory Organization**  
   Sample preparation, equipment maintenance, safe handling of chemicals, storage, and disposal  
@@ -41,9 +41,9 @@ Let's connect!
 
 ## Languages
 
-- **Professional Competence**: 🇬🇧 English, 🇩🇪  German, 🇫🇷 French
-- **Native Speaker**: 🇧🇷 Portuguese
-- **Good Knowledge**: 🇪🇸  Spanish
+- **Professional Proficiency:**: 🇬🇧 English, 🇩🇪  German, 🇫🇷 French
+- **Native Language**: 🇧🇷 Portuguese
+- **Working Knowledge**: 🇪🇸  Spanish
 
 ## Education
 
