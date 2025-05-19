@@ -1,5 +1,5 @@
 <!-- Fixed Navigation Menu -->
-<div style="position:fixed; top:0; left:0; width:100%; background-color:#f8f9fa; border-bottom:1px solid #ccc; z-index:1000; padding:10px 0; text-align:center;">
+<div style="position:fixed; top:0; left:0; width:100%; background-color:#f8f9fa; border-bottom:1px solid #ccc; z-index:9999; padding:10px 0; text-align:center;">
   <a href="#about" style="margin: 0 15px; text-decoration:none; color:#000;">Sobre Mim</a>
   <a href="#skills" style="margin: 0 15px; text-decoration:none; color:#000;">Habilidades Técnicas</a>
   <a href="#languages" style="margin: 0 15px; text-decoration:none; color:#000;">Idiomas</a>
