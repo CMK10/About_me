@@ -5,7 +5,7 @@
   <a href="#languages" style="margin: 0 15px; text-decoration:none; color:#000;">Languages</a>
   <a href="#education" style="margin: 0 15px; text-decoration:none; color:#000;">Education</a>
   <a href="#projects" style="margin: 0 15px; text-decoration:none; color:#000;">Projects</a>
-  <a href="#experience" style="margin: 0 15px; text-decoration:none; color:#000;">Exlerience</a>
+  <a href="#experience" style="margin: 0 15px; text-decoration:none; color:#000;">Experience</a>
   <a href="#publications" style="margin: 0 15px; text-decoration:none; color:#000;">Publications</a>
   <a href="#collaborations" style="margin: 0 15px; text-decoration:none; color:#000;">Collaborations</a>
 </div>
