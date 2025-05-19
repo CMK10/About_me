@@ -1,4 +1,20 @@
-## Chemical Engineer | R&D Scientist
+<!-- Fixed Navigation Menu -->
+<div style="position:fixed; top:0; left:0; width:100%; background-color:#f8f9fa; border-bottom:1px solid #ccc; z-index:1000; padding:10px 0; text-align:center;">
+  <a href="#about" style="margin: 0 15px; text-decoration:none; color:#000;">Sobre Mim</a>
+  <a href="#skills" style="margin: 0 15px; text-decoration:none; color:#000;">Habilidades Técnicas</a>
+  <a href="#languages" style="margin: 0 15px; text-decoration:none; color:#000;">Idiomas</a>
+  <a href="#education" style="margin: 0 15px; text-decoration:none; color:#000;">Educação</a>
+  <a href="#projects" style="margin: 0 15px; text-decoration:none; color:#000;">Projetos</a>
+  <a href="#contact" style="margin: 0 15px; text-decoration:none; color:#000;">Contato</a>
+</div>
+
+<!-- Espaço para o menu fixo não cobrir o conteúdo -->
+<div style="margin-top:70px;"></div>
+
+<!-- Aqui começam suas seções -->
+
+<h2 id="about">Chemical Engineer | R&D Scientist</h2>
+<p>...</p>
 
 Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
 
