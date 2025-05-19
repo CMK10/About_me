@@ -8,67 +8,67 @@
   <a href="#contact" style="margin: 0 15px; text-decoration:none; color:#000;">Contato</a>
 </div>
 
-<!-- Espaço para o menu fixo não cobrir o conteúdo -->
+<!-- Spacer to offset fixed menu -->
 <div style="margin-top:70px;"></div>
 
-<!-- Aqui começam suas seções -->
+<!-- Main Sections -->
 
 <h2 id="about">Chemical Engineer | R&D Scientist</h2>
 
-Analytical Chemistry • Data Analysis • Bioproducts • Energy and Combustion
+Analytical Chemistry • Data Science • Biofuels • Energy & Combustion
 
 📧 <carol.mergulhao10@gmail.com>  
-🔬 [www.researchgate.net/profile/Carolina-Mergulhao-Koerber](www.researchgate.net/profile/Carolina-Mergulhao-Koerber)  
+🔬 [www.researchgate.net/profile/Carolina-Mergulhao-Koerber](https://www.researchgate.net/profile/Carolina-Mergulhao-Koerber)
 
-Let's connect!
+Let’s connect!
 
 <a href="https://www.linkedin.com/in/carolina-mergulhao-körber/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Connect on LinkedIn" width="40" height="40">
 </a>
-  
+
 <h2 id="skills">Technical Skills</h2>
 
-### Programming and Computational Tools  
+### Programming & Computational Tools  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> Python (Pandas, NumPy, Scikit-Learn, SciPy), Plotly/Dash
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="20"/> Matlab  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> Python (Pandas, NumPy, Scikit-Learn, SciPy), Plotly/Dash  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="20"/> MATLAB  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> Git, Cantera  
-  
-### Laboratory and Industrial Expertise  
 
-- **Instrumental Analysis & Quality Control**  
-  GC-MS, GC-TCD/FID, ICP-MS, viscosity, TAN/TBN, autoignition, laser diagnostics for soot formation and particle size determination  
+### Laboratory & Industrial Expertise  
 
-- **Laboratory Organization**  
-  Sample preparation, equipment maintenance, safe handling of chemicals, storage, and disposal  
+- **Instrumental Analysis & QC**  
+  GC-MS, GC-TCD/FID, ICP-MS, viscosity, TAN/TBN, autoignition testing, laser diagnostics (soot and particle size)
 
-- **Research & Development**  
-  Petrochemistry, biofuels, lubricants, pollutant analysis  
+- **Lab Management**  
+  Sample handling, equipment maintenance, chemical safety and compliance
 
-- **Regulatory Compliance & Safety Guidelines**  
-  Standard & non-standard procedures, ISO/TC 28, ASTM D93, SAE J300  
+- **R&D Focus Areas**  
+  Petrochemicals, alternative fuels, lubricants, emissions characterization  
 
-- **Data Analysis & Modeling**  
-  LabVIEW, OriginLab, statistical methods for laboratory and process optimization  
+- **Regulatory Standards & Safety**  
+  ISO/TC 28, ASTM D93, SAE J300, custom protocols  
 
-- **International Collaboration & Technical Communication**  
-  Publications, technical reports, presentations  
+- **Data Handling & Modeling**  
+  LabVIEW, OriginLab, statistical methods for lab/process optimization  
+
+- **Global Collaboration & Science Communication**  
+  Peer-reviewed publications, reports, presentations  
 
 <h2 id="projects">Languages</h2>
 
-- **Professional Proficiency:**: 🇬🇧 English, 🇩🇪  German, 🇫🇷 French
-- **Native Language**: 🇧🇷 Portuguese
-- **Working Knowledge**: 🇪🇸  Spanish
+- **Professional Proficiency**: 🇬🇧 English, 🇩🇪 German, 🇫🇷 French  
+- **Native Language**: 🇧🇷 Portuguese  
+- **Working Knowledge**: 🇪🇸 Spanish  
 
-<h2 id="projects">Education</h2>
+<h2 id="education">Education</h2>
 
-**PhD, Energy: Heat Transfers and Combustion (2020)**  
+**PhD in Energy – Heat Transfer and Combustion (2020)**  
 [Université de Lille](https://www.univ-lille.fr)  
-[Experimental and kinetic modeling study on the reactivity of biofuels derived from lignocellulosic biomass at engine relevant conditions](https://www.theses.fr/25582274X)  
+[Experimental and Kinetic Modeling Study on Biofuels from Lignocellulosic Biomass Under Engine Conditions](https://www.theses.fr/25582274X)  
 
-**BSc, Chemical Engineering (2016)**  
-[Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](http://www.puc-rio.br/english/)  
-[Experimental study of soot formation in laminar flames of hydrocarbons and air](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)  
+**BSc in Chemical Engineering (2016)**  
+[Pontifical Catholic University of Rio de Janeiro – PUC-Rio](http://www.puc-rio.br/english/)  
+[Experimental Study of Soot Formation in Laminar Hydrocarbon-Air Flames](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)  
 
 <h2 id="projects">Projects</h2>
 
@@ -78,64 +78,60 @@ Let's connect!
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)  
 [Publication](https://www.mdpi.com/1996-1073/14/21/7105)  
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0010218019300860?via%3Dihub)  
-[Publication](https://pubs.acs.org/doi/10.1021/acs.energyfuels.9b00649)  
+[Publication](https://pubs.acs.org/doi/10.1021/acs.energyfuels.9b00649)
 
 <div style="text-align: justify;">
-During my doctoral research, conducted at the University of Lille within the Laboratory of Physical Chemistry of Combustion Processes and the Atmosphere (PC2A - UMR 8522), I delved into the intricate realm of biofuels, compounds derived from lignocellulosic biomass (LDC), and their potential to rapidly decarbonize the transportation sector. My project was co-funded by the ADEME (French Agency for Ecological Transition) and the Hauts-de-France region. The primary objective of my research was to evaluate the economic and technical aspects of the production and application of renewable biofuels in the current transport industry. This work led to the establishment of a benchmark for potential novel biofuels and/or additives destined for use in gasoline engines, substantiated by a profound understanding of their combustion kinetics and co- oxidation with conventional fuels.
+As part of my PhD at the University of Lille (PC2A – UMR 8522), I investigated combustion kinetics of biofuels derived from lignocellulosic biomass (LDC) with a focus on their potential to decarbonize transportation. This project was co-funded by ADEME and the Hauts-de-France region. The research aimed to evaluate the feasibility of incorporating these renewable fuels into the current transport infrastructure by developing kinetic models to assess their combustion behavior, particularly in co-oxidation scenarios with gasoline.  
 </div>  
 <br>
 <div style="text-align: justify;">
-In 2019, around 30% of CO<sub>2</sub> emissions in the EU were attributed to the transportation sector, demanding urgent environmental mitigation measures. While electrification stands out as a viable solution, its extensive adoption faces significant challenges, including budget constraints and the prolonged process of replacing over 300 million internal combustion engine-powered cars. Particularly in segments like aviation and maritime transport, electrification encounters obstacles due to battery density limitations and the lack of sufficiently decarbonized energy sources. Acknowledging these challenges, my thesis was motivated by the potential of renewable biofuels to rapidly decarbonize the transport sector. 
+Given that nearly 30% of the EU’s CO<sub>2</sub> emissions in 2019 originated from transportation, and that large-scale electrification faces technical and economic hurdles—especially in aviation and maritime sectors—biofuels present an immediate path to emissions reduction. My work supported this goal by exploring the ignition behavior of biofuels under realistic engine-like conditions.  
 </div>  
 <br>
 <div style="text-align: justify;">
-The investigated biofuels are derived from lignocellulosic biomass, a non-edible and renewable feedstock that can be produced on marginal lands. These areas are unprofitable or less productive for traditional crop cultivation due to poor soil quality but may be utilized for alternative purposes such as bioenergy production, helping to balance biomass cultivation with food security considerations. Biofuels present distinct combustion characteristics, requiring in-depth investigation, before its introduction to the market. The application of these novel biofuels may necessitate the modification of engine operating maps to address issues like knocking in spark-ignition engines, crucial for enhancing thermal efficiency, specially of highly turbocharged engines. Given that knocking and the autoignition of unburned gases at lower temperatures are governed by fuel auto-ignition chemistry, it is imperative to ensure their compatibility with new engines by examining their reaction pathways under "engine" conditions.
-</div>
+Fuels derived from lignocellulosic biomass—abundant, non-edible, and cultivable on marginal lands—have unique combustion properties. To understand these, I used the Rapid Compression Machine (RCM) to measure ignition delay times (IDTs) under stoichiometric fuel-air mixtures, simulating conditions inside spark-ignition engines. Shorter IDTs imply higher reactivity.  
+</div>  
 <br>
 <div style="text-align: justify;">
-In order to investigate autoignition under these conditions, I measured the ignition delay times (IDTs) of mixtures containing isooctane/LDC/O<sub>2</sub>/inert using the ULille Rapid Compression Machine (RCM) under stoichiometric fuel-air conditions. This machine is a cylindrical reactor equipped with a compressor piston that simulates a spark-ignition engine. IDTs are determined from the experimental pressure profiles and are defined as the time necessary to reach autoignition at a given temperature and pressure. Hence, the shorter the IDT of a given fuel is, the more reactive it is. In the current work, the autoignition time is considered as the time corresponding to the overall maximum of the pressure derivative inside the combustion chamber.
-</div>
+For fuels exhibiting two-stage ignition, I identified the cool flame delay (first-stage IDT) and transitions to the main ignition phase. The presence of the Negative Temperature Coefficient (NTC) behavior was critical, as it relates to knock resistance and octane sensitivity—key parameters for engine performance.  
+</div>  
 <br>
 <div style="text-align: justify;">
-In the case where the autoignition takes place in two stages, the cool flame delay (or first-stage ignition delay time - FSIDT) is defined as the time between the Top Dead Center (TDC) and the first maximum of the pressure derivative. The end of this first-stage and transition to the second stage is in turn correlated to the Negative Temperature Coefficient (NTC - Negative Temperature Coefficient). The presence of the NTC region and its characteristics are relevant criteria for the evaluation of fuel viability, since properties such as octane numbers and, consequently, fuel octane sensitivity are related to this NTC behavior. In fact, fuels that do not exhibit NTC behavior are the most promising for working with high compression ratio, turbocharged engines, as they lead to a reduction of the incidence of autoignition and detonation during combustion processes.
-</div>
+I varied fuel composition, pressure (14–25 bar), and temperature (665–870 K) to analyze their effects on ignition. Surrogate blends of isooctane and LDC-based fuels were formulated to represent real-world fuel behavior. This allowed me to isolate kinetic effects and compare model predictions.  
+</div>  
 <br>
 <div style="text-align: justify;">
-My investigation focused on three key parameters influencing IDTs: mixture composition, compressed pressure, and the adiabatic core temperature. Specifically, the blending effect of LDC was explored by varying its concentration in the surrogate, a simplified mixture used to allow the understanding of co- oxidation with conventional fuels such as gasoline. The composition effect was investigated by varying the amount of LDC within isooctane mixtures and by varying the compression pressure from 14 to 25 bar. The effect of temperature on the IDT was investigated at 20 bar, and core gas temperatures ranging from 665 to 870 K. The surrogates were formulated at stoichiometric conditions and prepared until the LDC fraction reached the maximum reasonable value given their volatility. 
-</div>
-<br>
-<div style="text-align: justify;">
-The experimental setup also allowed for physical sampling during ignition delay, contributing to detailed kinetic model validation. The chemical analysis of sampled products was conducted using gas chromatography coupled with mass spectrometry and thermal conductivity (TCD) / flame ionization (FID) detectors. A hierarchical methodology was employed to develop a kinetic mechanism, combining a detailed model for isooctane from Lawrence Livermore National Laboratory (LLNL) with a sub-mechanism for anisole, contributing to a comprehensive understanding of ignition delay in biofuel surrogates. For prenol, the Co-optima model, developed by LLNL, was used to simulate the autoignition phenomena. A summary outline of the process used for the development and validation of kinetic models is presented below.
-</div>
+The experiments also enabled gas sampling for chemical analysis via GC-MS and GC-TCD/FID, supporting model validation. I combined LLNL’s isooctane model with anisole and prenol sub-mechanisms to simulate ignition chemistry. These mechanisms helped identify promising fuel candidates and evaluate their performance in high-efficiency engines.  
+</div>  
 <br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/diagram_phd.png" style="width: 110%;">
 </p>
-<p align="center"><b>Diagram of the process used for the development/validation of kinetic mechanisms using experimental RCM data (Mergulhão, PhD Thesis, 2020).
+<p align="center"><b>Workflow for kinetic mechanism development/validation using RCM experiments (Mergulhão, PhD Thesis, 2020).
 </b></p>
 
 <div style="text-align: justify;">
-Even though the blending ratios are different for each mixture, the image bellow shows that the 50/50 isooctane/prenol mixtures are the only blends which show no NTC behavior. It is also interesting that this mixture has the longest ignition delay times in the region from 675 to 787 K, i.e., at low temperature and the shortest ignition delay times at high temperatures in the region from 787 to 852 K. This result suggests that the prenol is a good candidate to formulate gasoline-like biofuels considering that in the modern spark ignition engines a high-octane sensitivity is required. On the other hand, while not suppressing first-stage ignition events, cyclopentanone demonstrates great potential in increasing the ignition delays at all temperatures.
+Among tested blends, the 50/50 isooctane-prenol mix uniquely lacked NTC behavior, suggesting it as a viable high-octane fuel candidate. It showed long ignition delays at low temperatures and short delays at high temperatures—ideal characteristics for modern spark-ignition engines. Cyclopentanone also showed potential by significantly delaying ignition across all temperatures.  
 </div>
 <br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/phd_csm_2020.png" style="width: 100%;">
 </p>
-<p align="center"><b>Comparison of the evolution of first stage ignition delays (open symbols) and total ignition delays (full symbols) of all surrogates studied with temperature, at p<sub>C</sub> = 20 bar (Mergulhão, PhD Thesis, 2020).
+<p align="center"><b>Ignition delay evolution vs. temperature for studied blends at 20 bar (Mergulhão, PhD Thesis, 2020).
 </b></p>
 
 <div style="text-align: justify;">
-For the modeling results it is observed that the current isooctane model seems to overestimate the conversion of isooctane during the first-stage, while the one of anisole is captured accuratelyThis shows the good performance of the model in capturing both the first-stage and total ignition delay in these conditions. The overestimated conversion of isooctane can however be correlated to the too high reactivity of the model in the intermediate temperature region. For the prenol model, it overestimates the reactivity of the isooctane/prenol (50/50)/O<sub>2</sub>/inert mixture, for all temperature range. The ignition phenomenology is, therefore, maintained, i.e., with no presence of NTC region. These results showed a constant underprediction of the IDTs of isooctane/prenol mixture of about a factor of two. These are encouraging results, but further modeling work should aim at reducing the global reactivity for these mixtures.
+The models performed well overall. The isooctane/anisole model accurately captured both ignition stages, while prenol blends showed some overprediction of reactivity—suggesting room for tuning. However, the lack of NTC and persistent long delays at low temperatures remained consistent with experimental trends, confirming prenol's promise.  
 </div>
 <br>
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/fig_3_phd.png" style="width: 110%;">
 </p>
-<p align="center"><b>Evolution of first-stage and total ignition delays of isooctane/O<sub>2</sub>/inert and isooctane/anisole (60/40)/O<sub>2</sub>/inert mixtures. PTD<sub>C</sub> = 20 bar, Φ = 1. Full lines correspond to the updated model, dashed lines the initial model (right). Isooctane/prenol (50/50)/O<sub>2</sub>/inert mixtures results (left). Full lines correspond to the simulated results (Mergulhão, PhD Thesis, 2020).
+<p align="center"><b>Simulated vs. experimental ignition delay for isooctane blends with anisole and prenol at 20 bar (Mergulhão, PhD Thesis, 2020).
 </b></p>
 
 <div style="text-align: justify;">
-My doctoral journey allowed me to address the potential of several advanced biofuels for incorporation into commercial gasolines through an extensive study of the mechanisms responsible for auto-ignition in co-oxidation conditions. Anisole, o-cresol, prenol, and cyclopentanone were selected as biofuels of interest after an exhaustive literature study of their physico-chemical properties as well as their means of production. This experience has also equipped me with a multifaceted skill set, combining technical proficiency in Python modeling, theoretical insights into the kinetic chemistry of lignocellulosic-derived components, and an understanding of the economic dimensions of biofuel development. The collaboration with ADEME underscores the real-world relevance of this research, emphasizing the importance of interdisciplinary approaches in addressing contemporary challenges in the field of sustainable energy.
+This work helped identify anisole, o-cresol, prenol, and cyclopentanone as biofuel candidates based on their production pathways and combustion behavior. It also sharpened my skills in kinetic modeling (Python, Cantera), fuel analysis, and techno-economic evaluation. Collaborating with ADEME reinforced the applied nature of this research in shaping future sustainable fuels.  
 </div>
 <br>
 
@@ -144,9 +140,15 @@ My doctoral journey allowed me to address the potential of several advanced biof
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
 
 <div style="text-align: justify;">
-During this project funded by the CNPq (National Council for Scientific and Technological Development), institution affiliated with the Brazilian Ministry of Science, Technology, and Innovation, I explored soot formation in hydrocarbon and air flames. The primary motivation was to gain a thorough understanding of soot formation processes to develop strategies mitigating environmental impacts. This commitment to environmental protection aimed to contribute to cleaner and sustainable combustion practices, considering the negative impacts of soot, particularly on air pollution and its potential role in climate change. The results of this research were published as part of my chemical engineering final project (FP).
+This undergraduate research, funded by CNPq (National Council for Scientific and Technological Development – Brazil), focused on the experimental study of soot formation in laminar flames fueled by hydrocarbon-air mixtures. The project aimed to deepen the understanding of soot generation mechanisms and inform strategies for reducing its environmental impact. Considering soot’s role in urban air pollution and climate change, the research supported efforts toward cleaner and more sustainable combustion technologies. The findings were published as part of my final graduation thesis in chemical engineering.  
 </div>
 <br>
+
+
+
+
+
+
 <div style="text-align: justify;">
 Soot formation during hydrocarbon combustion has environmental and health repercussions, releasing fine particles contributing to air pollution. The typical diameter of a soot particle ranges from nanometers to micrometers, presenting extremely small dimensions that facilitate dispersion in the air. These fine particles can penetrate deep into human respiratory pathways, posing a direct threat to lung health. Composed of harmful substances such as volatile organic compounds and polycyclic aromatic hydrocarbons, these particles pose risks not only to human health but also to the ecosystem. Moreover, soot deposited on reflective surfaces like ice and snow reduces reflectivity, absorbing more solar energy, contributing to local temperature increases and accelerating glacier melting.
 </div>
