@@ -9,7 +9,7 @@
 </div>
 
 <!-- Spacer to offset fixed menu -->
-<div style="margin-top:70px;"></div>
+<div style="height: 70px;"></div>
 
 <!-- Main Sections -->
 
