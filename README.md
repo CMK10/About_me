@@ -1,13 +1,13 @@
 <!-- Fixed Navigation Menu -->
 <div style="position:fixed; top:0; left:0; width:100%; background-color:#f8f9fa; border-bottom:1px solid #ccc; z-index:9999; padding:10px 0; text-align:center;">
-  <a href="#about" style="margin: 0 15px; text-decoration:none; color:#000;">Sobre Mim</a>
-  <a href="#skills" style="margin: 0 15px; text-decoration:none; color:#000;">Habilidades Técnicas</a>
-  <a href="#languages" style="margin: 0 15px; text-decoration:none; color:#000;">Idiomas</a>
-  <a href="#education" style="margin: 0 15px; text-decoration:none; color:#000;">Educação</a>
-  <a href="#projects" style="margin: 0 15px; text-decoration:none; color:#000;">Projetos</a>
-  <a href="#experience" style="margin: 0 15px; text-decoration:none; color:#000;">Experiência</a>
-  <a href="#publications" style="margin: 0 15px; text-decoration:none; color:#000;">Publicações</a>
-  <a href="#collaborations" style="margin: 0 15px; text-decoration:none; color:#000;">Colaborações</a>
+  <a href="#about" style="margin: 0 15px; text-decoration:none; color:#000;">About me</a>
+  <a href="#skills" style="margin: 0 15px; text-decoration:none; color:#000;">Skills</a>
+  <a href="#languages" style="margin: 0 15px; text-decoration:none; color:#000;">Languages</a>
+  <a href="#education" style="margin: 0 15px; text-decoration:none; color:#000;">Education</a>
+  <a href="#projects" style="margin: 0 15px; text-decoration:none; color:#000;">Projects</a>
+  <a href="#experience" style="margin: 0 15px; text-decoration:none; color:#000;">Experience</a>
+  <a href="#publications" style="margin: 0 15px; text-decoration:none; color:#000;">Publications</a>
+  <a href="#collaborations" style="margin: 0 15px; text-decoration:none; color:#000;">Collaborations</a>
 </div>
 
 <!-- Spacer to offset fixed menu -->
