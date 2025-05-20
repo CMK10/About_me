@@ -91,11 +91,11 @@ Given that nearly 30% of the EU’s CO<sub>2</sub> emissions in 2019 originated 
 </div>  
 <br>
 <div style="text-align: justify;">
-Fuels derived from lignocellulosic biomass—abundant, non-edible, and cultivable on marginal lands—have unique combustion properties. To understand these, I used the Rapid Compression Machine (RCM) to measure ignition delay times (IDTs) under stoichiometric fuel-air mixtures, simulating conditions inside spark-ignition engines. Shorter IDTs imply higher reactivity.  
+Fuels derived from lignocellulosic biomass, non-edible, and cultivable on marginal lands, have unique combustion properties. To understand these, I used the Rapid Compression Machine (RCM) to measure ignition delay times (IDTs) under stoichiometric fuel-air mixtures, simulating conditions inside spark-ignition engines.   
 </div>  
 <br>
 <div style="text-align: justify;">
-For fuels exhibiting two-stage ignition, I identified the cool flame delay (first-stage IDT) and transitions to the main ignition phase. The presence of the Negative Temperature Coefficient (NTC) behavior was critical, as it relates to knock resistance and octane sensitivity—key parameters for engine performance.  
+Shorter IDTs imply higher reactivity. For fuels exhibiting two-stage ignition, I identified the cool flame delay (first-stage IDT) and transitions to the main ignition phase. The presence of the Negative Temperature Coefficient (NTC) behavior was critical, as it relates to knock resistance and octane sensitivity—key parameters for engine performance.  
 </div>  
 <br>
 <div style="text-align: justify;">
@@ -103,7 +103,7 @@ I varied fuel composition, pressure (14–25 bar), and temperature (665–870 K)
 </div>  
 <br>
 <div style="text-align: justify;">
-The experiments also enabled gas sampling for chemical analysis via GC-MS and GC-TCD/FID, supporting model validation. I combined LLNL’s isooctane model with anisole and prenol sub-mechanisms to simulate ignition chemistry. These mechanisms helped identify promising fuel candidates and evaluate their performance in high-efficiency engines.  
+The experiments also enabled gas sampling for chemical analysis via GC-MS and GC-TCD/FID, supporting model validation. I combined LLNL’s isooctane model with anisole and prenol sub-mechanisms to simulate autoignition chemistry. These mechanisms helped identify promising fuel candidates and evaluate their performance in high-efficiency engines.  
 </div>  
 <br>
 <p align="center">
@@ -145,13 +145,6 @@ This work helped identify anisole, o-cresol, prenol, and cyclopentanone as biofu
 This undergraduate research, funded by CNPq (National Council for Scientific and Technological Development – Brazil), focused on the experimental study of soot formation in laminar flames fueled by hydrocarbon-air mixtures. The project aimed to deepen the understanding of soot generation mechanisms and inform strategies for reducing its environmental impact. Considering soot’s role in urban air pollution and climate change, the research supported efforts toward cleaner and more sustainable combustion technologies. The findings were published as part of my final graduation thesis in chemical engineering.  
 </div>
 <br>
-
-
-
-
-
-
-
 <div style="text-align: justify;">
 Soot formation during hydrocarbon combustion has environmental and health repercussions, releasing fine particles contributing to air pollution. The typical diameter of a soot particle ranges from nanometers to micrometers, presenting extremely small dimensions that facilitate dispersion in the air. These fine particles can penetrate deep into human respiratory pathways, posing a direct threat to lung health. Composed of harmful substances such as volatile organic compounds and polycyclic aromatic hydrocarbons, these particles pose risks not only to human health but also to the ecosystem. Moreover, soot deposited on reflective surfaces like ice and snow reduces reflectivity, absorbing more solar energy, contributing to local temperature increases and accelerating glacier melting.
 </div>
