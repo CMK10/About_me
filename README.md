@@ -95,7 +95,7 @@ Fuels derived from lignocellulosic biomass, non-edible, and cultivable on margin
 </div>  
 <br>
 <div style="text-align: justify;">
-Shorter IDTs imply higher reactivity. For fuels exhibiting two-stage ignition, I identified the cool flame delay (first-stage IDT) and transitions to the main ignition phase. The presence of the Negative Temperature Coefficient (NTC) behavior was critical, as it relates to knock resistance and octane sensitivity—key parameters for engine performance.  
+Shorter IDTs imply higher reactivity. For fuels exhibiting two-stage ignition, I identified the cool flame delay (first-stage IDT) and transitions to the main ignition phase. The presence of the Negative Temperature Coefficient (NTC) behavior was critical, as it relates to knock resistance and octane sensitivity, key parameters for engine performance.  
 </div>  
 <br>
 <div style="text-align: justify;">
