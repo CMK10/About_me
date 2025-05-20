@@ -142,7 +142,7 @@ This work helped identify anisole, o-cresol, prenol, and cyclopentanone as biofu
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
 
 <div style="text-align: justify;">
-This undergraduate research, funded by CNPq (National Council for Scientific and Technological Development – Brazil), focused on the experimental study of soot formation in laminar flames fueled by hydrocarbon-air mixtures. The project aimed to deepen the understanding of soot generation mechanisms and inform strategies for reducing its environmental impact. Considering soot’s role in urban air pollution and climate change, the research supported efforts toward cleaner and more sustainable combustion technologies. The findings were published as part of my final graduation thesis in chemical engineering.  
+This research, funded by CNPq (National Council for Scientific and Technological Development – Brazil), focused on the experimental study of soot formation in laminar flames fueled by hydrocarbon-air mixtures. The project aimed to deepen the understanding of soot generation mechanisms and inform strategies for reducing its environmental impact. Considering soot’s role in urban air pollution and climate change, the research supported efforts toward cleaner and more sustainable combustion technologies. The findings were published as part of my final graduation thesis in chemical engineering.  
 </div>
 <br>
 <div style="text-align: justify;">
