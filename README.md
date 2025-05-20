@@ -113,7 +113,7 @@ The experiments also enabled gas sampling for chemical analysis via GC-MS and GC
 </b></p>
 
 <div style="text-align: justify;">
-Among tested blends, the 50/50 isooctane-prenol mix uniquely lacked NTC behavior, suggesting it as a viable high-octane fuel candidate. It showed long ignition delays at low temperatures and short delays at high temperatures—ideal characteristics for modern spark-ignition engines. Cyclopentanone also showed potential by significantly delaying ignition across all temperatures.  
+Among tested blends, the 50/50 isooctane-prenol mix uniquely lacked NTC behavior, suggesting it as a viable high-octane fuel candidate. It showed long ignition delays at low temperatures and short delays at high temperatures, ideal characteristics for modern spark-ignition engines. Cyclopentanone also showed potential by significantly delaying ignition across all temperatures.  
 </div>
 <br>
 <p align="center">
@@ -123,7 +123,7 @@ Among tested blends, the 50/50 isooctane-prenol mix uniquely lacked NTC behavior
 </b></p>
 
 <div style="text-align: justify;">
-The models performed well overall. The isooctane/anisole model accurately captured both ignition stages, while prenol blends showed some overprediction of reactivity—suggesting room for tuning. However, the lack of NTC and persistent long delays at low temperatures remained consistent with experimental trends, confirming prenol's promise.  
+The models performed well overall. The isooctane/anisole model accurately captured both ignition stages, while prenol blends showed some overprediction of reactivity, suggesting room for tuning. However, the lack of NTC and persistent long delays at low temperatures remained consistent with experimental trends, confirming prenol's promise.  
 </div>
 <br>
 <p align="center">
