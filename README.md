@@ -277,12 +277,13 @@ Overall, the innovative approach to organometallic characterization of Brazilian
 
 <h2 id="experience">Experience</h2>
 
-**Career Break**  
+**Private Tutor**  
 *11/2023 - present*  
-*Dormagen, Germany*  
+*Self-employed, Germany*
 
-- Focused on improving German language skills
-- Family, health, and well-being
+- Provided personalized instruction in chemistry and general science, with an emphasis on clear and accessible explanations of complex topics
+- Designed tailored educational materials and exercises to support students with varied academic needs and cultural backgrounds
+- Fostered intercultural awareness and offered academic guidance to students in lower and middle secondary school levels
 
 **Data Science (Bootcamp)**  
 *07/2023 - 10/2023*  
