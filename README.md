@@ -38,7 +38,7 @@ Let’s connect!
 
 ### Laboratory & Industrial Expertise  
 
-- **Instrumental Analysis & QC**  
+- **Instrumental Analysis & Quality Control**  
   GC-MS, GC-TCD/FID, ICP-MS, viscosity, autoignition testing, laser diagnostics (soot and particle size)
 
 - **Lab Management**  
