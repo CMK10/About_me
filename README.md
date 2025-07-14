@@ -53,14 +53,14 @@ Let’s connect!
 - **Data Handling & Modeling**  
   LabVIEW, OriginLab, statistical methods for lab/process optimization  
 
-- **Global Collaboration & Science Communication**  
+- **International Collaboration & Science Communication**  
   Peer-reviewed publications, reports, presentations  
 
 <h2 id="languages">Languages</h2>
 
-- **Professional Proficiency**: 🇬🇧 English, 🇩🇪 German, 🇫🇷 French  
-- **Native Language**: 🇧🇷 Portuguese  
-- **Working Knowledge**: 🇪🇸 Spanish  
+- **Professional Proficiency**: English, German, French  
+- **Native Language**: Portuguese  
+- **Working Knowledge**: Spanish  
 
 <h2 id="education">Education</h2>
 
@@ -87,7 +87,7 @@ As part of my PhD at the University of Lille (PC2A – UMR 8522), I investigated
 </div>  
 <br>
 <div style="text-align: justify;">
-Given that nearly 30% of the EU’s CO<sub>2</sub> emissions in 2019 originated from transportation, and that large-scale electrification faces technical and economic hurdles—especially in aviation and maritime sectors—biofuels present an immediate path to emissions reduction. My work supported this goal by exploring the ignition behavior of biofuels under realistic engine-like conditions.  
+Given that nearly 30% of the EU’s CO<sub>2</sub> emissions in 2019 originated from transportation, and that large-scale electrification faces technical and economic hurdles, especially in aviation and maritime sectors, biofuels present an immediate path to emissions reduction. My work supported this goal by exploring the ignition behavior of biofuels under realistic engine-like conditions.  
 </div>  
 <br>
 <div style="text-align: justify;">
@@ -99,7 +99,7 @@ Shorter IDTs imply higher reactivity. For fuels exhibiting two-stage ignition, I
 </div>  
 <br>
 <div style="text-align: justify;">
-I varied fuel composition, pressure (14–25 bar), and temperature (665–870 K) to analyze their effects on ignition. Surrogate blends of isooctane and LDC-based fuels were formulated to represent real-world fuel behavior. This allowed me to isolate kinetic effects and compare model predictions.  
+I investigated different fuel compositions, pressures (14–25 bar), and temperatures (665–870 K) to analyze their effects on autoignition. Surrogate blends of isooctane and LDC-based fuels were formulated to represent real-world fuel behavior. This enabled the isolation of kinetic effects and comparison of model predictions.  
 </div>  
 <br>
 <div style="text-align: justify;">
