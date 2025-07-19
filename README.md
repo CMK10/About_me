@@ -60,7 +60,6 @@ Let’s connect!
 
 - **Professional Proficiency**: English, German, French  
 - **Native Language**: Portuguese  
-- **Working Knowledge**: Spanish  
 
 <h2 id="education">Education</h2>
 
