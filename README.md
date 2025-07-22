@@ -412,4 +412,3 @@ Overall, the innovative approach to organometallic characterization of Brazilian
   *Determination of Trace Elements in Crude Oil by Inductively Coupled Plasma Mass Spectrometry (ICP-MS).*
 
 
-  *Determination of Trace Elements in Crude Oil by Inductively Coupled Plasma Mass Spectrometry (ICP-MS).*
