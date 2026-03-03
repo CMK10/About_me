@@ -9,9 +9,5 @@ plugins:
   - jekyll-remote-theme
 
 baseurl: "/About_me"  
-url: 
-
-
-
-"https://carolinakorber.github.io"  
+url: "https://carolinakorber.github.io"  
 
