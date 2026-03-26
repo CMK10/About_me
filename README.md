@@ -73,7 +73,17 @@ Connect on LinkedIn!
 
 <h2 id="projects">Projects</h2> 
 
+<!-- Lista de Projetos com links internos -->
+<ul>
+  <li><a href="#chemical-kinetics">Chemical Kinetics of Biofuel Combustion</a></li>
+  <li><a href="#soot-formation">Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)</a></li>
+  <li><a href="#stabilization-methane">Stabilization of Turbulent Methane Flames</a></li>
+  <li><a href="#industrial-lubricants">Industrial Development of Lubricants and Bioproducts</a></li>
+  <li><a href="#organometallic-brazilian">Organometallic Characterization of Brazilian Oils</a></li>
+</ul>
+
 ### Chemical Kinetics of Biofuel Combustion
+<h3 id="chemical-kinetics">Chemical Kinetics of Biofuel Combustion</h3>
 
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)  
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S1540748920305976?via%3Dihub)  
@@ -137,6 +147,7 @@ This work helped identify anisole, o-cresol, prenol, and cyclopentanone as biofu
 <br>
 
 ### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
+<h3 id="soot-formation">Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)</h3>
 
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
 
@@ -184,6 +195,8 @@ This research project was a crucial experience for deepening my understanding of
 <br>
 
 ### Stabilization of Turbulent Methane Flames
+<h3 id="soot-formation">Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)</h3>
+
 
 [Publication](https://www.researchgate.net/publication323209516_Experimental_Study_of_a_Lean_Premixed_Turbulent_Swirling_Flame_Stabilization)
 
@@ -214,6 +227,8 @@ The experimental protocol described here can also be modified to study other phe
 <br>
 
 ### Industrial Development of Lubricants and Bioproducts
+<h3 id="stabilization-methane">Stabilization of Turbulent Methane Flames</h3>
+
 
 <div style="text-align: justify;">
 During my industrial internship at Petrobras, my primary contribution focused on the development of high-performance lubricants for the automotive sector, as well as for aviation, maritime, and industrial applications. My role encompassed the formulation and in-depth characterization of these lubricants through rheological analyses, aiming to ensure optimal performance under diverse conditions.
@@ -245,6 +260,8 @@ This internship enriched my understanding of the formulation and quality control
 <p align="center"><b>Cenpes Petrobras (Unit of Research Center of Petrobras responsible for R&D and basic engineering).</b></p>
 
 ### Organometallic Characterization of Brazilian Oils
+<h3 id="industrial-lubricants">Industrial Development of Lubricants and Bioproducts</h3>
+
 
 [Publication](https://www.researchgate.net/publication/356287489_Determinacao_elementar_via_ICP-MS_em_fracoes_de_oleo_cru) 
 
