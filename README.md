@@ -63,11 +63,11 @@ Connect on LinkedIn!
 
 <h2 id="education">Education</h2>
 
-**PhD in Energy – Heat Transfer and Combustion (2020)**  
+**PhD: Energy, Heat Transfer and Combustion (2020)**  
 [Université de Lille](https://www.univ-lille.fr)  
 [Experimental and Kinetic Modeling Study on Biofuels from Lignocellulosic Biomass Under Engine Conditions](https://www.theses.fr/25582274X)  
 
-**BSc in Chemical Engineering (2016)**  
+**BSc: Chemical Engineering (2016)**  
 [Pontifical Catholic University of Rio de Janeiro – PUC-Rio](http://www.puc-rio.br/english/)  
 [Experimental Study of Soot Formation in Laminar Hydrocarbon-Air Flames](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)  
 
