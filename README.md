@@ -82,7 +82,6 @@ Connect on LinkedIn!
   <li><a href="#organometallic-brazilian">Organometallic Characterization of Brazilian Oils</a></li>
 </ul>
 
-### Chemical Kinetics of Biofuel Combustion
 <h3 id="chemical-kinetics">Chemical Kinetics of Biofuel Combustion</h3>
 
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0016236122020634?via%3Dihub)  
@@ -146,7 +145,6 @@ This work helped identify anisole, o-cresol, prenol, and cyclopentanone as biofu
 </div>
 <br>
 
-### Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)
 <h3 id="soot-formation">Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)</h3>
 
 [Publication](https://www.researchgate.net/publication/326207094_Estudo_Experimental_da_Formacao_de_Fuligem_em_Chamas_Laminares_de_Hidrocarbonetos_e_Ar)
@@ -194,7 +192,6 @@ This research project was a crucial experience for deepening my understanding of
 </div>
 <br>
 
-### Stabilization of Turbulent Methane Flames
 <h3 id="soot-formation">Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)</h3>
 
 
@@ -226,7 +223,6 @@ The experimental protocol described here can also be modified to study other phe
 </div>
 <br>
 
-### Industrial Development of Lubricants and Bioproducts
 <h3 id="stabilization-methane">Stabilization of Turbulent Methane Flames</h3>
 
 
@@ -259,7 +255,6 @@ This internship enriched my understanding of the formulation and quality control
 </p>
 <p align="center"><b>Cenpes Petrobras (Unit of Research Center of Petrobras responsible for R&D and basic engineering).</b></p>
 
-### Organometallic Characterization of Brazilian Oils
 <h3 id="industrial-lubricants">Industrial Development of Lubricants and Bioproducts</h3>
 
 
