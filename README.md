@@ -42,7 +42,7 @@ Let’s connect!
   GC-MS, GC-TCD/FID, ICP-MS, viscosity, autoignition testing, laser diagnostics (soot formation and particle size)
 
 - **Lab Management**  
-  Sample handling, equipment maintenance, chemical safety and compliance
+  Equipment maintenance, chemical safety, regulatory compliance
 
 - **R&D Focus Areas**  
   Petrochemicals, alternative fuels, lubricants, emissions characterization  
@@ -50,7 +50,7 @@ Let’s connect!
 - **Regulatory Standards & Safety**  
   ISO/TC 28, ASTM D93, SAE J300, custom protocols  
 
-- **Data Handling & Modeling**  
+- **Data Analysis & Modeling**  
   LabVIEW, OriginLab, statistical methods for lab/process optimization  
 
 - **International Collaboration & Science Communication**  
