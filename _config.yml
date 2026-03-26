@@ -1,7 +1,5 @@
-title: Carolina Mergulhão Körber
+title: "<span style='color:#333333'>Carolina Mergulhão Körber</span>"
 logo: /assets/img/headshot_circle.png
-#description: text below image
-# show_downloads: true
 theme: jekyll-theme-minimal
 
 remote_theme: pages-themes/minimal@v0.2.0
@@ -9,5 +7,5 @@ plugins:
   - jekyll-remote-theme
 
 baseurl: "/About_me"  
-url: "https://cmk10.github.io"  
+url: "https://cmk10.github.io"
 
