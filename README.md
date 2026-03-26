@@ -22,7 +22,7 @@ Analytical Chemistry • Data Science • Biofuels • Energy & Combustion
 📧 <carol.mergulhao10@gmail.com>  
 🔬 [www.researchgate.net/profile/Carolina-Mergulhao-Koerber](https://www.researchgate.net/profile/Carolina-Mergulhao-Koerber)
 
-Let’s connect!
+Connect on LinkedIn!
 
 <a href="https://www.linkedin.com/in/carolina-mergulhao-körber/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Connect on LinkedIn" width="40" height="40">
@@ -51,7 +51,7 @@ Let’s connect!
   ISO/TC 28, ASTM D93, SAE J300, custom protocols  
 
 - **Data Analysis & Modeling**  
-  LabVIEW, OriginLab, statistical methods for lab/process optimization  
+  LabVIEW, OriginLab, and statistical methods for laboratory and process optimization  
 
 - **International Collaboration & Science Communication**  
   Peer-reviewed publications, reports, presentations  
