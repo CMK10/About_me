@@ -39,12 +39,12 @@ Connect on LinkedIn!
 ### Laboratory & Industrial Expertise  
 
 - **Instrumental Analysis & Quality Control**  
-  GC-MS, GC-TCD/FID, ICP-MS, viscosity, autoignition testing, laser diagnostics (soot formation and particle size)
+  GC-MS, GC-TCD/FID, viscosity, autoignition testing, laser diagnostics (soot formation and particle size)
 
 - **Lab Management**  
   Equipment maintenance, chemical safety, regulatory compliance
 
-- **R&D Focus Areas**  
+- **R&D Areas**  
   Petrochemicals, alternative fuels, lubricants, emissions characterization  
 
 - **Regulatory Standards & Safety**  
@@ -192,8 +192,7 @@ This research project was a crucial experience for deepening my understanding of
 </div>
 <br>
 
-<h3 id="soot-formation">Soot Formation in Ethylene and Liquefied Petroleum Gas (LPG)</h3>
-
+<h3 id="stabilization-methane">Stabilization of Turbulent Methane Flames</h3>
 
 [Publication](https://www.researchgate.net/publication323209516_Experimental_Study_of_a_Lean_Premixed_Turbulent_Swirling_Flame_Stabilization)
 
@@ -223,8 +222,7 @@ The experimental protocol described here can also be modified to study other phe
 </div>
 <br>
 
-<h3 id="stabilization-methane">Stabilization of Turbulent Methane Flames</h3>
-
+<h3 id="industrial-lubricants">Industrial Development of Lubricants and Bioproducts</h3>
 
 <div style="text-align: justify;">
 During my industrial internship at Petrobras, my primary contribution focused on the development of high-performance lubricants for the automotive sector, as well as for aviation, maritime, and industrial applications. My role encompassed the formulation and in-depth characterization of these lubricants through rheological analyses, aiming to ensure optimal performance under diverse conditions.
@@ -255,8 +253,7 @@ This internship enriched my understanding of the formulation and quality control
 </p>
 <p align="center"><b>Cenpes Petrobras (Unit of Research Center of Petrobras responsible for R&D and basic engineering).</b></p>
 
-<h3 id="industrial-lubricants">Industrial Development of Lubricants and Bioproducts</h3>
-
+<h3 id="organometallic-brazilian">Organometallic Characterization of Brazilian Oils</h3>
 
 [Publication](https://www.researchgate.net/publication/356287489_Determinacao_elementar_via_ICP-MS_em_fracoes_de_oleo_cru) 
 
