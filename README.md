@@ -17,7 +17,7 @@
 
 <h2 id="about">Chemical Engineer | R&D Scientist</h2>
 
-Analytical Chemistry • Data Science • Biofuels • Energy & Combustion
+Analytical Chemistry • Energy & Combustion • Biofuels • Data Science 
 
 📧 <carol.mergulhao10@gmail.com>  
 🔬 [www.researchgate.net/profile/Carolina-Mergulhao-Koerber](https://www.researchgate.net/profile/Carolina-Mergulhao-Koerber)
