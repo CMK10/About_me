@@ -91,7 +91,7 @@ Connect on LinkedIn!
 [Publication](https://pubs.acs.org/doi/10.1021/acs.energyfuels.9b00649)
 
 <div style="text-align: justify;">
-As part of my PhD at the University of Lille (PC2A – UMR 8522), I investigated combustion kinetics of biofuels derived from lignocellulosic biomass (LDC) with a focus on their potential to decarbonize transportation. This project was co-funded by ADEME and the Hauts-de-France region. The research aimed to evaluate the feasibility of incorporating these renewable fuels into the current transport infrastructure by developing kinetic models to assess their combustion behavior, particularly in co-oxidation scenarios with gasoline.  
+As part of my PhD at the University of Lille (PC2A – UMR 8522), I investigated combustion kinetics of biofuels derived from lignocellulosic biomass (LDC) with a focus on their potential to decarbonize transportation. This project was co-funded by ADEME (The French Agency for Ecological Transition) and the Hauts-de-France region. The research aimed to evaluate the feasibility of incorporating these renewable fuels into the current transport infrastructure by developing kinetic models to assess their combustion behavior, particularly in co-oxidation scenarios with gasoline.  
 </div>  
 <br>
 <div style="text-align: justify;">
