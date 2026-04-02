@@ -65,7 +65,7 @@ Connect on LinkedIn!
 
 **PhD: Energy, Heat Transfer and Combustion (2020)**  
 [Université de Lille](https://www.univ-lille.fr)  
-[Experimental and Kinetic Modeling Study of Biofuels from Lignocellulosic Biomass Under Engine Conditions](https://www.theses.fr/25582274X)  
+[Experimental and Kinetic Modeling Study of Biofuels from Lignocellulosic Biomass Under Engine Conditions](https://pepite-depot.univ-lille.fr/LIBRE/EDSMRE/2020/2020LILUR045.pdf)  
 
 **BSc: Chemical Engineering (2016)**  
 [Pontifical Catholic University of Rio de Janeiro – PUC-Rio](http://www.puc-rio.br/english/)  
